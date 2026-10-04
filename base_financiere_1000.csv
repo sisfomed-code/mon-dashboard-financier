@@ -1,0 +1,1001 @@
+﻿ID_Client,Date_Octroi,Agence,Genre,Age,Situation_Matrimoniale,Niveau_Education,Secteur_Activite,Revenu_Mensuel_USD,Anciennete_Emploi_Ans,Type_Produit,Montant_Pret_USD,Duree_Mois,Taux_Interet_Annuel,Mensualite_USD,Score_Credit,Nb_Retards_12m,Taux_Endettement,Garantie,Canal_Acquisition,Delai_Traitement_Jours,Satisfaction_1_5,Statut_Pret
+CLI00001,2025-05-01,Agence Centre,Homme,43,Célibataire,Secondaire,Agriculture,500.0,11.9,Crédit PME,25860.0,36,0.1146,852.27,783.0,0,1.5,Nantissement,Mobile/Digital,11,3.0,En cours
+CLI00002,2023-06-28,Agence Centre,Femme,44,Célibataire,Secondaire,Éducation/Santé,1150.0,3.9,Crédit immobilier,61140.0,180,0.0644,530.58,655.0,0,0.461,Hypothèque,Agent commercial,13,3.0,En cours
+CLI00003,2023-01-27,Agence Ouest,Homme,47,Marié(e),Primaire,Fonction publique,630.0,8.4,Crédit agricole,2890.0,12,0.1382,259.24,541.0,0,0.411,Caution personnelle,Agence,6,4.0,Remboursé
+CLI00004,2024-10-01,Agence Centre,Femme,36,Marié(e),Secondaire,Éducation/Santé,680.0,10.1,Microcrédit,1120.0,12,0.2401,105.91,540.0,3,0.156,Hypothèque,Agence,13,4.0,Remboursé
+CLI00005,2024-01-01,Agence Ouest,Femme,38,Marié(e),Secondaire,Services,700.0,6.3,Crédit immobilier,38530.0,120,0.0884,484.75,672.0,1,0.692,Hypothèque,Agence,13,4.0,Défaut
+CLI00006,2024-04-12,Agence Nord,Femme,57,Célibataire,Supérieur,Agriculture,1410.0,2.2,Crédit PME,12610.0,24,0.1115,588.6,687.0,0,0.417,Hypothèque,Agence,7,3.0,Remboursé
+CLI00007,2023-03-21,Agence Centre,Homme,41,Célibataire,Supérieur,Industrie,1130.0,2.6,Crédit agricole,5950.0,24,0.1771,296.22,530.0,1,0.262,Aucune,Agence,4,3.0,Remboursé
+CLI00008,2024-01-06,Agence Centre,Femme,47,Marié(e),Supérieur,Industrie,1070.0,4.0,Crédit agricole,2430.0,12,0.1332,217.41,608.0,1,0.203,Caution personnelle,Agent commercial,9,4.0,Remboursé
+CLI00009,2024-10-05,Agence Nord,Homme,36,Marié(e),Secondaire,Agriculture,840.0,0.9,Crédit agricole,9630.0,6,0.1386,1670.5,663.0,0,1.5,Caution personnelle,Agence,20,2.0,Défaut
+CLI00010,2023-12-21,Agence Centre,Homme,24,Célibataire,Secondaire,Services,790.0,15.6,Microcrédit,1430.0,18,0.2152,93.66,716.0,0,0.119,Hypothèque,Mobile/Digital,3,,Remboursé
+CLI00011,2025-04-11,Agence Nord,Homme,44,Marié(e),Secondaire,Commerce,580.0,12.8,Microcrédit,1570.0,6,0.2221,278.88,722.0,0,0.481,Caution personnelle,Mobile/Digital,1,5.0,Remboursé
+CLI00012,2025-03-01,Agence Est,Homme,44,Célibataire,Supérieur,Éducation/Santé,2090.0,10.6,Crédit immobilier,79040.0,180,0.0922,812.05,635.0,0,0.389,Hypothèque,Mobile/Digital,9,3.0,En cours
+CLI00013,2024-12-05,Agence Nord,Femme,48,Veuf/Veuve,Supérieur,Commerce,3050.0,6.3,Microcrédit,1510.0,6,0.2595,271.05,448.0,2,0.089,Caution personnelle,Agence,9,4.0,Remboursé
+CLI00014,2025-06-24,Agence Sud,Homme,30,Marié(e),Supérieur,Éducation/Santé,1070.0,24.4,Crédit agricole,2220.0,12,0.1212,197.37,603.0,0,0.184,Hypothèque,Mobile/Digital,3,4.0,Remboursé
+CLI00015,2024-12-22,Agence Ouest,Femme,32,Célibataire,Supérieur,Services,1350.0,14.8,Microcrédit,680.0,12,0.2253,63.82,647.0,1,0.047,Nantissement,Agence,5,3.0,Remboursé
+CLI00016,2023-06-27,Agence Centre,Homme,20,Marié(e),Secondaire,Industrie,370.0,11.7,Crédit consommation,5460.0,24,0.1968,277.04,592.0,1,0.749,Hypothèque,Mobile/Digital,6,4.0,Remboursé
+CLI00017,2025-05-08,Agence Sud,Femme,45,Célibataire,Secondaire,Services,1140.0,14.6,Crédit immobilier,45910.0,240,0.0745,368.45,679.0,1,0.323,Hypothèque,Mobile/Digital,19,3.0,En cours
+CLI00018,2024-10-14,Agence Ouest,Femme,47,Célibataire,Secondaire,Commerce,490.0,10.0,Crédit agricole,8510.0,6,0.1399,1476.77,625.0,2,1.5,Aucune,Mobile/Digital,3,4.0,Défaut
+CLI00019,2023-04-09,Agence Sud,Homme,32,Célibataire,Supérieur,Industrie,1480.0,11.9,Crédit consommation,1040.0,12,0.1991,96.3,529.0,2,0.065,Caution personnelle,Recommandation,2,4.0,Défaut
+CLI00020,2023-10-26,Agence Sud,Homme,35,Marié(e),Supérieur,Industrie,1830.0,9.7,Crédit agricole,2350.0,24,0.165,115.63,453.0,1,0.063,Aucune,Recommandation,1,4.0,Défaut
+CLI00021,2023-06-15,Agence Sud,Femme,37,Marié(e),Primaire,Commerce,590.0,3.7,Crédit PME,34070.0,24,0.1467,1646.6,555.0,0,1.5,Hypothèque,Agence,6,3.0,Défaut
+CLI00022,2025-08-24,Agence Centre,Femme,55,Célibataire,Supérieur,Fonction publique,970.0,6.8,Crédit agricole,6300.0,6,0.1612,1099.92,565.0,3,1.134,Aucune,Mobile/Digital,1,4.0,Défaut
+CLI00023,2024-12-28,Agence Est,Femme,48,Marié(e),Primaire,Éducation/Santé,340.0,4.1,Crédit consommation,6060.0,24,0.155,295.27,674.0,0,0.868,Nantissement,Mobile/Digital,1,4.0,En cours
+CLI00024,2025-07-08,Agence Ouest,Femme,50,Marié(e),Secondaire,Services,720.0,15.3,Crédit consommation,3280.0,12,0.1654,298.44,684.0,0,0.414,Hypothèque,Mobile/Digital,7,4.0,Remboursé
+CLI00025,2023-10-10,Agence Ouest,Femme,38,Célibataire,Supérieur,Fonction publique,830.0,6.3,Crédit consommation,2280.0,12,0.1534,206.15,720.0,0,0.248,Aucune,Agence,12,4.0,Remboursé
+CLI00026,2024-09-27,Agence Sud,Femme,35,Veuf/Veuve,Supérieur,Commerce,1160.0,6.2,Crédit PME,22200.0,48,0.1444,611.56,554.0,0,0.527,Aucune,Mobile/Digital,7,4.0,En cours
+CLI00027,2024-08-27,Agence Nord,Femme,50,Veuf/Veuve,Supérieur,Agriculture,1800.0,6.5,Microcrédit,330.0,18,0.2212,21.71,721.0,0,0.012,Aucune,Agent commercial,11,2.0,Remboursé
+CLI00028,2025-01-22,Agence Sud,Femme,22,Célibataire,Primaire,Transport,630.0,5.8,Crédit consommation,7880.0,12,0.1447,709.27,631.0,2,1.126,Aucune,Recommandation,5,4.0,Remboursé
+CLI00029,2023-04-29,Agence Ouest,Femme,44,Divorcé(e),Supérieur,Agriculture,940.0,5.5,Crédit agricole,1620.0,12,0.1562,146.69,542.0,0,0.156,Caution personnelle,Agence,4,3.0,Remboursé
+CLI00030,2024-05-30,Agence Ouest,Homme,26,Célibataire,Secondaire,Services,570.0,3.2,Crédit consommation,7160.0,12,0.1677,652.24,702.0,0,1.144,Caution personnelle,Agence,5,4.0,Remboursé
+CLI00031,2024-10-06,Agence Centre,Homme,47,Célibataire,Secondaire,Commerce,600.0,2.3,Crédit consommation,1840.0,36,0.1649,65.13,707.0,0,0.109,Aucune,Agence,8,4.0,En cours
+CLI00032,2025-04-05,Agence Ouest,Homme,44,Marié(e),Supérieur,Transport,2310.0,5.0,Crédit consommation,2490.0,24,0.1495,120.67,741.0,0,0.052,Caution personnelle,Agence,4,5.0,En cours
+CLI00033,2024-10-18,Agence Est,Homme,30,Célibataire,Primaire,Services,350.0,2.7,Microcrédit,1470.0,6,0.2554,263.57,553.0,2,0.753,Aucune,Recommandation,7,5.0,Défaut
+CLI00034,2024-03-24,Agence Ouest,Femme,41,Marié(e),Primaire,Commerce,460.0,4.4,Microcrédit,1320.0,18,0.2635,89.57,533.0,0,0.195,Caution personnelle,Mobile/Digital,1,3.0,Défaut
+CLI00035,2024-04-05,Agence Centre,Homme,28,Marié(e),Secondaire,Industrie,1160.0,0.7,Crédit agricole,9580.0,12,0.1108,847.05,734.0,0,0.73,Caution personnelle,Agence,7,3.0,Remboursé
+CLI00036,2023-12-05,Agence Ouest,Homme,29,Célibataire,Supérieur,Éducation/Santé,1870.0,6.3,Crédit consommation,4460.0,36,0.1982,165.34,550.0,0,0.088,Hypothèque,Agence,2,4.0,Défaut
+CLI00037,2023-06-07,Agence Est,Homme,35,Célibataire,Supérieur,Commerce,1880.0,6.9,Microcrédit,830.0,12,0.2267,77.95,640.0,0,0.041,Hypothèque,Agence,1,5.0,Remboursé
+CLI00038,2023-10-05,Agence Centre,Femme,31,Marié(e),Supérieur,Commerce,2260.0,11.4,Microcrédit,2770.0,18,0.2073,180.37,780.0,0,0.08,Nantissement,Recommandation,2,5.0,Remboursé
+CLI00039,2023-05-27,Agence Sud,Homme,49,Veuf/Veuve,Supérieur,Commerce,800.0,5.0,Crédit PME,31510.0,60,0.1306,717.92,593.0,0,0.897,Caution personnelle,Mobile/Digital,6,4.0,Défaut
+CLI00040,2023-08-15,Agence Centre,Homme,60,Célibataire,Supérieur,Agriculture,1660.0,7.9,Crédit consommation,5660.0,36,0.1802,204.68,605.0,1,0.123,Aucune,Agence,4,5.0,Remboursé
+CLI00041,2025-05-03,Agence Est,Femme,39,Marié(e),Supérieur,Fonction publique,1580.0,1.8,Microcrédit,420.0,12,0.2131,39.17,624.0,4,0.025,Caution personnelle,Mobile/Digital,1,5.0,Remboursé
+CLI00042,2024-06-09,Agence Sud,Homme,39,Célibataire,Secondaire,Fonction publique,630.0,8.1,Crédit PME,10170.0,48,0.1092,262.45,681.0,0,0.417,Caution personnelle,Agence,5,5.0,En cours
+CLI00043,2023-04-02,Agence Sud,Femme,46,Marié(e),Supérieur,Commerce,2110.0,0.5,Crédit PME,36080.0,48,0.1081,929.18,752.0,0,0.44,Hypothèque,Recommandation,14,3.0,En cours
+CLI00044,2024-03-06,Agence Ouest,Femme,17,Célibataire,Supérieur,Éducation/Santé,2270.0,9.8,Crédit agricole,710.0,12,0.1736,64.88,580.0,2,0.029,Caution personnelle,Mobile/Digital,4,3.0,Remboursé
+CLI00045,2023-09-28,Agence Est,Homme,43,Marié(e),Primaire,Services,360.0,10.1,Crédit consommation,2920.0,36,0.1718,104.37,633.0,1,0.29,Aucune,Agent commercial,5,4.0,Remboursé
+CLI00046,2024-10-25,Agence Centre,Homme,20,Marié(e),Supérieur,Éducation/Santé,880.0,3.1,Crédit PME,15580.0,24,0.1316,741.87,687.0,0,0.843,Caution personnelle,Mobile/Digital,7,4.0,En cours
+CLI00047,2025-04-10,Agence Est,Femme,32,Marié(e),Secondaire,Éducation/Santé,300.0,3.4,Microcrédit,2910.0,6,0.2225,516.96,692.0,0,1.5,Caution personnelle,Agence,11,3.0,Remboursé
+CLI00048,2023-01-13,Agence Sud,Femme,23,Célibataire,Primaire,Agriculture,900.0,2.7,Crédit PME,11440.0,24,0.126,541.73,657.0,0,0.602,Aucune,Agence,10,3.0,Remboursé
+CLI00049,2024-04-10,Agence Centre,Femme,20,Célibataire,Secondaire,Services,650.0,7.5,Crédit agricole,3450.0,12,0.1473,310.95,616.0,0,0.478,Caution personnelle,Recommandation,6,5.0,Remboursé
+CLI00050,2024-03-23,Agence Nord,Femme,48,Marié(e),Primaire,Commerce,490.0,3.0,Microcrédit,2190.0,12,0.205,203.39,711.0,0,0.415,Caution personnelle,Agence,1,5.0,Remboursé
+CLI00051,2025-09-17,Agence Sud,Homme,36,Célibataire,Secondaire,Éducation/Santé,800.0,2.2,Crédit agricole,2760.0,24,0.1135,129.09,648.0,0,0.161,Aucune,Mobile/Digital,10,4.0,En cours
+CLI00052,2024-01-01,Agence Ouest,Femme,55,Marié(e),Primaire,Transport,760.0,3.6,Crédit consommation,2650.0,36,0.1969,98.07,585.0,1,0.129,Aucune,Mobile/Digital,1,4.0,En cours
+CLI00053,2023-06-15,Agence Ouest,Homme,54,Marié(e),Supérieur,Commerce,900.0,4.2,Microcrédit,2930.0,18,0.2228,192.98,609.0,1,0.214,Aucune,Agence,6,3.0,Remboursé
+CLI00054,2023-07-15,Agence Centre,Homme,38,Célibataire,Secondaire,Transport,730.0,12.1,Crédit PME,30110.0,60,0.1567,726.95,566.0,1,0.996,Aucune,Agence,11,3.0,En cours
+CLI00055,2024-04-22,Agence Nord,Homme,35,Célibataire,Secondaire,Agriculture,590.0,2.1,Microcrédit,590.0,12,0.2479,56.02,521.0,1,0.095,Aucune,Agent commercial,4,4.0,Défaut
+CLI00056,2024-08-17,Agence Ouest,Femme,31,Veuf/Veuve,Supérieur,Fonction publique,1250.0,4.9,Crédit PME,31440.0,60,0.1341,721.97,587.0,0,0.578,Hypothèque,Mobile/Digital,5,4.0,En cours
+CLI00057,2023-11-23,Agence Sud,Femme,20,Marié(e),Secondaire,Industrie,540.0,10.6,Microcrédit,480.0,18,0.2193,31.53,626.0,1,0.058,Hypothèque,Mobile/Digital,3,5.0,Remboursé
+CLI00058,2024-03-11,Agence Ouest,Femme,34,Veuf/Veuve,Secondaire,Commerce,540.0,3.1,Crédit agricole,1390.0,12,0.1183,123.39,690.0,0,0.228,Caution personnelle,Agent commercial,17,3.0,Remboursé
+CLI00059,2024-10-25,Agence Sud,Femme,36,Marié(e),Primaire,Services,480.0,11.3,Crédit immobilier,64550.0,180,0.0953,675.22,542.0,2,1.407,Hypothèque,Recommandation,11,4.0,En cours
+CLI00060,2023-10-27,Agence Centre,Femme,32,Marié(e),Supérieur,Fonction publique,1560.0,7.6,Crédit agricole,4400.0,12,0.1228,391.51,750.0,0,0.251,Caution personnelle,Agence,6,3.0,Remboursé
+CLI00061,2025-08-22,Agence Sud,Homme,29,Célibataire,Supérieur,Éducation/Santé,970.0,2.8,Crédit PME,39130.0,24,0.182,1957.31,399.0,4,1.5,Aucune,Agent commercial,6,4.0,Défaut
+CLI00062,2023-07-29,Agence Sud,Homme,38,Marié(e),Primaire,Fonction publique,420.0,7.6,Crédit agricole,6840.0,12,0.1408,614.4,567.0,0,1.463,Aucune,Recommandation,7,4.0,Défaut
+CLI00063,2025-07-24,Agence Ouest,Femme,35,Célibataire,Supérieur,Éducation/Santé,1020.0,2.6,Microcrédit,720.0,6,0.2413,128.59,641.0,0,0.126,Caution personnelle,Recommandation,9,3.0,Défaut
+CLI00064,2025-05-24,Agence Nord,Femme,40,Marié(e),Secondaire,Commerce,1020.0,4.4,Microcrédit,1450.0,6,0.2092,256.62,730.0,0,0.252,Caution personnelle,Mobile/Digital,5,4.0,Remboursé
+CLI00065,2025-08-14,Agence Centre,Femme,29,Veuf/Veuve,Secondaire,Agriculture,1050.0,8.4,Microcrédit,2020.0,18,0.2475,135.48,536.0,3,0.129,Aucune,Agent commercial,1,4.0,En cours
+CLI00066,2025-03-08,Agence Est,Homme,58,Célibataire,Primaire,Fonction publique,660.0,7.5,Crédit PME,25340.0,48,0.1075,651.85,678.0,0,0.988,Hypothèque,Agence,8,5.0,En cours
+CLI00067,2024-06-12,Agence Nord,Femme,44,Marié(e),Supérieur,Fonction publique,1350.0,5.7,Microcrédit,2660.0,12,0.193,245.52,842.0,0,0.182,Caution personnelle,Mobile/Digital,1,5.0,Remboursé
+CLI00068,2024-08-29,Agence Sud,Femme,37,Célibataire,Supérieur,Services,1210.0,3.7,Crédit consommation,6930.0,12,0.172,632.71,662.0,0,0.523,Aucune,Agence,2,4.0,Remboursé
+CLI00069,2023-07-26,Agence Ouest,Homme,31,Marié(e),Secondaire,Services,790.0,8.2,Crédit PME,27790.0,60,0.149,659.66,577.0,0,0.835,Caution personnelle,Recommandation,11,3.0,En cours
+CLI00070,2023-12-12,Agence Sud,Femme,29,Célibataire,Supérieur,Commerce,1240.0,1.6,Microcrédit,1490.0,18,0.216,97.65,614.0,0,0.079,Caution personnelle,Agent commercial,8,5.0,Remboursé
+CLI00071,2024-04-08,Agence Sud,Homme,47,Célibataire,Supérieur,Fonction publique,1490.0,7.4,Crédit consommation,3380.0,24,0.1706,167.21,670.0,1,0.112,Aucune,Agence,5,4.0,Remboursé
+CLI00072,2025-08-04,Agence Ouest,Femme,35,Marié(e),Supérieur,Commerce,1240.0,16.8,Crédit PME,18480.0,24,0.1668,910.85,,2,0.735,Aucune,Mobile/Digital,7,4.0,Défaut
+CLI00073,2025-03-05,Agence Est,Homme,39,Marié(e),Secondaire,Industrie,520.0,7.1,Crédit PME,37140.0,24,0.1384,1780.39,583.0,0,1.5,Caution personnelle,Agence,7,4.0,En cours
+CLI00074,2024-07-17,Agence Ouest,Femme,43,Marié(e),Secondaire,Fonction publique,870.0,2.7,Microcrédit,720.0,12,0.2424,68.17,624.0,0,0.078,Caution personnelle,Agent commercial,7,5.0,Remboursé
+CLI00075,2024-08-18,Agence Sud,Femme,33,Marié(e),Secondaire,Services,1070.0,13.8,Crédit PME,25950.0,24,0.126,1228.84,576.0,2,1.148,Caution personnelle,Recommandation,8,3.0,Défaut
+CLI00076,2024-03-08,Agence Sud,Homme,41,Célibataire,Secondaire,Services,1000.0,5.3,Crédit consommation,3670.0,24,0.1574,179.24,675.0,0,0.179,Hypothèque,Mobile/Digital,1,5.0,Remboursé
+CLI00077,2024-02-24,Agence Centre,Femme,20,Célibataire,Secondaire,Commerce,520.0,2.1,Crédit immobilier,67260.0,240,0.0799,562.17,691.0,0,1.081,Hypothèque,Mobile/Digital,15,4.0,En cours
+CLI00078,2025-06-19,Agence Centre,Homme,29,Marié(e),Primaire,Fonction publique,710.0,2.1,Crédit PME,9940.0,36,0.1319,335.83,699.0,0,0.473,Aucune,Mobile/Digital,3,4.0,En cours
+CLI00079,2023-01-05,Agence Sud,Homme,20,Marié(e),Secondaire,Fonction publique,440.0,4.6,Crédit immobilier,87230.0,240,0.0562,605.97,794.0,1,1.377,Hypothèque,Recommandation,11,4.0,En cours
+CLI00080,2023-11-16,Agence Centre,Femme,35,Marié(e),Supérieur,Services,1180.0,8.4,Microcrédit,2740.0,18,0.2099,178.76,680.0,0,0.151,Aucune,Agence,5,4.0,Remboursé
+CLI00081,2024-02-13,Agence Centre,Homme,35,Marié(e),Supérieur,Services,1550.0,4.4,Crédit PME,17120.0,60,0.1146,376.17,633.0,0,0.243,Caution personnelle,Mobile/Digital,5,3.0,Défaut
+CLI00082,2024-11-26,Agence Est,Homme,56,Veuf/Veuve,Secondaire,Industrie,810.0,8.0,Microcrédit,880.0,18,0.2305,58.29,598.0,0,0.072,Aucune,Recommandation,6,4.0,Remboursé
+CLI00083,2024-02-16,Agence Sud,Femme,31,Célibataire,Secondaire,Commerce,,9.8,Crédit immobilier,29880.0,120,0.0938,384.68,636.0,0,0.534,Hypothèque,Agence,11,4.0,En cours
+CLI00084,2023-11-10,Agence Centre,Homme,40,Marié(e),Supérieur,Commerce,1260.0,2.5,Microcrédit,2550.0,6,0.247,456.14,595.0,0,0.362,Nantissement,Mobile/Digital,4,4.0,Remboursé
+CLI00085,2023-03-20,Agence Centre,Femme,43,Célibataire,Secondaire,Commerce,700.0,4.0,Crédit PME,10210.0,60,0.1075,220.72,718.0,0,0.315,Caution personnelle,Recommandation,16,2.0,En cours
+CLI00086,2023-09-19,Agence Sud,Femme,53,Marié(e),Secondaire,Fonction publique,1140.0,4.2,Crédit agricole,3160.0,12,0.0883,276.1,829.0,0,0.242,Hypothèque,Agence,6,3.0,Remboursé
+CLI00087,2023-04-16,Agence Nord,Femme,43,Marié(e),Secondaire,Fonction publique,1170.0,3.4,Microcrédit,1820.0,6,0.2529,326.1,627.0,1,0.279,Aucune,Agent commercial,10,2.0,Défaut
+CLI00088,2024-12-01,Agence Sud,Homme,46,Célibataire,Supérieur,Services,1560.0,12.8,Microcrédit,2440.0,18,0.217,160.02,736.0,0,0.103,Aucune,Agence,2,4.0,Remboursé
+CLI00089,2024-03-03,Agence Centre,Homme,57,Marié(e),Supérieur,Commerce,1050.0,3.2,Crédit immobilier,75580.0,180,0.0819,730.6,663.0,1,0.696,Hypothèque,Agence,13,3.0,Défaut
+CLI00090,2023-08-16,Agence Ouest,Homme,22,Marié(e),Supérieur,Fonction publique,1870.0,5.7,Microcrédit,2300.0,6,0.2418,410.82,567.0,2,0.22,Caution personnelle,Agence,3,4.0,Remboursé
+CLI00091,2024-06-24,Agence Centre,Homme,33,Célibataire,Supérieur,Industrie,2480.0,21.5,Crédit consommation,5190.0,36,0.1568,181.65,737.0,0,0.073,Caution personnelle,Recommandation,7,4.0,En cours
+CLI00092,2024-05-08,Agence Nord,Homme,35,Marié(e),Secondaire,Industrie,1030.0,3.1,Crédit consommation,3480.0,24,0.1555,169.64,653.0,1,0.165,Nantissement,Mobile/Digital,6,4.0,Remboursé
+CLI00093,2024-04-17,Agence Nord,Femme,38,Marié(e),Primaire,Fonction publique,360.0,5.0,Microcrédit,1730.0,18,0.228,114.38,624.0,0,0.318,Hypothèque,Agence,8,2.0,Remboursé
+CLI00094,2024-08-03,Agence Sud,Homme,32,Célibataire,Supérieur,Industrie,1310.0,6.9,Crédit agricole,6640.0,6,0.1394,1152.09,611.0,0,0.879,Aucune,Mobile/Digital,1,5.0,Défaut
+CLI00095,2024-09-18,Agence Ouest,Femme,49,Célibataire,Supérieur,Commerce,2420.0,8.0,Crédit immobilier,27290.0,180,0.0939,283.16,538.0,1,0.117,Hypothèque,Recommandation,12,3.0,En cours
+CLI00096,2023-07-08,Agence Centre,Femme,32,Divorcé(e),Supérieur,Agriculture,1670.0,1.8,Crédit PME,33910.0,48,0.1128,881.04,655.0,0,0.528,Nantissement,Mobile/Digital,3,3.0,En cours
+CLI00097,2023-06-05,Agence Centre,Homme,32,Marié(e),Secondaire,Agriculture,560.0,8.0,Microcrédit,1960.0,18,0.2118,128.05,706.0,0,0.229,Nantissement,Recommandation,6,3.0,Remboursé
+CLI00098,2025-01-01,Agence Centre,Homme,43,Divorcé(e),Supérieur,Transport,2340.0,2.1,Crédit agricole,1710.0,24,0.1402,82.12,651.0,0,0.035,Hypothèque,Mobile/Digital,1,4.0,En cours
+CLI00099,2025-08-30,Agence Est,Femme,31,Marié(e),Supérieur,Commerce,1260.0,7.4,Crédit consommation,6690.0,24,0.1809,334.28,541.0,2,0.265,Hypothèque,Mobile/Digital,3,3.0,Défaut
+CLI00100,2024-07-02,Agence Nord,Femme,28,Célibataire,Supérieur,Industrie,2740.0,3.4,Crédit consommation,4770.0,36,0.1902,174.9,532.0,3,0.064,Aucune,Agence,6,4.0,Défaut
+CLI00101,2024-03-26,Agence Ouest,Homme,26,Marié(e),Secondaire,Commerce,1900.0,16.9,Crédit immobilier,58540.0,240,0.0511,389.9,850.0,0,0.205,Hypothèque,Agence,12,4.0,En cours
+CLI00102,2024-09-13,Agence Centre,Homme,37,Veuf/Veuve,Secondaire,Agriculture,1400.0,2.2,Crédit consommation,920.0,36,0.1828,33.39,613.0,1,0.024,Caution personnelle,Agent commercial,6,4.0,En cours
+CLI00103,2023-02-04,Agence Sud,Homme,49,Marié(e),Supérieur,Services,2010.0,8.7,Crédit consommation,3880.0,12,0.1771,355.18,619.0,1,0.177,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00104,2024-01-08,Agence Est,Homme,46,Marié(e),Primaire,Services,470.0,4.7,Crédit agricole,3960.0,24,0.1271,187.73,732.0,0,0.399,Aucune,Agence,12,3.0,Remboursé
+CLI00105,2023-12-25,Agence Sud,Femme,43,Célibataire,Secondaire,Éducation/Santé,500.0,4.8,Microcrédit,440.0,18,0.2288,29.11,657.0,1,0.058,Aucune,Agence,7,4.0,Remboursé
+CLI00106,2024-02-25,Agence Nord,Femme,40,Célibataire,Secondaire,Commerce,,9.8,Microcrédit,600.0,18,0.2176,39.37,694.0,0,0.062,Hypothèque,Agent commercial,13,4.0,Remboursé
+CLI00107,2025-01-13,Agence Est,Homme,33,Célibataire,Primaire,Industrie,310.0,2.1,Crédit immobilier,83530.0,180,0.1079,938.41,527.0,0,1.5,Hypothèque,Mobile/Digital,8,4.0,Défaut
+CLI00108,2024-05-09,Agence Sud,Homme,38,Divorcé(e),Secondaire,Éducation/Santé,670.0,18.0,Microcrédit,1440.0,6,0.2082,254.78,676.0,1,0.38,Caution personnelle,Mobile/Digital,2,4.0,Remboursé
+CLI00109,2025-05-05,Agence Ouest,Femme,26,Célibataire,Supérieur,Fonction publique,1710.0,17.4,Microcrédit,1290.0,12,0.2137,120.35,745.0,0,0.07,Caution personnelle,Mobile/Digital,10,4.0,Remboursé
+CLI00110,2024-04-14,Agence Centre,Femme,40,Veuf/Veuve,Supérieur,Agriculture,1260.0,10.9,Crédit consommation,5650.0,24,0.1435,272.21,734.0,0,0.216,Nantissement,Mobile/Digital,2,5.0,Remboursé
+CLI00111,2023-02-03,Agence Sud,Homme,48,Marié(e),Secondaire,Fonction publique,1100.0,3.2,Microcrédit,2430.0,18,0.244,162.56,507.0,0,0.148,Hypothèque,Mobile/Digital,2,4.0,Défaut
+CLI00112,2024-11-06,Agence Sud,Femme,22,Marié(e),Supérieur,Fonction publique,1150.0,12.4,Crédit PME,19640.0,60,0.1148,431.74,719.0,0,0.375,Caution personnelle,Recommandation,6,5.0,En cours
+CLI00113,2025-03-09,Agence Ouest,Homme,52,Marié(e),Secondaire,Agriculture,11520.0,5.7,Crédit agricole,9620.0,12,0.1354,861.67,651.0,1,0.898,Aucune,Mobile/Digital,4,4.0,Remboursé
+CLI00114,2024-07-31,Agence Centre,Femme,20,Célibataire,Primaire,Agriculture,680.0,1.7,Microcrédit,650.0,12,0.2371,61.37,691.0,0,0.09,Caution personnelle,Agence,12,3.0,Remboursé
+CLI00115,2025-07-26,Agence Est,Homme,31,Marié(e),Secondaire,Industrie,630.0,11.1,Crédit consommation,4000.0,12,0.16,362.92,669.0,0,0.576,Hypothèque,Mobile/Digital,4,5.0,Remboursé
+CLI00116,2024-02-21,Agence Est,Femme,28,Célibataire,Primaire,Fonction publique,430.0,18.6,Crédit agricole,8920.0,6,0.138,1547.08,687.0,0,1.5,Caution personnelle,Agence,7,3.0,Défaut
+CLI00117,2025-03-08,Agence Ouest,Homme,31,Marié(e),Secondaire,Agriculture,570.0,6.0,Crédit agricole,5930.0,24,0.1292,281.7,728.0,0,0.494,Caution personnelle,Agent commercial,2,4.0,En cours
+CLI00118,2023-01-02,Agence Sud,Homme,35,Divorcé(e),Secondaire,Transport,620.0,7.1,Microcrédit,2220.0,6,0.2108,393.08,689.0,0,0.634,Caution personnelle,Recommandation,10,3.0,Défaut
+CLI00119,2023-02-08,Agence Nord,Homme,51,Marié(e),Supérieur,Services,1620.0,3.6,Crédit PME,6660.0,24,0.1575,325.3,537.0,1,0.201,Aucune,Mobile/Digital,5,4.0,Remboursé
+CLI00120,2025-03-05,Agence Est,Femme,28,Marié(e),Primaire,Services,480.0,10.9,Crédit agricole,9100.0,24,0.1077,423.16,744.0,0,0.882,Caution personnelle,Agence,9,4.0,En cours
+CLI00121,2025-05-23,Agence Centre,Homme,29,Marié(e),Primaire,Industrie,600.0,5.6,Crédit PME,5650.0,60,0.1189,125.37,665.0,0,0.209,Aucune,Recommandation,5,4.0,En cours
+CLI00122,2024-06-03,Agence Centre,Homme,31,Célibataire,Supérieur,Services,1160.0,8.5,Crédit agricole,7900.0,6,0.1626,1379.81,488.0,2,1.189,Caution personnelle,Agence,2,3.0,Défaut
+CLI00123,2025-01-22,Agence Est,Homme,33,Célibataire,Secondaire,Commerce,860.0,1.6,Crédit agricole,2860.0,24,0.1298,135.94,688.0,0,0.158,Aucune,Agence,6,4.0,En cours
+CLI00124,2023-11-23,Agence Est,Femme,32,Célibataire,Primaire,Transport,570.0,3.9,Crédit agricole,3540.0,6,0.0971,606.82,764.0,0,1.065,Hypothèque,Recommandation,8,,Remboursé
+CLI00125,2024-12-28,Agence Est,Homme,25,Marié(e),Primaire,Commerce,430.0,5.6,Crédit agricole,3230.0,12,0.1533,292.04,656.0,1,0.679,Nantissement,Recommandation,9,3.0,Défaut
+CLI00126,2024-05-14,Agence Nord,Homme,41,Marié(e),Supérieur,Industrie,1640.0,2.1,Crédit immobilier,18080.0,180,0.0991,193.29,609.0,0,0.118,Hypothèque,Agent commercial,18,,En cours
+CLI00127,2023-10-31,Agence Est,Homme,37,Marié(e),Secondaire,Éducation/Santé,470.0,1.4,Crédit consommation,6350.0,36,0.143,217.95,657.0,0,0.464,Caution personnelle,Agent commercial,4,4.0,En cours
+CLI00128,2023-04-04,Agence Est,Femme,48,Marié(e),Primaire,Commerce,320.0,2.9,Microcrédit,640.0,18,0.2343,42.51,639.0,1,0.133,Nantissement,Mobile/Digital,4,4.0,Remboursé
+CLI00129,2023-06-24,Agence Centre,Homme,51,Célibataire,Supérieur,Agriculture,2250.0,5.1,Crédit consommation,4450.0,36,0.1837,161.71,630.0,0,0.072,Caution personnelle,Mobile/Digital,4,,Remboursé
+CLI00130,2025-06-23,Agence Est,Femme,23,Célibataire,Supérieur,Éducation/Santé,810.0,2.6,Crédit consommation,7630.0,12,0.132,682.21,810.0,0,0.842,Aucune,Agence,3,4.0,Remboursé
+CLI00131,2024-03-19,Agence Ouest,Femme,54,Marié(e),Secondaire,Commerce,420.0,3.4,Microcrédit,1840.0,12,0.2331,173.38,613.0,1,0.413,Caution personnelle,Agent commercial,5,5.0,Remboursé
+CLI00132,2025-09-16,Agence Nord,Homme,43,Marié(e),Primaire,Services,470.0,4.4,Crédit immobilier,46010.0,120,0.05,488.01,843.0,0,1.038,Hypothèque,Mobile/Digital,9,4.0,En cours
+CLI00133,2023-12-19,Agence Centre,Homme,51,Divorcé(e),Secondaire,Éducation/Santé,460.0,6.7,Crédit agricole,3870.0,6,0.1474,673.01,549.0,0,1.463,Caution personnelle,Agent commercial,7,3.0,Défaut
+CLI00134,2023-02-28,Agence Sud,Femme,37,Divorcé(e),Supérieur,Commerce,2530.0,4.0,Crédit consommation,1730.0,12,0.1913,159.54,550.0,0,0.063,Hypothèque,Agent commercial,3,4.0,Remboursé
+CLI00135,2023-09-14,Agence Ouest,Homme,45,Marié(e),Supérieur,Commerce,2330.0,2.7,Crédit agricole,5360.0,24,0.1054,248.67,746.0,0,0.107,Aucune,Agence,15,5.0,Remboursé
+CLI00136,2023-12-25,Agence Sud,Homme,44,Célibataire,Supérieur,Agriculture,1160.0,3.0,Crédit PME,25470.0,60,0.1315,581.48,592.0,1,0.501,Caution personnelle,Agence,9,2.0,Défaut
+CLI00137,2024-12-02,Agence Ouest,Homme,52,Marié(e),Secondaire,Commerce,830.0,16.1,Crédit agricole,720.0,6,0.1056,123.72,783.0,0,0.149,Hypothèque,Agent commercial,5,5.0,Remboursé
+CLI00138,2024-12-31,Agence Ouest,Femme,32,Célibataire,Secondaire,Commerce,570.0,7.1,Crédit PME,12570.0,24,0.1534,611.51,607.0,0,1.073,Caution personnelle,Mobile/Digital,6,4.0,Défaut
+CLI00139,2025-01-06,Agence Est,Femme,32,Marié(e),Supérieur,Services,740.0,15.6,Crédit agricole,3250.0,24,0.1379,155.72,644.0,1,0.21,Aucune,Mobile/Digital,2,4.0,En cours
+CLI00140,2023-11-11,Agence Est,Femme,36,Célibataire,Supérieur,Services,1640.0,5.9,Crédit consommation,6060.0,12,0.174,553.85,620.0,1,0.338,Hypothèque,Mobile/Digital,2,,Remboursé
+CLI00141,2024-01-16,Agence Centre,Femme,52,Marié(e),Supérieur,Éducation/Santé,870.0,2.3,Microcrédit,1240.0,12,0.1841,113.93,797.0,0,0.131,Nantissement,Mobile/Digital,2,4.0,Remboursé
+CLI00142,2024-07-21,Agence Nord,Femme,54,Marié(e),Secondaire,Transport,990.0,4.6,Crédit consommation,4000.0,12,0.1407,359.28,759.0,0,0.363,Caution personnelle,Agent commercial,11,4.0,Remboursé
+CLI00143,2024-08-29,Agence Est,Femme,27,Célibataire,Supérieur,Commerce,2510.0,3.3,Crédit PME,16810.0,36,0.1165,555.53,667.0,0,0.221,Nantissement,Recommandation,14,4.0,En cours
+CLI00144,2024-02-21,Agence Nord,Homme,44,Célibataire,Supérieur,Services,1680.0,6.6,Crédit consommation,5760.0,12,0.1607,522.8,616.0,1,0.311,Caution personnelle,Agent commercial,9,4.0,Remboursé
+CLI00145,2023-07-10,Agence Centre,Homme,38,Marié(e),Supérieur,Commerce,2500.0,3.4,Crédit PME,14760.0,48,0.1774,431.57,436.0,0,0.173,Aucune,Agence,10,3.0,Défaut
+CLI00146,2025-02-13,Agence Centre,Femme,36,Marié(e),Primaire,Agriculture,430.0,6.2,Crédit consommation,7310.0,12,0.1542,661.24,671.0,2,1.5,Aucune,Mobile/Digital,4,4.0,Remboursé
+CLI00147,2024-06-04,Agence Centre,Homme,44,Marié(e),Secondaire,Agriculture,1060.0,6.3,Crédit agricole,740.0,12,0.1616,67.2,573.0,1,0.063,Nantissement,Agent commercial,8,4.0,Remboursé
+CLI00148,2025-08-16,Agence Sud,Femme,57,Marié(e),Supérieur,Services,2070.0,21.4,Microcrédit,1920.0,6,0.2285,341.66,656.0,2,0.165,Caution personnelle,Agence,6,5.0,Remboursé
+CLI00149,2025-08-04,Agence Ouest,Femme,45,Marié(e),Supérieur,Commerce,1290.0,6.2,Microcrédit,2630.0,6,0.1843,462.19,779.0,0,0.358,Caution personnelle,Agence,3,5.0,Remboursé
+CLI00150,2025-06-07,Agence Nord,Homme,34,Marié(e),Secondaire,Éducation/Santé,970.0,12.6,Microcrédit,1900.0,18,0.1893,122.07,773.0,0,0.126,Aucune,Agence,5,3.0,En cours
+CLI00151,2025-08-18,Agence Est,Femme,32,Célibataire,Primaire,Services,470.0,3.4,Crédit consommation,7860.0,12,0.1719,717.58,606.0,0,1.5,Nantissement,Agence,1,4.0,Défaut
+CLI00152,2024-09-12,Agence Centre,Femme,44,Veuf/Veuve,Supérieur,Commerce,870.0,9.0,Crédit immobilier,71150.0,120,0.0766,850.52,683.0,1,0.978,Hypothèque,Recommandation,15,2.0,En cours
+CLI00153,2023-10-26,Agence Est,Homme,41,Marié(e),Secondaire,Services,610.0,2.2,Crédit immobilier,57860.0,180,0.0967,610.14,596.0,1,1.0,Hypothèque,Agence,18,3.0,En cours
+CLI00154,2023-06-10,Agence Ouest,Femme,50,Marié(e),Secondaire,Fonction publique,620.0,5.5,Crédit consommation,860.0,24,0.1808,42.97,557.0,0,0.069,Hypothèque,Agent commercial,6,3.0,Remboursé
+CLI00155,2023-04-16,Agence Sud,Homme,53,Marié(e),Primaire,Services,320.0,6.6,Microcrédit,1270.0,18,0.2565,85.74,561.0,0,0.268,Aucune,Agence,3,4.0,Remboursé
+CLI00156,2025-08-05,Agence Nord,Femme,41,Marié(e),Supérieur,Services,1140.0,6.0,Microcrédit,520.0,18,0.2088,33.9,720.0,0,0.03,Nantissement,Recommandation,6,5.0,En cours
+CLI00157,2023-09-28,Agence Ouest,Homme,45,Marié(e),Secondaire,Transport,1220.0,16.5,Crédit consommation,7330.0,24,0.1736,363.68,592.0,1,0.298,Aucune,Recommandation,7,5.0,Défaut
+CLI00158,2023-01-24,Agence Centre,Femme,56,Divorcé(e),Supérieur,Commerce,1180.0,14.5,Crédit consommation,7010.0,12,0.1776,641.88,669.0,0,0.544,Aucune,Mobile/Digital,4,4.0,Remboursé
+CLI00159,2023-02-07,Agence Ouest,Homme,52,Célibataire,Secondaire,Éducation/Santé,950.0,5.3,Microcrédit,1120.0,18,0.2385,74.62,688.0,0,0.079,Caution personnelle,Mobile/Digital,4,,Remboursé
+CLI00160,2023-10-25,Agence Ouest,Homme,30,Marié(e),Secondaire,Éducation/Santé,1450.0,1.4,Crédit consommation,4500.0,36,0.1564,157.41,743.0,0,0.109,Aucune,Agence,3,4.0,En cours
+CLI00161,2025-09-06,Agence Ouest,Homme,25,Célibataire,Secondaire,Commerce,770.0,7.0,Crédit consommation,1700.0,36,0.1526,59.15,740.0,0,0.077,Aucune,Agence,3,,En cours
+CLI00162,2023-10-09,Agence Ouest,Femme,25,Marié(e),Secondaire,Agriculture,670.0,3.7,Crédit PME,20120.0,48,0.15,559.95,593.0,0,0.836,Caution personnelle,Agence,11,3.0,Défaut
+CLI00163,2023-04-13,Agence Sud,Femme,21,Célibataire,Secondaire,Industrie,900.0,1.2,Crédit PME,33720.0,36,0.1037,1093.92,781.0,0,1.215,Aucune,Agence,14,2.0,Remboursé
+CLI00164,2024-11-02,Agence Est,Femme,43,Marié(e),Secondaire,Transport,430.0,0.8,Crédit consommation,6640.0,36,0.1815,240.55,520.0,1,0.559,Caution personnelle,Recommandation,7,3.0,Défaut
+CLI00165,2023-03-01,Agence Sud,Homme,26,Célibataire,Supérieur,Commerce,1130.0,5.6,Crédit consommation,960.0,24,0.1817,48.01,613.0,1,0.042,Caution personnelle,Recommandation,5,4.0,Remboursé
+CLI00166,2024-05-02,Agence Nord,Femme,46,Marié(e),Secondaire,Services,840.0,0.9,Crédit consommation,1490.0,12,0.1855,136.99,582.0,0,0.163,Aucune,Agent commercial,2,4.0,Défaut
+CLI00167,2023-03-28,Agence Ouest,Femme,31,Célibataire,Secondaire,Éducation/Santé,370.0,9.0,Crédit PME,19380.0,60,0.1334,444.33,602.0,2,1.201,Caution personnelle,Mobile/Digital,4,3.0,Défaut
+CLI00168,2023-04-03,Agence Centre,Homme,48,Célibataire,Supérieur,Éducation/Santé,2320.0,4.3,Crédit consommation,3740.0,36,0.172,133.71,603.0,0,0.058,Caution personnelle,Mobile/Digital,15,3.0,Remboursé
+CLI00169,2023-12-27,Agence Centre,Homme,45,Divorcé(e),Supérieur,Fonction publique,1820.0,3.7,Crédit PME,16770.0,24,0.1058,778.35,683.0,0,0.428,Caution personnelle,Agence,12,4.0,Remboursé
+CLI00170,2023-01-13,Agence Ouest,Homme,40,Célibataire,Secondaire,Services,1250.0,10.2,Crédit consommation,3110.0,24,0.1739,154.35,661.0,0,0.123,Caution personnelle,Agent commercial,6,3.0,Remboursé
+CLI00171,2025-04-30,Agence Ouest,Femme,43,Célibataire,Secondaire,Agriculture,680.0,7.9,Microcrédit,1630.0,6,0.2229,289.6,566.0,0,0.426,Nantissement,Agence,4,4.0,Remboursé
+CLI00172,2024-08-27,Agence Centre,Femme,26,Marié(e),Secondaire,Éducation/Santé,780.0,1.9,Crédit PME,34210.0,48,0.0758,828.44,850.0,0,1.062,Caution personnelle,Recommandation,7,4.0,En cours
+CLI00173,2025-07-22,Agence Ouest,Homme,20,Célibataire,Supérieur,Services,2080.0,4.8,Crédit consommation,3540.0,36,0.1332,119.82,706.0,0,0.058,Hypothèque,Recommandation,6,3.0,En cours
+CLI00174,2024-05-06,Agence Est,Homme,33,Marié(e),Primaire,Transport,860.0,1.5,Crédit agricole,2680.0,12,0.1245,238.68,735.0,0,0.278,Hypothèque,Mobile/Digital,4,5.0,Remboursé
+CLI00175,2024-07-10,Agence Est,Femme,43,Célibataire,Supérieur,Fonction publique,2060.0,8.4,Microcrédit,2630.0,12,0.2566,250.81,581.0,0,0.122,Caution personnelle,Recommandation,4,2.0,Défaut
+CLI00176,2024-08-24,Agence Sud,Femme,26,Marié(e),Secondaire,Services,960.0,12.2,Microcrédit,2680.0,6,0.2315,477.31,633.0,1,0.497,Aucune,Recommandation,9,,Remboursé
+CLI00177,2024-04-11,Agence Nord,Femme,45,Marié(e),Secondaire,Commerce,1460.0,4.6,Crédit PME,39790.0,24,0.1322,1895.8,653.0,0,1.298,Caution personnelle,Agent commercial,6,3.0,Remboursé
+CLI00178,2024-07-18,Agence Centre,Femme,45,Marié(e),Secondaire,Services,1100.0,4.5,Crédit consommation,2030.0,12,0.1574,183.93,632.0,1,0.167,Caution personnelle,Agent commercial,9,4.0,Remboursé
+CLI00179,2024-07-26,Agence Nord,Homme,40,Marié(e),Supérieur,Fonction publique,730.0,9.1,Crédit consommation,5160.0,24,0.1716,255.52,722.0,0,0.35,Caution personnelle,Recommandation,5,4.0,Remboursé
+CLI00180,2025-06-09,Agence Nord,Homme,41,Veuf/Veuve,Secondaire,Éducation/Santé,900.0,4.4,Crédit consommation,1970.0,36,0.1522,68.5,719.0,0,0.076,Hypothèque,Agence,7,4.0,En cours
+CLI00181,2023-10-31,Agence Centre,Femme,38,Célibataire,Secondaire,Services,840.0,1.0,Microcrédit,2740.0,6,0.2189,486.26,738.0,0,0.579,Caution personnelle,Agent commercial,11,3.0,Remboursé
+CLI00182,2025-07-07,Agence Centre,Homme,40,Marié(e),Supérieur,Transport,1890.0,4.8,Crédit consommation,4190.0,12,0.1954,387.22,618.0,1,0.205,Nantissement,Recommandation,4,4.0,Remboursé
+CLI00183,2023-06-22,Agence Centre,Femme,26,Divorcé(e),Supérieur,Agriculture,1880.0,0.8,Crédit consommation,7640.0,12,0.1405,686.15,714.0,0,0.365,Caution personnelle,Agent commercial,3,3.0,Remboursé
+CLI00184,2023-07-08,Agence Sud,Femme,49,Veuf/Veuve,Secondaire,Transport,730.0,17.6,Crédit PME,23510.0,48,0.1328,633.99,551.0,1,0.868,Caution personnelle,Mobile/Digital,16,3.0,En cours
+CLI00185,2023-09-13,Agence Est,Homme,42,Célibataire,Supérieur,Agriculture,,1.5,Crédit agricole,6040.0,6,0.1696,1057.05,593.0,2,0.665,Caution personnelle,Agent commercial,4,4.0,Remboursé
+CLI00186,2025-07-31,Agence Sud,Femme,44,Marié(e),Supérieur,Agriculture,1070.0,1.6,Microcrédit,2570.0,12,0.2361,242.53,591.0,1,0.227,Caution personnelle,Agent commercial,5,5.0,Remboursé
+CLI00187,2023-09-02,Agence Sud,Femme,31,Marié(e),Supérieur,Fonction publique,1930.0,11.2,Crédit consommation,1140.0,24,0.1432,54.91,773.0,0,0.028,Hypothèque,Agence,15,4.0,Remboursé
+CLI00188,2025-02-26,Agence Est,Homme,24,Divorcé(e),Secondaire,Transport,810.0,2.9,Microcrédit,350.0,6,0.2032,61.84,726.0,0,0.076,Aucune,Mobile/Digital,7,4.0,Remboursé
+CLI00189,2024-08-06,Agence Ouest,Femme,51,Célibataire,Supérieur,Commerce,1460.0,1.2,Crédit consommation,5440.0,24,0.1754,270.38,634.0,0,0.185,Aucune,Agence,15,3.0,Remboursé
+CLI00190,2024-10-01,Agence Nord,Homme,24,Marié(e),Supérieur,Services,2410.0,8.5,Crédit agricole,5940.0,12,0.1098,524.93,724.0,0,0.218,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00191,2023-03-19,Agence Sud,Femme,35,Marié(e),Primaire,Services,550.0,10.4,Microcrédit,1890.0,12,0.2321,178.0,679.0,0,0.324,Aucune,Agent commercial,5,5.0,Remboursé
+CLI00192,2024-10-21,Agence Ouest,Femme,37,Célibataire,Supérieur,Transport,1980.0,10.7,Crédit agricole,2510.0,12,0.1573,227.41,556.0,1,0.115,Caution personnelle,Agent commercial,8,4.0,Remboursé
+CLI00193,2023-03-11,Agence Centre,Homme,41,Marié(e),Supérieur,Services,1450.0,2.6,Crédit PME,36570.0,48,0.1442,1007.05,532.0,0,0.695,Hypothèque,Agence,9,4.0,Défaut
+CLI00194,2024-06-30,Agence Sud,Homme,42,Célibataire,Supérieur,Agriculture,1290.0,2.0,Microcrédit,1860.0,18,0.2345,123.57,612.0,1,0.096,Hypothèque,Agence,10,4.0,Remboursé
+CLI00195,2025-02-26,Agence Est,Homme,38,Veuf/Veuve,Secondaire,Commerce,840.0,0.9,Crédit consommation,3700.0,24,0.1868,185.94,546.0,1,0.221,Caution personnelle,Recommandation,4,3.0,En cours
+CLI00196,2025-07-06,Agence Nord,Femme,24,Marié(e),Secondaire,Services,890.0,9.3,Microcrédit,2520.0,12,0.2269,236.7,697.0,0,0.266,Caution personnelle,Agence,2,3.0,Remboursé
+CLI00197,2025-09-16,Agence Est,Femme,36,Célibataire,Supérieur,Commerce,1560.0,1.1,Crédit consommation,3940.0,24,0.1288,187.09,823.0,0,0.12,Aucune,Agence,10,3.0,En cours
+CLI00198,2023-08-22,Agence Ouest,Femme,38,Divorcé(e),Secondaire,Transport,870.0,9.1,Crédit consommation,4000.0,24,0.1772,199.16,619.0,0,0.229,Aucune,Agence,9,4.0,Remboursé
+CLI00199,2025-02-06,Agence Est,Femme,44,Célibataire,Secondaire,Services,960.0,4.3,Crédit agricole,5760.0,12,0.1513,520.24,608.0,2,0.542,Hypothèque,Recommandation,3,3.0,Remboursé
+CLI00200,2024-08-22,Agence Sud,Femme,41,Marié(e),Supérieur,Services,2230.0,2.5,Crédit consommation,2730.0,12,0.1928,251.95,550.0,0,0.113,Aucune,Agent commercial,7,3.0,Remboursé
+CLI00201,2025-01-03,Agence Est,Femme,50,Marié(e),Secondaire,Commerce,550.0,13.6,Crédit consommation,6980.0,24,0.1476,337.64,733.0,0,0.614,Caution personnelle,Agence,1,4.0,En cours
+CLI00202,2025-03-25,Agence Est,Homme,47,Célibataire,Primaire,Fonction publique,330.0,1.0,Microcrédit,1240.0,18,0.2477,83.18,535.0,2,0.252,Caution personnelle,Agence,5,5.0,Remboursé
+CLI00203,2024-04-19,Agence Nord,Femme,26,Célibataire,Secondaire,Fonction publique,290.0,17.8,Microcrédit,1620.0,12,0.2178,151.45,622.0,1,0.522,Caution personnelle,Agent commercial,4,3.0,Remboursé
+CLI00204,2023-05-15,Agence Centre,Homme,39,Célibataire,Supérieur,Commerce,1560.0,2.9,Crédit consommation,7590.0,24,0.1458,366.5,745.0,0,0.235,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00205,2025-02-27,Agence Ouest,Homme,43,Célibataire,Primaire,Éducation/Santé,290.0,6.0,Crédit consommation,5490.0,36,0.1618,193.5,645.0,0,0.667,Caution personnelle,Agence,11,2.0,En cours
+CLI00206,2024-09-07,Agence Nord,Femme,33,Célibataire,Supérieur,Agriculture,770.0,12.1,Crédit immobilier,49970.0,240,0.1113,520.21,549.0,1,0.676,Hypothèque,Agent commercial,14,3.0,Défaut
+CLI00207,2023-05-14,Agence Centre,Homme,54,Célibataire,Secondaire,Commerce,760.0,6.2,Crédit immobilier,21890.0,180,0.0793,208.31,670.0,0,0.274,Hypothèque,Mobile/Digital,9,4.0,En cours
+CLI00208,2024-02-07,Agence Centre,Femme,33,Marié(e),Supérieur,Commerce,1070.0,16.6,Microcrédit,1250.0,12,0.2154,116.72,623.0,1,0.109,Hypothèque,Agence,6,4.0,Remboursé
+CLI00209,2023-05-26,Agence Nord,Femme,26,Célibataire,Secondaire,Fonction publique,1130.0,11.2,Crédit agricole,9450.0,12,0.1223,840.64,669.0,0,0.744,Nantissement,Mobile/Digital,3,4.0,Remboursé
+CLI00210,2025-02-05,Agence Sud,Femme,21,Veuf/Veuve,Secondaire,Commerce,1250.0,4.0,Microcrédit,1890.0,12,0.2162,176.55,613.0,0,0.141,Caution personnelle,Agence,3,4.0,Remboursé
+CLI00211,2023-12-01,Agence Sud,Femme,34,Marié(e),Primaire,Fonction publique,560.0,12.7,Microcrédit,740.0,12,0.2346,69.78,600.0,1,0.125,Aucune,Agence,6,4.0,Remboursé
+CLI00212,2023-03-09,Agence Nord,Homme,34,Célibataire,Supérieur,Fonction publique,1300.0,8.0,Crédit consommation,1310.0,24,0.1551,63.84,710.0,0,0.049,Aucune,Mobile/Digital,6,4.0,Remboursé
+CLI00213,2023-10-12,Agence Centre,Femme,35,Marié(e),Supérieur,Commerce,,14.3,Microcrédit,2010.0,18,0.2423,134.3,574.0,0,0.146,Aucune,Agence,4,4.0,Défaut
+CLI00214,2024-08-29,Agence Ouest,Homme,20,Marié(e),Secondaire,Transport,580.0,8.0,Crédit immobilier,24140.0,240,0.0688,185.42,669.0,0,0.32,Hypothèque,Agence,9,4.0,En cours
+CLI00215,2024-08-14,Agence Centre,Femme,39,Marié(e),Secondaire,Fonction publique,570.0,6.4,Crédit immobilier,83400.0,180,0.0949,870.38,588.0,2,1.5,Hypothèque,Agent commercial,14,3.0,Défaut
+CLI00216,2025-05-07,Agence Ouest,Homme,50,Célibataire,Supérieur,Services,1300.0,5.6,Crédit agricole,7660.0,12,0.1382,687.12,681.0,0,0.529,Caution personnelle,Agence,4,3.0,Remboursé
+CLI00217,2023-12-27,Agence Centre,Homme,32,Célibataire,Secondaire,Fonction publique,710.0,8.7,Crédit PME,34040.0,48,0.1034,868.91,,0,1.224,Hypothèque,Agent commercial,12,,En cours
+CLI00218,2024-09-20,Agence Sud,Femme,45,Célibataire,Supérieur,Services,2760.0,3.0,Microcrédit,2590.0,6,0.2312,461.24,638.0,0,0.167,Caution personnelle,Agent commercial,5,4.0,Défaut
+CLI00219,2025-08-02,Agence Est,Femme,32,Marié(e),Secondaire,Services,1070.0,15.9,Crédit agricole,6530.0,24,0.1348,311.92,668.0,0,0.292,Aucune,Recommandation,1,4.0,En cours
+CLI00220,2023-11-18,Agence Sud,Homme,30,Marié(e),Secondaire,Commerce,,14.1,Crédit PME,27020.0,60,0.1202,601.32,640.0,0,0.388,Nantissement,Agent commercial,9,4.0,En cours
+CLI00221,2023-01-31,Agence Est,Femme,52,Marié(e),Primaire,Services,490.0,6.2,Crédit PME,30020.0,48,0.132,808.34,640.0,0,1.5,Caution personnelle,Agence,13,4.0,En cours
+CLI00222,2024-10-17,Agence Centre,Homme,46,Veuf/Veuve,Secondaire,Commerce,590.0,6.4,Crédit consommation,2640.0,24,0.1899,133.07,582.0,0,0.226,Hypothèque,Agence,16,4.0,En cours
+CLI00223,2024-08-23,Agence Ouest,Homme,48,Marié(e),Secondaire,Fonction publique,640.0,5.4,Crédit consommation,7720.0,24,0.1432,371.83,652.0,0,0.581,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00224,2023-12-05,Agence Sud,Homme,62,Célibataire,Primaire,Commerce,440.0,13.1,Crédit PME,13990.0,60,0.0945,293.47,765.0,0,0.667,Nantissement,Mobile/Digital,5,4.0,En cours
+CLI00225,2024-07-16,Agence Ouest,Homme,39,Marié(e),Secondaire,Services,920.0,3.0,Crédit immobilier,61070.0,180,0.0977,647.7,628.0,0,0.704,Hypothèque,Recommandation,9,3.0,En cours
+CLI00226,2024-10-30,Agence Ouest,Femme,39,Célibataire,Primaire,Fonction publique,670.0,7.4,Crédit consommation,1960.0,12,0.2042,181.96,519.0,2,0.272,Caution personnelle,Agence,4,5.0,Remboursé
+CLI00227,2025-03-29,Agence Est,Femme,40,Divorcé(e),Secondaire,Éducation/Santé,650.0,5.0,Microcrédit,1470.0,6,0.1896,258.73,750.0,0,0.398,Hypothèque,Agence,5,5.0,Remboursé
+CLI00228,2023-05-09,Agence Est,Homme,53,Marié(e),Primaire,Industrie,390.0,7.8,Crédit consommation,2280.0,12,0.196,210.77,520.0,0,0.54,Nantissement,Mobile/Digital,1,5.0,Défaut
+CLI00229,2024-04-16,Agence Ouest,Homme,48,Célibataire,Supérieur,Services,1600.0,7.9,Microcrédit,2350.0,6,0.2183,416.98,677.0,0,0.261,Nantissement,Mobile/Digital,1,5.0,Remboursé
+CLI00230,2023-10-07,Agence Est,Homme,30,Marié(e),Primaire,Services,720.0,11.4,Crédit agricole,4530.0,12,0.1744,414.1,484.0,0,0.575,Aucune,Agent commercial,15,2.0,Défaut
+CLI00231,2023-11-30,Agence Sud,Homme,31,Veuf/Veuve,Supérieur,Transport,1290.0,4.4,Crédit agricole,4200.0,12,0.1337,375.86,670.0,0,0.291,Hypothèque,Recommandation,1,3.0,Remboursé
+CLI00232,2023-02-02,Agence Sud,Femme,43,Divorcé(e),Secondaire,Fonction publique,960.0,3.9,Crédit consommation,2910.0,12,0.1288,259.75,850.0,0,0.271,Aucune,Agence,6,4.0,Remboursé
+CLI00233,2024-02-27,Agence Sud,Homme,44,Marié(e),Secondaire,Services,,5.1,Crédit consommation,4220.0,12,0.1652,383.92,679.0,0,0.711,Caution personnelle,Agent commercial,18,4.0,Remboursé
+CLI00234,2023-03-25,Agence Sud,Homme,44,Marié(e),Supérieur,Éducation/Santé,1730.0,4.2,Microcrédit,1860.0,18,0.2137,121.69,730.0,0,0.07,Caution personnelle,Agence,7,5.0,Remboursé
+CLI00235,2025-07-15,Agence Sud,Femme,44,Célibataire,Primaire,Agriculture,530.0,14.2,Crédit PME,33690.0,60,0.1415,786.53,643.0,0,1.484,Caution personnelle,Agence,18,2.0,Défaut
+CLI00236,2024-07-08,Agence Centre,Femme,37,Divorcé(e),Secondaire,Commerce,980.0,8.5,Crédit PME,39700.0,48,0.123,1051.31,664.0,0,1.073,Hypothèque,Agent commercial,10,3.0,En cours
+CLI00237,2024-02-26,Agence Centre,Homme,45,Célibataire,Secondaire,Éducation/Santé,1270.0,0.7,Microcrédit,410.0,6,0.2268,72.92,631.0,0,0.057,Caution personnelle,Agence,2,4.0,Remboursé
+CLI00238,2023-08-20,Agence Nord,Femme,45,Célibataire,Secondaire,Transport,780.0,6.6,Crédit agricole,6520.0,24,0.1218,307.47,744.0,0,0.394,Caution personnelle,Agence,12,3.0,Remboursé
+CLI00239,2025-07-28,Agence Centre,Femme,30,Célibataire,Supérieur,Services,1890.0,2.3,Microcrédit,860.0,18,0.2324,57.04,718.0,0,0.03,Nantissement,Agent commercial,5,2.0,En cours
+CLI00240,2024-05-31,Agence Sud,Femme,26,Marié(e),Supérieur,Commerce,1100.0,1.5,Crédit consommation,1120.0,36,0.1606,39.41,661.0,0,0.036,Nantissement,Agence,13,4.0,En cours
+CLI00241,2025-09-12,Agence Ouest,Homme,41,Marié(e),Secondaire,Industrie,530.0,12.4,Microcrédit,1250.0,18,0.2469,83.8,590.0,0,0.158,Caution personnelle,Agence,3,4.0,En cours
+CLI00242,2024-10-21,Agence Centre,Femme,35,Marié(e),Secondaire,Industrie,,9.2,Microcrédit,2420.0,6,0.2567,434.06,519.0,2,0.556,Hypothèque,Agence,6,4.0,Défaut
+CLI00243,2025-09-20,Agence Est,Homme,25,Marié(e),Supérieur,Commerce,1370.0,7.3,Crédit consommation,6300.0,36,0.1688,224.24,666.0,0,0.164,Nantissement,Mobile/Digital,3,5.0,En cours
+CLI00244,2025-05-31,Agence Nord,Femme,47,Marié(e),Secondaire,Commerce,1450.0,2.1,Microcrédit,860.0,12,0.2066,79.94,682.0,0,0.055,Caution personnelle,Recommandation,1,4.0,Remboursé
+CLI00245,2025-01-12,Agence Est,Femme,43,Veuf/Veuve,Supérieur,Agriculture,1910.0,7.2,Crédit agricole,1500.0,12,0.1578,135.94,526.0,2,0.071,Hypothèque,Agence,7,4.0,Remboursé
+CLI00246,2023-12-22,Agence Centre,Femme,53,Célibataire,Secondaire,Éducation/Santé,,6.3,Crédit immobilier,81240.0,240,0.0933,748.27,654.0,1,0.571,Hypothèque,Mobile/Digital,15,2.0,En cours
+CLI00247,2025-02-16,Agence Sud,Femme,38,Divorcé(e),Supérieur,Commerce,1720.0,0.8,Microcrédit,1470.0,6,0.2457,262.85,562.0,2,0.153,Nantissement,Agent commercial,3,4.0,Remboursé
+CLI00248,2023-11-15,Agence Sud,Homme,40,Marié(e),Secondaire,Commerce,1070.0,2.3,Crédit immobilier,43060.0,120,0.1353,656.46,508.0,3,0.614,Hypothèque,Agence,10,3.0,En cours
+CLI00249,2025-05-09,Agence Est,Homme,25,Marié(e),Secondaire,Agriculture,730.0,6.2,Crédit agricole,510.0,6,0.1671,89.19,483.0,2,0.122,Caution personnelle,Recommandation,6,4.0,Défaut
+CLI00250,2023-11-10,Agence Centre,Homme,53,Marié(e),Secondaire,Services,1010.0,7.0,Microcrédit,360.0,18,0.2168,23.61,635.0,1,0.023,Hypothèque,Agence,3,4.0,Remboursé
+CLI00251,2023-03-19,Agence Sud,Homme,45,Marié(e),Secondaire,Agriculture,670.0,7.6,Crédit immobilier,49290.0,180,0.0769,462.26,727.0,0,0.69,Hypothèque,Agence,13,4.0,En cours
+CLI00252,2023-04-28,Agence Ouest,Femme,48,Célibataire,Supérieur,Agriculture,1260.0,4.8,Crédit PME,16490.0,60,0.0914,343.43,766.0,0,0.273,Caution personnelle,Agence,9,4.0,En cours
+CLI00253,2024-03-30,Agence Est,Homme,36,Célibataire,Supérieur,Industrie,660.0,6.6,Crédit immobilier,68760.0,180,0.1241,843.46,492.0,3,1.278,Hypothèque,Agent commercial,11,3.0,Défaut
+CLI00254,2024-10-25,Agence Centre,Homme,38,Célibataire,Supérieur,Agriculture,1720.0,2.0,Crédit consommation,3960.0,12,0.1544,358.25,719.0,1,0.208,Caution personnelle,Mobile/Digital,1,4.0,Remboursé
+CLI00255,2023-10-17,Agence Ouest,Homme,42,Célibataire,Secondaire,Services,1100.0,9.9,Crédit immobilier,45650.0,240,0.0764,371.67,658.0,0,0.338,Hypothèque,Agent commercial,21,3.0,En cours
+CLI00256,2025-03-30,Agence Centre,Homme,31,Marié(e),Secondaire,Services,1010.0,8.9,Crédit consommation,4350.0,36,0.176,156.39,607.0,2,0.155,Caution personnelle,Agent commercial,1,3.0,Défaut
+CLI00257,2023-09-13,Agence Centre,Femme,31,Divorcé(e),Supérieur,Agriculture,1650.0,7.2,Crédit PME,8480.0,48,0.1052,217.2,704.0,0,0.132,Aucune,Mobile/Digital,8,4.0,En cours
+CLI00258,2024-04-18,Agence Centre,Femme,59,Veuf/Veuve,Supérieur,Commerce,1290.0,2.8,Crédit PME,8390.0,60,0.1521,200.52,599.0,0,0.155,Hypothèque,Mobile/Digital,6,4.0,En cours
+CLI00259,2023-12-02,Agence Est,Homme,42,Marié(e),Supérieur,Commerce,660.0,6.5,Crédit consommation,3360.0,24,0.1612,164.71,615.0,2,0.25,Aucune,Agence,3,4.0,Remboursé
+CLI00260,2024-07-12,Agence Ouest,Femme,32,Célibataire,Secondaire,Agriculture,530.0,6.5,Crédit consommation,930.0,12,0.1689,84.77,652.0,0,0.16,Aucune,Agent commercial,2,5.0,Défaut
+CLI00261,2023-07-09,Agence Ouest,Homme,25,Célibataire,Secondaire,Transport,760.0,2.0,Crédit PME,5490.0,60,0.123,122.96,649.0,0,0.162,Aucune,Agent commercial,14,4.0,En cours
+CLI00262,2025-08-16,Agence Est,Homme,27,Marié(e),Supérieur,Éducation/Santé,1920.0,10.3,Crédit agricole,7100.0,6,0.1446,1233.74,596.0,0,0.643,Hypothèque,Agence,9,4.0,Remboursé
+CLI00263,2025-07-14,Agence Ouest,Femme,42,Marié(e),Primaire,Commerce,690.0,11.1,Microcrédit,730.0,6,0.22,129.59,611.0,0,0.188,Caution personnelle,Recommandation,6,3.0,Remboursé
+CLI00264,2024-11-29,Agence Ouest,Homme,29,Marié(e),Supérieur,Éducation/Santé,2230.0,10.0,Crédit consommation,2900.0,12,0.1655,263.87,641.0,1,0.118,Caution personnelle,Agent commercial,10,4.0,Remboursé
+CLI00265,2024-06-14,Agence Sud,Homme,28,Divorcé(e),Secondaire,Agriculture,,8.0,Microcrédit,2050.0,18,0.205,133.26,734.0,0,0.208,Caution personnelle,Agence,4,5.0,Remboursé
+CLI00266,2025-01-15,Agence Sud,Femme,37,Marié(e),Supérieur,Commerce,1390.0,13.6,Crédit consommation,6170.0,12,0.204,572.74,492.0,2,0.412,Caution personnelle,Recommandation,3,4.0,Défaut
+CLI00267,2024-04-13,Agence Ouest,Femme,42,Marié(e),Supérieur,Commerce,960.0,12.3,Microcrédit,2240.0,12,0.2472,212.59,595.0,1,0.221,Caution personnelle,Agent commercial,11,4.0,Remboursé
+CLI00268,2025-06-08,Agence Sud,Femme,52,Marié(e),Supérieur,Commerce,,5.2,Microcrédit,2990.0,18,0.2147,195.76,708.0,0,0.248,Nantissement,Agent commercial,7,4.0,En cours
+CLI00269,2023-03-08,Agence Centre,Homme,31,Divorcé(e),Primaire,Commerce,330.0,5.5,Crédit agricole,9390.0,6,0.1134,1617.17,686.0,0,1.5,Nantissement,Agence,7,5.0,Remboursé
+CLI00270,2023-08-04,Agence Ouest,Homme,32,Marié(e),Supérieur,Agriculture,1140.0,2.5,Microcrédit,700.0,12,0.2272,65.76,581.0,0,0.058,Caution personnelle,Agence,5,3.0,Remboursé
+CLI00271,2024-04-01,Agence Centre,Femme,43,Marié(e),Secondaire,Éducation/Santé,580.0,5.3,Crédit PME,36690.0,36,0.1053,1193.03,690.0,0,1.5,Caution personnelle,Agence,12,4.0,En cours
+CLI00272,2024-10-12,Agence Sud,Femme,34,Marié(e),Primaire,Transport,590.0,3.3,Crédit consommation,6170.0,12,0.1892,568.37,553.0,0,0.963,Caution personnelle,Agence,4,4.0,Remboursé
+CLI00273,2024-12-07,Agence Ouest,Homme,47,Marié(e),Secondaire,Fonction publique,1350.0,7.3,Crédit agricole,3230.0,12,0.1375,289.63,663.0,0,0.215,Aucune,Recommandation,1,5.0,Remboursé
+CLI00274,2024-12-18,Agence Est,Femme,34,Célibataire,Secondaire,Fonction publique,600.0,2.2,Crédit immobilier,60770.0,240,0.0578,427.7,754.0,0,0.713,Hypothèque,Agent commercial,13,4.0,En cours
+CLI00275,2025-07-29,Agence Sud,Femme,26,Marié(e),Primaire,Services,810.0,9.1,Microcrédit,2650.0,12,0.2572,252.79,501.0,0,0.312,Aucune,Mobile/Digital,2,5.0,Remboursé
+CLI00276,2025-04-22,Agence Sud,Femme,32,Marié(e),Secondaire,Agriculture,440.0,11.6,Crédit agricole,4620.0,12,0.1265,411.89,674.0,3,0.936,Aucune,Mobile/Digital,4,4.0,Défaut
+CLI00277,2025-07-04,Agence Centre,Homme,23,Marié(e),Supérieur,Services,1740.0,8.9,Crédit consommation,3490.0,24,0.1572,170.41,698.0,0,0.098,Aucune,Mobile/Digital,2,3.0,En cours
+CLI00278,2023-12-10,Agence Sud,Homme,34,Marié(e),Primaire,Industrie,550.0,5.1,Microcrédit,2790.0,12,0.2461,264.65,544.0,1,0.481,Nantissement,Agence,3,4.0,Remboursé
+CLI00279,2024-11-26,Agence Est,Femme,44,Célibataire,Supérieur,Services,920.0,1.8,Crédit PME,11430.0,36,0.1274,383.69,679.0,0,0.417,Caution personnelle,Agent commercial,11,3.0,En cours
+CLI00280,2024-11-19,Agence Sud,Femme,39,Célibataire,Secondaire,Services,1130.0,10.9,Crédit agricole,5880.0,6,0.1339,1018.63,665.0,0,0.901,Caution personnelle,Mobile/Digital,1,4.0,Remboursé
+CLI00281,2024-08-27,Agence Est,Femme,38,Marié(e),Secondaire,Agriculture,700.0,4.8,Crédit agricole,5190.0,12,0.1376,465.41,651.0,0,0.665,Caution personnelle,Agent commercial,5,4.0,Remboursé
+CLI00282,2024-08-27,Agence Ouest,Homme,5,Célibataire,Supérieur,Commerce,1650.0,1.7,Microcrédit,2780.0,18,0.2101,181.39,657.0,0,0.11,Caution personnelle,Mobile/Digital,5,2.0,Remboursé
+CLI00283,2024-06-09,Agence Sud,Femme,31,Célibataire,Secondaire,Industrie,1190.0,5.5,Crédit agricole,1260.0,24,0.1388,60.42,593.0,2,0.051,Nantissement,Agent commercial,3,5.0,Remboursé
+CLI00284,2024-02-14,Agence Est,Homme,35,Marié(e),Primaire,Fonction publique,570.0,5.3,Microcrédit,2860.0,6,0.2288,508.98,623.0,1,0.893,Aucune,Agent commercial,1,3.0,Défaut
+CLI00285,2023-05-17,Agence Ouest,Homme,41,Célibataire,Supérieur,Éducation/Santé,1280.0,7.6,Crédit immobilier,40060.0,120,0.0661,457.12,671.0,1,0.357,Hypothèque,Agent commercial,11,3.0,En cours
+CLI00286,2023-04-12,Agence Sud,Homme,64,Marié(e),Secondaire,Transport,790.0,3.6,Crédit PME,17880.0,36,0.1094,584.86,745.0,0,0.74,Nantissement,Mobile/Digital,8,4.0,Remboursé
+CLI00287,2023-01-03,Agence Centre,Femme,32,Célibataire,Supérieur,Industrie,2760.0,6.6,Crédit consommation,7770.0,36,0.1809,281.26,708.0,0,0.102,Caution personnelle,Mobile/Digital,6,4.0,Remboursé
+CLI00288,2023-12-20,Agence Est,Femme,48,Célibataire,Supérieur,Services,820.0,1.2,Microcrédit,2340.0,6,0.2083,414.03,741.0,0,0.505,Nantissement,Agent commercial,2,5.0,Remboursé
+CLI00289,2024-01-08,Agence Est,Femme,27,Célibataire,Supérieur,Commerce,2090.0,6.4,Crédit consommation,5720.0,12,0.1601,519.01,696.0,0,0.248,Aucune,Mobile/Digital,2,4.0,Remboursé
+CLI00290,2025-08-21,Agence Ouest,Homme,28,Marié(e),Secondaire,Industrie,1120.0,8.6,Microcrédit,2090.0,18,0.2301,138.4,678.0,0,0.124,Aucune,Agence,5,3.0,En cours
+CLI00291,2023-08-31,Agence Centre,Femme,20,Divorcé(e),Secondaire,Commerce,1550.0,3.5,Crédit agricole,960.0,12,0.1375,86.08,686.0,0,0.056,Hypothèque,Agence,8,4.0,Remboursé
+CLI00292,2023-08-05,Agence Sud,Femme,31,Marié(e),Secondaire,Agriculture,1280.0,11.9,Microcrédit,1520.0,12,0.2145,141.86,776.0,0,0.111,Hypothèque,Mobile/Digital,1,4.0,Remboursé
+CLI00293,2023-02-14,Agence Centre,Homme,49,Marié(e),Secondaire,Commerce,470.0,0.5,Crédit consommation,1060.0,36,0.1892,38.81,563.0,2,0.083,Caution personnelle,Agent commercial,3,4.0,Remboursé
+CLI00294,2023-04-24,Agence Sud,Homme,38,Célibataire,Supérieur,Éducation/Santé,1850.0,5.0,Microcrédit,2880.0,18,0.2256,190.08,649.0,0,0.103,Caution personnelle,Agent commercial,8,4.0,Remboursé
+CLI00295,2024-10-19,Agence Nord,Homme,51,Marié(e),Supérieur,Fonction publique,1710.0,3.7,Crédit PME,30320.0,60,0.1122,662.56,724.0,0,0.387,Nantissement,Agence,5,4.0,En cours
+CLI00296,2024-01-03,Agence Centre,Femme,34,Célibataire,Secondaire,Commerce,1080.0,4.7,Crédit agricole,4950.0,12,0.1113,437.79,766.0,0,0.405,Aucune,Agence,4,5.0,Remboursé
+CLI00297,2024-09-11,Agence Ouest,Femme,49,Marié(e),Supérieur,Fonction publique,2850.0,3.7,Crédit immobilier,17730.0,240,0.0615,128.56,752.0,0,0.045,Hypothèque,Agent commercial,27,1.0,En cours
+CLI00298,2023-04-11,Agence Est,Homme,33,Divorcé(e),Secondaire,Agriculture,910.0,1.3,Microcrédit,1430.0,6,0.2487,255.92,633.0,0,0.281,Caution personnelle,Agent commercial,4,4.0,Remboursé
+CLI00299,2025-02-01,Agence Nord,Femme,48,Marié(e),Primaire,Agriculture,420.0,3.3,Microcrédit,340.0,12,0.23,31.99,650.0,0,0.076,Hypothèque,Agent commercial,4,4.0,Remboursé
+CLI00300,2023-09-25,Agence Est,Femme,55,Divorcé(e),Supérieur,Industrie,1400.0,0.3,Crédit agricole,1950.0,24,0.122,91.98,741.0,0,0.066,Nantissement,Agent commercial,5,4.0,Remboursé
+CLI00301,2023-03-01,Agence Centre,Homme,36,Marié(e),Supérieur,Commerce,2200.0,5.8,Crédit agricole,610.0,24,0.1128,28.51,747.0,0,0.013,Hypothèque,Agent commercial,6,4.0,Remboursé
+CLI00302,2025-07-03,Agence Centre,Homme,25,Marié(e),Supérieur,Commerce,1040.0,5.9,Crédit consommation,1530.0,24,0.1847,76.73,625.0,1,0.074,Aucune,Recommandation,7,2.0,Défaut
+CLI00303,2023-12-26,Agence Est,Homme,57,Célibataire,Primaire,Services,570.0,3.7,Microcrédit,800.0,12,0.2314,75.32,647.0,1,0.132,Nantissement,Agent commercial,8,,Remboursé
+CLI00304,2023-11-15,Agence Est,Homme,30,Marié(e),Supérieur,Transport,1710.0,3.9,Crédit immobilier,65960.0,240,0.0561,457.84,733.0,0,0.268,Hypothèque,Mobile/Digital,11,3.0,En cours
+CLI00305,2023-02-17,Agence Est,Homme,33,Marié(e),Secondaire,Commerce,430.0,7.1,Microcrédit,640.0,12,0.225,60.05,735.0,0,0.14,Nantissement,Agence,8,3.0,Remboursé
+CLI00306,2024-08-08,Agence Nord,Femme,36,Marié(e),Secondaire,Services,950.0,4.3,Microcrédit,1110.0,6,0.2081,196.39,685.0,0,0.207,Caution personnelle,Mobile/Digital,3,4.0,Remboursé
+CLI00307,2023-10-07,Agence Centre,Homme,48,Célibataire,Secondaire,Commerce,540.0,3.5,Crédit PME,22830.0,36,0.107,744.19,658.0,0,1.378,Caution personnelle,Mobile/Digital,4,4.0,Défaut
+CLI00308,2023-08-27,Agence Nord,Homme,46,Marié(e),Secondaire,Éducation/Santé,1610.0,8.3,Crédit PME,30260.0,48,0.1045,774.03,757.0,0,0.481,Caution personnelle,Agent commercial,12,4.0,En cours
+CLI00309,2024-11-07,Agence Est,Femme,45,Marié(e),Secondaire,Commerce,580.0,6.5,Microcrédit,1270.0,18,0.2109,82.92,722.0,1,0.143,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00310,2024-10-29,Agence Ouest,Homme,36,Célibataire,Secondaire,Fonction publique,1130.0,14.5,Crédit consommation,6170.0,36,0.1937,227.32,523.0,0,0.201,Aucune,Agence,9,3.0,Défaut
+CLI00311,2023-05-27,Agence Ouest,Homme,37,Célibataire,Secondaire,Agriculture,730.0,9.5,Crédit PME,34380.0,60,0.1434,806.04,549.0,3,1.104,Aucune,Agent commercial,7,3.0,Défaut
+CLI00312,2023-05-08,Agence Ouest,Femme,47,Célibataire,Supérieur,Commerce,1040.0,3.4,Crédit agricole,8850.0,12,0.1533,800.16,585.0,1,0.769,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00313,2023-08-31,Agence Nord,Femme,55,Marié(e),Supérieur,Transport,1750.0,3.1,Crédit PME,31120.0,48,0.1458,859.48,583.0,0,0.491,Caution personnelle,Agence,12,2.0,En cours
+CLI00314,2025-02-28,Agence Ouest,Femme,26,Célibataire,Primaire,Commerce,280.0,7.9,Crédit consommation,3840.0,36,0.2058,143.85,535.0,2,0.514,Caution personnelle,Agence,9,4.0,En cours
+CLI00315,2023-09-24,Agence Ouest,Homme,51,Célibataire,Secondaire,Commerce,750.0,13.6,Crédit consommation,7650.0,36,0.1767,275.3,696.0,0,0.367,Aucune,Mobile/Digital,1,4.0,Remboursé
+CLI00316,2024-02-27,Agence Centre,Femme,48,Célibataire,Supérieur,Agriculture,2470.0,10.3,Crédit agricole,1970.0,6,0.1279,340.69,606.0,2,0.138,Aucune,Agence,12,3.0,Remboursé
+CLI00317,2023-05-09,Agence Centre,Femme,45,Célibataire,Primaire,Commerce,400.0,5.7,Crédit agricole,8360.0,6,0.1255,1444.78,644.0,1,1.5,Aucune,Agence,8,3.0,Défaut
+CLI00318,2023-07-03,Agence Centre,Homme,32,Marié(e),Supérieur,Fonction publique,3270.0,6.1,Crédit PME,37840.0,48,0.1417,1037.26,656.0,0,0.317,Caution personnelle,Agence,11,3.0,En cours
+CLI00319,2024-10-28,Agence Est,Homme,95,Célibataire,Secondaire,Transport,1170.0,3.9,Crédit immobilier,49520.0,180,0.0536,400.95,782.0,0,0.343,Hypothèque,Agence,13,3.0,En cours
+CLI00320,2025-01-28,Agence Est,Homme,43,Marié(e),Supérieur,Commerce,880.0,9.7,Crédit consommation,3700.0,24,0.1916,186.8,597.0,2,0.212,Nantissement,Agence,9,4.0,En cours
+CLI00321,2025-05-15,Agence Centre,Homme,32,Marié(e),Secondaire,Fonction publique,1740.0,13.0,Crédit consommation,5960.0,12,0.1845,547.69,565.0,1,0.315,Nantissement,Agence,8,4.0,Défaut
+CLI00322,2024-07-08,Agence Ouest,Femme,51,Marié(e),Primaire,Services,820.0,10.8,Crédit immobilier,33440.0,120,0.0916,426.5,620.0,0,0.52,Hypothèque,Agence,9,,En cours
+CLI00323,2023-10-05,Agence Centre,Homme,34,Marié(e),Secondaire,Commerce,400.0,3.9,Microcrédit,2570.0,18,0.2504,172.73,518.0,1,0.432,Caution personnelle,Agent commercial,4,3.0,Remboursé
+CLI00324,2024-03-14,Agence Est,Femme,54,Marié(e),Supérieur,Services,1360.0,4.9,Crédit consommation,1550.0,36,0.199,57.52,500.0,0,0.042,Hypothèque,Mobile/Digital,6,3.0,Défaut
+CLI00325,2023-06-06,Agence Centre,Homme,24,Marié(e),Secondaire,Services,1530.0,9.0,Crédit consommation,1670.0,36,0.1826,60.59,583.0,0,0.04,Caution personnelle,Mobile/Digital,3,4.0,Remboursé
+CLI00326,2023-08-29,Agence Est,Femme,25,Marié(e),Secondaire,Agriculture,780.0,5.0,Crédit consommation,4020.0,12,0.1401,360.96,750.0,0,0.463,Caution personnelle,Agent commercial,3,4.0,Remboursé
+CLI00327,2024-04-26,Agence Centre,Femme,20,Célibataire,Secondaire,Commerce,810.0,7.3,Crédit agricole,8980.0,12,0.1191,797.48,770.0,0,0.985,Aucune,Agence,5,4.0,Remboursé
+CLI00328,2025-02-20,Agence Sud,Homme,46,Marié(e),Supérieur,Services,1090.0,13.3,Crédit agricole,1210.0,24,0.1241,57.19,,0,0.052,Nantissement,Mobile/Digital,7,4.0,En cours
+CLI00329,2023-09-16,Agence Nord,Femme,30,Célibataire,Secondaire,Transport,810.0,3.0,Crédit PME,39740.0,48,0.1165,1039.69,643.0,1,1.284,Nantissement,Agent commercial,11,3.0,En cours
+CLI00330,2024-01-01,Agence Sud,Femme,31,Divorcé(e),Primaire,Agriculture,540.0,1.0,Crédit agricole,850.0,6,0.1477,147.83,575.0,1,0.274,Caution personnelle,Mobile/Digital,7,3.0,Remboursé
+CLI00331,2023-02-07,Agence Ouest,Femme,48,Marié(e),Supérieur,Commerce,2950.0,4.7,Crédit consommation,7330.0,36,0.1738,262.72,630.0,0,0.089,Caution personnelle,Mobile/Digital,4,3.0,Remboursé
+CLI00332,2023-02-13,Agence Nord,Femme,56,Marié(e),Supérieur,Industrie,1190.0,12.8,Crédit PME,18150.0,24,0.1431,874.09,670.0,1,0.735,Hypothèque,Mobile/Digital,3,3.0,Défaut
+CLI00333,2024-06-30,Agence Ouest,Homme,31,Célibataire,Supérieur,Éducation/Santé,1590.0,4.8,Crédit agricole,5990.0,12,0.1349,536.39,728.0,0,0.337,Hypothèque,Recommandation,4,4.0,Remboursé
+CLI00334,2025-08-23,Agence Nord,Homme,53,Marié(e),Primaire,Éducation/Santé,830.0,8.5,Crédit agricole,5970.0,6,0.1106,1027.34,761.0,0,1.238,Caution personnelle,Agence,4,5.0,Remboursé
+CLI00335,2024-07-29,Agence Nord,Femme,44,Célibataire,Secondaire,Transport,980.0,11.1,Crédit agricole,5130.0,6,0.1351,889.0,636.0,0,0.907,Nantissement,Mobile/Digital,5,4.0,Remboursé
+CLI00336,2023-01-31,Agence Centre,Femme,39,Marié(e),Supérieur,Commerce,970.0,5.6,Crédit PME,27500.0,24,0.136,1315.16,583.0,0,1.356,Caution personnelle,Mobile/Digital,7,3.0,Défaut
+CLI00337,2024-07-27,Agence Centre,Femme,27,Divorcé(e),Supérieur,Services,2040.0,1.8,Crédit agricole,9670.0,24,0.1409,464.7,572.0,2,0.228,Caution personnelle,Agence,12,5.0,Remboursé
+CLI00338,2023-05-01,Agence Centre,Femme,25,Divorcé(e),Supérieur,Services,1740.0,6.2,Crédit agricole,8540.0,6,0.1448,1484.05,540.0,2,0.853,Caution personnelle,Agence,3,4.0,Remboursé
+CLI00339,2024-11-23,Agence Ouest,Homme,40,Marié(e),Secondaire,Commerce,5280.0,5.1,Crédit consommation,7230.0,12,0.1626,656.87,664.0,0,1.493,Hypothèque,Mobile/Digital,3,3.0,Défaut
+CLI00340,2024-04-10,Agence Centre,Homme,40,Marié(e),Supérieur,Commerce,2490.0,6.2,Crédit consommation,1040.0,36,0.1757,37.37,636.0,0,0.015,Aucune,Agence,6,3.0,En cours
+CLI00341,2023-12-30,Agence Sud,Femme,32,Célibataire,Primaire,Industrie,280.0,4.4,Crédit PME,27040.0,60,0.1454,636.77,622.0,1,1.5,Caution personnelle,Agence,13,4.0,Défaut
+CLI00342,2023-07-27,Agence Sud,Femme,29,Célibataire,Secondaire,Commerce,1240.0,5.9,Crédit consommation,7130.0,12,0.1509,643.84,681.0,0,0.519,Caution personnelle,Agent commercial,6,4.0,Remboursé
+CLI00343,2023-06-26,Agence Sud,Homme,26,Divorcé(e),Supérieur,Transport,1650.0,11.6,Microcrédit,1930.0,18,0.2567,130.32,448.0,0,0.079,Caution personnelle,Agent commercial,2,4.0,Remboursé
+CLI00344,2023-12-02,Agence Nord,Homme,42,Divorcé(e),Supérieur,Services,1930.0,4.7,Crédit PME,26210.0,48,0.1236,694.85,612.0,1,0.36,Caution personnelle,Agence,9,4.0,En cours
+CLI00345,2024-03-26,Agence Centre,Homme,46,Célibataire,Secondaire,Commerce,520.0,4.1,Crédit consommation,3300.0,24,0.1675,162.76,663.0,0,0.313,Aucune,Agent commercial,6,4.0,Défaut
+CLI00346,2024-07-21,Agence Centre,Homme,46,Marié(e),Secondaire,Agriculture,620.0,2.3,Crédit agricole,1950.0,24,0.1591,95.39,572.0,0,0.154,Caution personnelle,Agence,4,4.0,Défaut
+CLI00347,2024-11-19,Agence Est,Femme,45,Célibataire,Secondaire,Industrie,840.0,3.8,Crédit agricole,3450.0,6,0.147,599.9,509.0,2,0.714,Hypothèque,Agence,1,4.0,Remboursé
+CLI00348,2025-08-15,Agence Ouest,Femme,33,Marié(e),Supérieur,Commerce,1220.0,12.3,Microcrédit,1420.0,18,0.2387,94.63,646.0,0,0.078,Nantissement,Mobile/Digital,1,4.0,En cours
+CLI00349,2023-02-02,Agence Sud,Femme,55,Célibataire,Primaire,Commerce,310.0,10.1,Crédit consommation,3070.0,36,0.1723,109.81,644.0,0,0.354,Caution personnelle,Mobile/Digital,4,5.0,Remboursé
+CLI00350,2025-07-25,Agence Nord,Homme,29,Marié(e),Secondaire,Agriculture,680.0,4.4,Crédit consommation,7930.0,36,0.1727,283.79,595.0,1,0.417,Caution personnelle,Recommandation,3,3.0,En cours
+CLI00351,2024-07-15,Agence Ouest,Femme,45,Célibataire,Supérieur,Commerce,1080.0,5.7,Crédit consommation,6090.0,12,0.1417,547.29,828.0,0,0.507,Hypothèque,Agence,2,4.0,Remboursé
+CLI00352,2023-03-15,Agence Centre,Homme,35,Marié(e),Supérieur,Commerce,1570.0,3.4,Crédit consommation,5380.0,36,0.1982,199.45,495.0,1,0.127,Caution personnelle,Agent commercial,8,4.0,Remboursé
+CLI00353,2025-05-16,Agence Sud,Homme,28,Divorcé(e),Secondaire,Éducation/Santé,600.0,16.1,Crédit agricole,8040.0,24,0.1815,401.97,514.0,1,0.67,Hypothèque,Agent commercial,6,5.0,Défaut
+CLI00354,2025-05-03,Agence Ouest,Femme,32,Célibataire,Secondaire,Industrie,250.0,1.6,Crédit consommation,3580.0,36,0.1925,131.68,556.0,0,0.527,Nantissement,Agence,2,5.0,En cours
+CLI00355,2023-10-16,Agence Nord,Femme,44,Marié(e),Secondaire,Transport,1500.0,2.7,Microcrédit,1610.0,6,0.2012,284.3,764.0,0,0.19,Hypothèque,Mobile/Digital,3,5.0,Remboursé
+CLI00356,2023-06-17,Agence Nord,Homme,50,Marié(e),Supérieur,Industrie,1510.0,6.7,Microcrédit,2300.0,6,0.2598,412.9,513.0,1,0.273,Hypothèque,Agence,1,5.0,Remboursé
+CLI00357,2023-10-28,Agence Nord,Homme,42,Marié(e),Secondaire,Commerce,1000.0,1.9,Crédit PME,12320.0,60,0.1469,291.09,576.0,1,0.291,Hypothèque,Agence,9,3.0,En cours
+CLI00358,2025-03-22,Agence Sud,Homme,20,Célibataire,Supérieur,Industrie,720.0,2.4,Microcrédit,1640.0,6,0.241,292.86,566.0,0,0.407,Nantissement,Agence,8,3.0,Remboursé
+CLI00359,2025-07-07,Agence Ouest,Femme,46,Marié(e),Secondaire,Services,530.0,11.0,Crédit immobilier,61680.0,120,0.0601,685.08,726.0,0,1.293,Hypothèque,Mobile/Digital,11,2.0,En cours
+CLI00360,2023-10-24,Agence Est,Homme,20,Célibataire,Secondaire,Commerce,800.0,5.7,Crédit immobilier,83170.0,240,0.1015,810.89,579.0,0,1.014,Hypothèque,Recommandation,10,3.0,Défaut
+CLI00361,2024-04-20,Agence Nord,Femme,58,Célibataire,Primaire,Services,1000.0,5.3,Microcrédit,1860.0,12,0.2297,174.96,652.0,0,0.175,Hypothèque,Mobile/Digital,7,3.0,Remboursé
+CLI00362,2024-12-18,Agence Nord,Femme,41,Marié(e),Supérieur,Agriculture,1730.0,12.3,Crédit consommation,2760.0,36,0.1326,93.34,772.0,0,0.054,Aucune,Agence,4,4.0,En cours
+CLI00363,2023-06-30,Agence Sud,Homme,40,Marié(e),Secondaire,Éducation/Santé,680.0,0.9,Microcrédit,1090.0,18,0.2462,73.04,616.0,1,0.107,Caution personnelle,Agence,5,5.0,Défaut
+CLI00364,2024-12-19,Agence Sud,Homme,49,Célibataire,Secondaire,Transport,850.0,1.7,Crédit immobilier,43540.0,240,0.1082,444.09,468.0,1,0.522,Hypothèque,Agent commercial,17,3.0,En cours
+CLI00365,2023-08-14,Agence Centre,Homme,36,Marié(e),Secondaire,Commerce,470.0,1.7,Crédit PME,30510.0,60,0.1251,686.57,643.0,0,1.461,Aucune,Agence,8,4.0,Défaut
+CLI00366,2025-04-30,Agence Sud,Femme,36,Marié(e),Supérieur,Commerce,1010.0,12.4,Crédit agricole,3080.0,24,0.1116,143.78,775.0,0,0.142,Caution personnelle,Mobile/Digital,2,4.0,En cours
+CLI00367,2023-05-14,Agence Est,Femme,35,Célibataire,Secondaire,Industrie,1070.0,8.8,Crédit PME,32490.0,48,0.1267,866.31,629.0,0,0.81,Nantissement,Mobile/Digital,13,4.0,En cours
+CLI00368,2025-09-06,Agence Centre,Femme,40,Divorcé(e),Supérieur,Commerce,1530.0,2.2,Microcrédit,1020.0,6,0.2223,181.19,696.0,0,0.118,Caution personnelle,Agent commercial,3,4.0,Remboursé
+CLI00369,2024-12-21,Agence Est,Homme,40,Célibataire,Secondaire,Éducation/Santé,860.0,8.0,Microcrédit,1660.0,12,0.2184,155.24,702.0,0,0.181,Nantissement,Mobile/Digital,1,4.0,Remboursé
+CLI00370,2023-10-03,Agence Centre,Homme,41,Célibataire,Supérieur,Éducation/Santé,2320.0,2.9,Crédit consommation,5650.0,36,0.1638,199.7,,0,0.086,Caution personnelle,Agence,4,4.0,En cours
+CLI00371,2025-03-17,Agence Centre,Femme,20,Célibataire,Secondaire,Services,860.0,4.3,Crédit PME,10220.0,60,0.0869,210.62,770.0,0,0.245,Nantissement,Agence,10,3.0,En cours
+CLI00372,2024-09-20,Agence Sud,Homme,38,Célibataire,Supérieur,Commerce,850.0,12.2,Crédit agricole,3430.0,24,0.1447,165.45,568.0,3,0.195,Caution personnelle,Recommandation,3,3.0,Défaut
+CLI00373,2024-04-21,Agence Est,Homme,23,Divorcé(e),Primaire,Industrie,810.0,5.6,Crédit PME,18580.0,24,0.1367,889.19,626.0,1,1.098,Caution personnelle,Mobile/Digital,9,3.0,Défaut
+CLI00374,2025-01-09,Agence Sud,Homme,66,Marié(e),Supérieur,Transport,1920.0,3.1,Crédit agricole,7190.0,24,0.1663,354.21,587.0,3,0.184,Aucune,Agent commercial,4,4.0,Défaut
+CLI00375,2024-11-20,Agence Sud,Homme,47,Célibataire,Secondaire,Services,,8.7,Microcrédit,1550.0,6,0.2114,274.49,608.0,1,0.235,Hypothèque,Agence,6,4.0,Remboursé
+CLI00376,2023-03-21,Agence Centre,Femme,48,Marié(e),Secondaire,Fonction publique,650.0,3.8,Crédit consommation,4010.0,12,0.1302,358.2,815.0,0,0.551,Caution personnelle,Agence,12,3.0,Remboursé
+CLI00377,2023-08-18,Agence Sud,Homme,44,Célibataire,Supérieur,Fonction publique,1790.0,8.1,Crédit PME,22610.0,24,0.1245,1069.09,663.0,0,0.597,Caution personnelle,Agence,6,2.0,Remboursé
+CLI00378,2024-10-24,Agence Sud,Homme,46,Célibataire,Secondaire,Commerce,1420.0,10.3,Microcrédit,1860.0,18,0.2017,120.61,777.0,0,0.085,Aucune,Agence,12,3.0,Remboursé
+CLI00379,2024-02-10,Agence Centre,Homme,30,Célibataire,Supérieur,Services,1200.0,3.6,Crédit PME,8290.0,60,0.1293,188.33,632.0,2,0.157,Aucune,Agence,8,3.0,En cours
+CLI00380,2023-11-18,Agence Est,Femme,47,Veuf/Veuve,Secondaire,Agriculture,1090.0,7.5,Crédit agricole,9660.0,12,0.1309,863.21,713.0,0,0.792,Caution personnelle,Agent commercial,4,4.0,Remboursé
+CLI00381,2024-06-29,Agence Centre,Homme,48,Divorcé(e),Primaire,Éducation/Santé,760.0,6.5,Crédit agricole,2920.0,24,0.1416,140.42,579.0,2,0.185,Nantissement,Mobile/Digital,1,5.0,Remboursé
+CLI00382,2023-06-11,Agence Nord,Femme,41,Marié(e),Supérieur,Fonction publique,2990.0,1.2,Crédit PME,6080.0,60,0.1461,143.4,,1,0.048,Hypothèque,Agence,6,4.0,En cours
+CLI00383,2025-09-09,Agence Nord,Femme,47,Marié(e),Secondaire,Commerce,520.0,15.5,Crédit PME,26660.0,24,0.1412,1281.54,549.0,0,1.5,Hypothèque,Mobile/Digital,6,4.0,En cours
+CLI00384,2024-07-03,Agence Est,Femme,50,Célibataire,Secondaire,Agriculture,540.0,7.9,Crédit consommation,900.0,12,0.1342,80.56,768.0,0,0.149,Caution personnelle,Recommandation,10,3.0,Remboursé
+CLI00385,2023-01-07,Agence Ouest,Homme,39,Marié(e),Secondaire,Services,600.0,11.3,Microcrédit,1360.0,12,0.2516,129.37,543.0,3,0.216,Caution personnelle,Agence,10,3.0,Défaut
+CLI00386,2024-04-06,Agence Est,Homme,28,Divorcé(e),Supérieur,Éducation/Santé,18000.0,2.6,Crédit immobilier,30190.0,120,0.1309,452.37,463.0,1,0.302,Hypothèque,Recommandation,16,2.0,Défaut
+CLI00387,2025-01-13,Agence Centre,Homme,47,Veuf/Veuve,Secondaire,Fonction publique,770.0,0.3,Crédit consommation,1520.0,24,0.1814,75.99,548.0,2,0.099,Caution personnelle,Mobile/Digital,5,2.0,Défaut
+CLI00388,2024-07-31,Agence Centre,Femme,54,Marié(e),Secondaire,Fonction publique,840.0,10.1,Crédit consommation,4150.0,24,0.1275,196.81,850.0,0,0.234,Aucune,Mobile/Digital,8,3.0,Remboursé
+CLI00389,2024-05-24,Agence Nord,Femme,27,Marié(e),Supérieur,Commerce,1790.0,1.8,Crédit consommation,3560.0,24,0.1533,173.17,717.0,0,0.097,Caution personnelle,Mobile/Digital,1,4.0,Remboursé
+CLI00390,2024-10-03,Agence Nord,Homme,51,Divorcé(e),Supérieur,Services,1130.0,3.7,Crédit consommation,3920.0,12,0.1868,360.66,529.0,3,0.319,Caution personnelle,Agence,8,4.0,Remboursé
+CLI00391,2023-01-26,Agence Est,Femme,42,Marié(e),Primaire,Fonction publique,560.0,1.7,Crédit PME,37080.0,36,0.1033,1202.22,763.0,0,1.5,Caution personnelle,Recommandation,10,4.0,Remboursé
+CLI00392,2024-05-13,Agence Sud,Femme,45,Marié(e),Secondaire,Agriculture,540.0,7.8,Crédit consommation,7410.0,24,0.1963,375.8,585.0,1,0.696,Aucune,Agent commercial,6,3.0,Remboursé
+CLI00393,2024-02-07,Agence Nord,Homme,47,Marié(e),Supérieur,Éducation/Santé,1400.0,2.1,Crédit consommation,5080.0,36,0.1786,183.3,565.0,0,0.131,Aucune,Agence,8,4.0,Défaut
+CLI00394,2025-06-24,Agence Sud,Homme,28,Divorcé(e),Secondaire,Commerce,470.0,2.5,Crédit consommation,4610.0,12,0.1986,426.74,458.0,2,0.908,Caution personnelle,Agence,4,4.0,Remboursé
+CLI00395,2024-08-06,Agence Nord,Femme,42,Marié(e),Supérieur,Transport,2760.0,6.4,Crédit consommation,4760.0,36,0.171,169.94,682.0,0,0.062,Hypothèque,Agence,1,3.0,En cours
+CLI00396,2023-06-27,Agence Ouest,Femme,49,Célibataire,Secondaire,Fonction publique,310.0,11.6,Crédit immobilier,51520.0,180,0.1191,615.35,551.0,0,1.5,Hypothèque,Mobile/Digital,16,3.0,Défaut
+CLI00397,2025-05-03,Agence Est,Homme,53,Marié(e),Secondaire,Éducation/Santé,650.0,14.3,Crédit agricole,2820.0,6,0.1032,484.25,850.0,0,0.745,Aucune,Agence,3,5.0,Remboursé
+CLI00398,2023-10-16,Agence Est,Homme,48,Marié(e),Supérieur,Fonction publique,870.0,3.1,Microcrédit,640.0,12,0.2276,60.13,,2,0.069,Aucune,Recommandation,6,4.0,Remboursé
+CLI00399,2025-09-22,Agence Ouest,Femme,30,Célibataire,Supérieur,Industrie,1840.0,11.3,Crédit PME,20680.0,36,0.1437,710.52,571.0,1,0.386,Aucune,Agent commercial,10,4.0,En cours
+CLI00400,2023-12-23,Agence Est,Homme,41,Célibataire,Supérieur,Industrie,1910.0,6.8,Microcrédit,2100.0,6,0.223,373.11,694.0,0,0.195,Caution personnelle,Mobile/Digital,4,3.0,Remboursé
+CLI00401,2025-04-28,Agence Sud,Femme,37,Marié(e),Secondaire,Commerce,,8.0,Microcrédit,610.0,6,0.2411,108.93,606.0,0,0.147,Hypothèque,Agence,10,4.0,Remboursé
+CLI00402,2025-02-13,Agence Est,Homme,40,Marié(e),Secondaire,Commerce,540.0,4.3,Crédit consommation,1230.0,12,0.1667,111.99,636.0,1,0.207,Caution personnelle,Recommandation,4,3.0,Remboursé
+CLI00403,2024-12-23,Agence Sud,Homme,50,Marié(e),Supérieur,Services,870.0,2.5,Crédit consommation,2350.0,36,0.1775,84.66,623.0,0,0.097,Caution personnelle,Recommandation,9,4.0,En cours
+CLI00404,2024-10-14,Agence Ouest,Femme,25,Célibataire,Supérieur,Services,1120.0,9.2,Microcrédit,530.0,6,0.223,94.17,700.0,0,0.084,Caution personnelle,Agent commercial,5,5.0,Remboursé
+CLI00405,2023-01-23,Agence Nord,Homme,44,Célibataire,Supérieur,Agriculture,1520.0,12.4,Microcrédit,470.0,12,0.2279,44.17,680.0,0,0.029,Caution personnelle,Agence,5,3.0,Remboursé
+CLI00406,2023-07-26,Agence Nord,Homme,43,Célibataire,Secondaire,Services,1260.0,2.7,Microcrédit,1670.0,12,0.2026,154.91,651.0,1,0.123,Caution personnelle,Mobile/Digital,10,3.0,Remboursé
+CLI00407,2025-05-23,Agence Centre,Homme,29,Marié(e),Supérieur,Agriculture,1790.0,3.2,Microcrédit,2680.0,18,0.2636,181.87,481.0,2,0.102,Caution personnelle,Agence,6,5.0,Défaut
+CLI00408,2025-01-14,Agence Ouest,Homme,50,Célibataire,Secondaire,Commerce,1210.0,4.4,Crédit consommation,7870.0,36,0.1475,271.85,706.0,0,0.225,Caution personnelle,Agence,6,5.0,En cours
+CLI00409,2024-04-07,Agence Centre,Homme,33,Marié(e),Secondaire,Industrie,790.0,4.7,Crédit consommation,1650.0,24,0.1553,80.42,686.0,0,0.102,Caution personnelle,Mobile/Digital,9,,Remboursé
+CLI00410,2025-02-10,Agence Ouest,Homme,39,Marié(e),Secondaire,Agriculture,770.0,6.5,Crédit agricole,4900.0,24,0.1685,241.91,423.0,4,0.314,Caution personnelle,Agence,3,4.0,Défaut
+CLI00411,2024-10-18,Agence Nord,Femme,20,Marié(e),Supérieur,Services,1740.0,12.5,Crédit agricole,3210.0,12,0.1347,287.42,577.0,2,0.165,Hypothèque,Agence,7,5.0,Remboursé
+CLI00412,2025-02-09,Agence Ouest,Homme,50,Marié(e),Secondaire,Fonction publique,890.0,6.5,Crédit agricole,3570.0,12,0.1517,322.51,578.0,0,0.362,Caution personnelle,Agence,3,4.0,Remboursé
+CLI00413,2024-06-17,Agence Centre,Homme,36,Marié(e),Secondaire,Commerce,630.0,8.9,Crédit agricole,9800.0,24,0.1631,481.29,619.0,0,0.764,Aucune,Agence,7,4.0,Remboursé
+CLI00414,2023-03-20,Agence Centre,Femme,36,Marié(e),Secondaire,Transport,1030.0,12.6,Microcrédit,1770.0,6,0.2217,314.37,692.0,0,0.305,Hypothèque,Mobile/Digital,4,5.0,Remboursé
+CLI00415,2024-02-12,Agence Est,Homme,54,Marié(e),Secondaire,Éducation/Santé,910.0,13.6,Crédit agricole,6250.0,24,0.1396,299.96,688.0,0,0.33,Aucune,Mobile/Digital,13,4.0,Remboursé
+CLI00416,2023-08-01,Agence Nord,Femme,20,Veuf/Veuve,Supérieur,Services,1220.0,9.9,Crédit consommation,4170.0,12,0.1745,381.21,570.0,0,0.312,Caution personnelle,Recommandation,7,4.0,Remboursé
+CLI00417,2025-05-12,Agence Nord,Femme,48,Divorcé(e),Supérieur,Services,1860.0,15.4,Crédit agricole,7780.0,6,0.1524,1354.91,614.0,0,0.728,Aucune,Recommandation,4,4.0,Remboursé
+CLI00418,2025-06-14,Agence Centre,Femme,50,Célibataire,Supérieur,Agriculture,1250.0,5.2,Crédit agricole,3220.0,24,0.1325,153.46,642.0,0,0.123,Caution personnelle,Agence,4,5.0,En cours
+CLI00419,2023-07-22,Agence Centre,Femme,20,Marié(e),Supérieur,Commerce,1420.0,1.7,Microcrédit,1130.0,18,0.2253,74.56,685.0,0,0.053,Hypothèque,Agence,5,5.0,Remboursé
+CLI00420,2025-05-29,Agence Ouest,Homme,42,Marié(e),Secondaire,Industrie,690.0,12.6,Crédit consommation,2270.0,12,0.1445,204.3,767.0,0,0.296,Aucune,Agent commercial,12,3.0,Remboursé
+CLI00421,2023-11-26,Agence Sud,Homme,35,Célibataire,Secondaire,Commerce,820.0,4.6,Crédit agricole,4080.0,24,0.0937,187.09,838.0,0,0.228,Aucune,Recommandation,3,4.0,Remboursé
+CLI00422,2023-07-25,Agence Est,Femme,28,Marié(e),Secondaire,Éducation/Santé,1090.0,3.8,Crédit PME,23900.0,24,0.125,1130.64,694.0,0,1.037,Aucune,Agent commercial,9,4.0,Remboursé
+CLI00423,2023-09-30,Agence Nord,Homme,26,Marié(e),Supérieur,Commerce,950.0,11.6,Crédit consommation,5850.0,12,0.1673,532.8,650.0,0,0.561,Hypothèque,Recommandation,8,4.0,Remboursé
+CLI00424,2024-07-05,Agence Sud,Femme,46,Marié(e),Secondaire,Fonction publique,940.0,3.8,Microcrédit,610.0,18,0.2339,40.51,548.0,1,0.043,Caution personnelle,Mobile/Digital,1,4.0,Remboursé
+CLI00425,2023-08-28,Agence Ouest,Femme,51,Marié(e),Secondaire,Commerce,740.0,4.5,Crédit immobilier,58950.0,180,0.0727,538.8,756.0,0,0.728,Hypothèque,Recommandation,22,2.0,En cours
+CLI00426,2023-09-20,Agence Ouest,Femme,28,Marié(e),Secondaire,Éducation/Santé,620.0,13.4,Microcrédit,490.0,6,0.2324,87.29,616.0,1,0.141,Hypothèque,Agence,10,,Remboursé
+CLI00427,2024-11-30,Agence Sud,Femme,29,Divorcé(e),Supérieur,Commerce,980.0,5.6,Crédit agricole,2370.0,12,0.1155,210.07,738.0,0,0.214,Nantissement,Mobile/Digital,5,5.0,Remboursé
+CLI00428,2024-02-21,Agence Est,Homme,47,Marié(e),Primaire,Services,570.0,5.9,Crédit consommation,850.0,12,0.1466,76.58,747.0,0,0.134,Aucune,Agence,2,5.0,Remboursé
+CLI00429,2024-11-28,Agence Centre,Homme,63,Célibataire,Secondaire,Commerce,710.0,9.6,Microcrédit,990.0,6,0.2291,176.2,495.0,3,0.248,Aucune,Agence,4,4.0,Défaut
+CLI00430,2023-01-21,Agence Nord,Femme,23,Célibataire,Secondaire,Services,880.0,5.1,Crédit agricole,5140.0,6,0.1458,893.46,604.0,1,1.015,Caution personnelle,Agent commercial,7,,Défaut
+CLI00431,2023-04-08,Agence Sud,Femme,24,Célibataire,Secondaire,Fonction publique,910.0,10.2,Crédit PME,20030.0,36,0.1133,658.89,643.0,1,0.724,Caution personnelle,Agent commercial,22,3.0,Remboursé
+CLI00432,2023-10-09,Agence Nord,Homme,28,Marié(e),Secondaire,Agriculture,1390.0,1.6,Microcrédit,2170.0,6,0.2279,386.08,659.0,3,0.278,Caution personnelle,Agent commercial,8,5.0,Remboursé
+CLI00433,2023-12-28,Agence Nord,Homme,28,Marié(e),Secondaire,Agriculture,1370.0,10.7,Crédit consommation,1860.0,36,0.164,65.76,634.0,2,0.048,Hypothèque,Mobile/Digital,7,3.0,En cours
+CLI00434,2023-09-28,Agence Est,Homme,51,Célibataire,Supérieur,Services,2100.0,17.2,Crédit consommation,5620.0,24,0.1708,278.08,673.0,0,0.132,Aucune,Recommandation,4,3.0,Remboursé
+CLI00435,2024-01-31,Agence Centre,Femme,29,Marié(e),Supérieur,Fonction publique,2150.0,19.3,Microcrédit,420.0,12,0.2519,39.96,485.0,2,0.019,Hypothèque,Agence,5,3.0,Défaut
+CLI00436,2025-07-08,Agence Ouest,Homme,62,Marié(e),Secondaire,Industrie,1780.0,20.0,Crédit consommation,2390.0,36,0.1769,86.03,679.0,0,0.048,Aucune,Agence,2,4.0,En cours
+CLI00437,2024-04-05,Agence Centre,Femme,44,Célibataire,Supérieur,Fonction publique,,5.0,Microcrédit,2430.0,18,0.2293,160.82,666.0,0,0.09,Caution personnelle,Agence,8,3.0,Remboursé
+CLI00438,2024-08-10,Agence Est,Femme,49,Veuf/Veuve,Secondaire,Fonction publique,1040.0,4.0,Crédit immobilier,63600.0,120,0.0799,771.31,612.0,2,0.742,Hypothèque,Agent commercial,18,3.0,En cours
+CLI00439,2025-02-28,Agence Sud,Femme,45,Célibataire,Secondaire,Fonction publique,1010.0,3.3,Microcrédit,2730.0,18,0.2336,181.24,630.0,1,0.179,Aucune,Agent commercial,8,3.0,Remboursé
+CLI00440,2023-06-27,Agence Est,Homme,28,Marié(e),Supérieur,Services,1230.0,3.1,Crédit agricole,4090.0,6,0.1768,717.25,526.0,0,0.583,Nantissement,Recommandation,1,4.0,Remboursé
+CLI00441,2023-05-25,Agence Nord,Homme,25,Divorcé(e),Supérieur,Services,1580.0,5.1,Crédit consommation,5590.0,36,0.1518,194.27,751.0,0,0.123,Aucune,Mobile/Digital,4,4.0,Remboursé
+CLI00442,2024-03-03,Agence Nord,Femme,49,Divorcé(e),Secondaire,Industrie,870.0,6.2,Crédit consommation,5110.0,36,0.1414,175.0,693.0,0,0.201,Nantissement,Mobile/Digital,2,5.0,En cours
+CLI00443,2024-09-13,Agence Sud,Femme,52,Marié(e),Secondaire,Services,880.0,11.2,Crédit agricole,3730.0,6,0.1354,646.45,644.0,0,0.735,Aucune,Mobile/Digital,6,4.0,Remboursé
+CLI00444,2024-05-07,Agence Ouest,Femme,44,Marié(e),Secondaire,Agriculture,890.0,3.3,Crédit agricole,8580.0,12,0.1456,772.64,632.0,0,0.868,Caution personnelle,Recommandation,2,4.0,Remboursé
+CLI00445,2023-04-30,Agence Est,Homme,39,Marié(e),Primaire,Agriculture,450.0,3.9,Crédit consommation,5900.0,24,0.1424,283.95,816.0,0,0.631,Caution personnelle,Agence,5,5.0,Remboursé
+CLI00446,2024-09-29,Agence Centre,Homme,40,Célibataire,Supérieur,Commerce,2000.0,3.8,Crédit consommation,6560.0,24,0.1485,317.61,714.0,0,0.159,Caution personnelle,Agence,10,4.0,Remboursé
+CLI00447,2025-07-13,Agence Centre,Homme,41,Marié(e),Secondaire,Éducation/Santé,550.0,4.2,Crédit agricole,3690.0,24,0.1365,176.56,668.0,1,0.321,Caution personnelle,Agence,2,5.0,En cours
+CLI00448,2024-06-16,Agence Centre,Femme,25,Marié(e),Supérieur,Services,1810.0,9.0,Crédit consommation,6600.0,24,0.1767,328.45,622.0,0,0.181,Hypothèque,Agent commercial,3,4.0,Défaut
+CLI00449,2025-06-17,Agence Nord,Femme,40,Célibataire,Secondaire,Commerce,640.0,15.0,Crédit PME,11580.0,60,0.1389,268.79,633.0,1,0.42,Nantissement,Agence,10,3.0,En cours
+CLI00450,2024-02-25,Agence Centre,Femme,39,Célibataire,Secondaire,Transport,,7.2,Microcrédit,1990.0,6,0.2383,355.1,650.0,1,0.888,Caution personnelle,Agence,3,4.0,Remboursé
+CLI00451,2024-02-05,Agence Ouest,Homme,21,Veuf/Veuve,Supérieur,Industrie,910.0,5.3,Crédit agricole,1070.0,12,0.1576,96.96,552.0,1,0.107,Aucune,Agence,2,4.0,Défaut
+CLI00452,2023-11-07,Agence Centre,Femme,20,Marié(e),Supérieur,Éducation/Santé,1510.0,3.7,Crédit consommation,6820.0,24,0.1805,340.65,620.0,2,0.226,Caution personnelle,Agence,9,3.0,Remboursé
+CLI00453,2024-06-04,Agence Nord,Homme,36,Célibataire,Supérieur,Commerce,1960.0,6.6,Crédit agricole,6610.0,12,0.1195,587.14,685.0,0,0.3,Caution personnelle,Agent commercial,13,4.0,Remboursé
+CLI00454,2024-07-28,Agence Centre,Femme,20,Célibataire,Supérieur,Agriculture,1290.0,6.6,Microcrédit,960.0,6,0.2241,170.62,631.0,0,0.132,Caution personnelle,Recommandation,1,5.0,Remboursé
+CLI00455,2023-04-16,Agence Nord,Femme,20,Marié(e),Secondaire,Commerce,790.0,8.0,Microcrédit,2590.0,18,0.2298,171.47,641.0,1,0.217,Caution personnelle,Mobile/Digital,4,4.0,Remboursé
+CLI00456,2025-09-02,Agence Sud,Homme,21,Célibataire,Supérieur,Agriculture,1820.0,10.8,Microcrédit,2290.0,18,0.2101,149.42,670.0,0,0.082,Nantissement,Recommandation,4,3.0,En cours
+CLI00457,2023-06-03,Agence Nord,Homme,41,Célibataire,Secondaire,Commerce,720.0,17.3,Crédit agricole,840.0,6,0.1437,145.93,549.0,2,0.203,Aucune,Mobile/Digital,1,4.0,Remboursé
+CLI00458,2024-07-06,Agence Centre,Femme,39,Divorcé(e),Secondaire,Commerce,1010.0,2.8,Crédit PME,10860.0,36,0.1068,353.9,733.0,0,0.35,Hypothèque,Mobile/Digital,5,3.0,En cours
+CLI00459,2023-11-07,Agence Est,Homme,40,Marié(e),Secondaire,Industrie,1350.0,6.5,Crédit consommation,3680.0,36,0.1876,134.45,576.0,1,0.1,Aucune,Agent commercial,4,5.0,En cours
+CLI00460,2025-06-06,Agence Ouest,Homme,57,Marié(e),Primaire,Commerce,690.0,5.3,Microcrédit,690.0,18,0.2046,44.84,735.0,0,0.065,Nantissement,Agent commercial,2,4.0,En cours
+CLI00461,2024-10-06,Agence Centre,Homme,44,Marié(e),Secondaire,Agriculture,630.0,8.6,Crédit agricole,6090.0,24,0.1548,296.67,636.0,2,0.471,Hypothèque,Agent commercial,3,5.0,En cours
+CLI00462,2023-01-16,Agence Centre,Femme,55,Marié(e),Secondaire,Services,570.0,5.6,Crédit immobilier,37200.0,180,0.0908,379.08,666.0,0,0.665,Hypothèque,Agent commercial,15,3.0,Défaut
+CLI00463,2023-01-28,Agence Est,Femme,41,Célibataire,Secondaire,Éducation/Santé,1620.0,16.2,Crédit consommation,5170.0,24,0.1685,255.24,570.0,1,0.158,Caution personnelle,Agence,6,4.0,Remboursé
+CLI00464,2023-07-23,Agence Nord,Femme,50,Marié(e),Supérieur,Services,2340.0,7.9,Crédit PME,33430.0,60,0.1377,773.88,573.0,0,0.331,Nantissement,Agent commercial,10,4.0,En cours
+CLI00465,2025-03-31,Agence Centre,Homme,55,Célibataire,Supérieur,Agriculture,,4.0,Microcrédit,1980.0,6,0.2037,349.88,757.0,0,0.136,Caution personnelle,Mobile/Digital,5,5.0,Remboursé
+CLI00466,2025-05-14,Agence Centre,Femme,60,Célibataire,Secondaire,Agriculture,920.0,4.5,Crédit immobilier,30590.0,240,0.075,246.43,635.0,0,0.268,Hypothèque,Mobile/Digital,8,4.0,En cours
+CLI00467,2024-07-04,Agence Ouest,Homme,37,Marié(e),Supérieur,Fonction publique,1270.0,7.3,Crédit PME,32180.0,60,0.1439,755.29,571.0,2,0.595,Caution personnelle,Agence,9,4.0,En cours
+CLI00468,2024-07-23,Agence Est,Homme,27,Célibataire,Supérieur,Fonction publique,1990.0,14.4,Microcrédit,1800.0,12,0.2274,169.11,622.0,0,0.085,Caution personnelle,Agence,2,4.0,Remboursé
+CLI00469,2024-10-08,Agence Sud,Homme,40,Marié(e),Secondaire,Services,570.0,1.0,Crédit consommation,5400.0,12,0.1651,491.25,614.0,1,0.862,Hypothèque,Agent commercial,5,3.0,Défaut
+CLI00470,2024-05-02,Agence Centre,Femme,53,Marié(e),Supérieur,Industrie,1420.0,8.0,Crédit agricole,980.0,6,0.1426,170.19,639.0,0,0.12,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00471,2024-05-25,Agence Ouest,Femme,55,Marié(e),Supérieur,Services,1890.0,4.9,Crédit consommation,4870.0,12,0.1515,439.9,683.0,0,0.233,Nantissement,Mobile/Digital,5,4.0,Remboursé
+CLI00472,2024-01-04,Agence Nord,Femme,40,Célibataire,Primaire,Éducation/Santé,510.0,9.0,Crédit agricole,8040.0,6,0.1484,1398.59,610.0,0,1.5,Caution personnelle,Recommandation,5,4.0,Remboursé
+CLI00473,2024-05-05,Agence Nord,Homme,43,Célibataire,Secondaire,Éducation/Santé,630.0,2.8,Crédit immobilier,48930.0,180,0.0699,439.52,775.0,0,0.698,Hypothèque,Mobile/Digital,11,4.0,En cours
+CLI00474,2023-10-23,Agence Est,Femme,56,Marié(e),Supérieur,Transport,1880.0,2.8,Crédit immobilier,54310.0,120,0.0695,629.19,715.0,1,0.335,Hypothèque,Agence,18,3.0,En cours
+CLI00475,2025-01-17,Agence Est,Femme,41,Marié(e),Supérieur,Industrie,1420.0,2.0,Crédit agricole,4580.0,12,0.1497,413.32,516.0,7,0.291,Caution personnelle,Agence,2,4.0,Défaut
+CLI00476,2024-11-09,Agence Centre,Femme,46,Marié(e),Secondaire,Commerce,1070.0,11.8,Crédit agricole,2830.0,12,0.1566,256.31,564.0,1,0.24,Aucune,Agent commercial,9,4.0,Défaut
+CLI00477,2024-12-17,Agence Sud,Homme,49,Marié(e),Supérieur,Industrie,1420.0,4.3,Crédit immobilier,54220.0,180,0.1311,689.94,527.0,1,0.486,Hypothèque,Agence,13,4.0,En cours
+CLI00478,2024-01-01,Agence Nord,Homme,37,Célibataire,Secondaire,Fonction publique,810.0,1.5,Crédit PME,28130.0,48,0.1195,740.08,590.0,1,0.914,Aucune,Agent commercial,12,2.0,Défaut
+CLI00479,2024-01-31,Agence Ouest,Homme,30,Marié(e),Secondaire,Agriculture,580.0,0.9,Crédit agricole,8470.0,24,0.1491,410.32,574.0,1,0.707,Caution personnelle,Agence,2,5.0,Défaut
+CLI00480,2024-03-11,Agence Nord,Femme,65,Célibataire,Supérieur,Industrie,2980.0,5.8,Microcrédit,610.0,18,0.2023,39.57,753.0,0,0.013,Aucune,Mobile/Digital,1,4.0,Remboursé
+CLI00481,2024-08-25,Agence Nord,Homme,33,Marié(e),Secondaire,Commerce,1440.0,1.5,Crédit consommation,2300.0,12,0.1595,208.63,675.0,0,0.145,Caution personnelle,Agent commercial,5,4.0,Remboursé
+CLI00482,2025-02-15,Agence Sud,Homme,28,Célibataire,Supérieur,Agriculture,1170.0,10.9,Microcrédit,750.0,18,0.2058,48.78,789.0,1,0.042,Aucune,Agence,12,4.0,Remboursé
+CLI00483,2023-01-09,Agence Ouest,Homme,36,Marié(e),Secondaire,Commerce,710.0,6.2,Crédit immobilier,86280.0,120,0.0948,1115.5,596.0,0,1.5,Hypothèque,Agence,14,3.0,Défaut
+CLI00484,2025-08-04,Agence Sud,Homme,41,Marié(e),Secondaire,Services,1270.0,6.9,Microcrédit,1050.0,18,0.2627,71.21,507.0,1,0.056,Hypothèque,Mobile/Digital,9,4.0,En cours
+CLI00485,2025-05-12,Agence Sud,Homme,42,Célibataire,Secondaire,Commerce,560.0,1.7,Crédit agricole,1780.0,6,0.1392,308.83,652.0,0,0.551,Caution personnelle,Agence,8,4.0,Remboursé
+CLI00486,2025-09-20,Agence Centre,Homme,36,Marié(e),Secondaire,Commerce,1190.0,4.7,Microcrédit,1130.0,18,0.2076,73.6,775.0,0,0.062,Caution personnelle,Mobile/Digital,1,4.0,En cours
+CLI00487,2023-10-05,Agence Centre,Femme,44,Divorcé(e),Supérieur,Fonction publique,2090.0,3.7,Crédit consommation,7270.0,24,0.1657,357.94,558.0,2,0.171,Caution personnelle,Mobile/Digital,4,4.0,Remboursé
+CLI00488,2024-04-29,Agence Est,Homme,57,Marié(e),Supérieur,Fonction publique,1340.0,6.7,Microcrédit,2680.0,18,0.2553,180.77,545.0,2,0.135,Nantissement,Agent commercial,3,5.0,Remboursé
+CLI00489,2024-06-30,Agence Centre,Femme,36,Célibataire,Supérieur,Fonction publique,2290.0,3.0,Microcrédit,1560.0,12,0.2211,146.09,700.0,0,0.064,Caution personnelle,Agence,3,4.0,Remboursé
+CLI00490,2023-05-19,Agence Ouest,Femme,39,Veuf/Veuve,Supérieur,Industrie,1780.0,5.0,Microcrédit,1260.0,12,0.2288,118.46,620.0,0,0.067,Caution personnelle,Agence,6,4.0,Remboursé
+CLI00491,2023-12-24,Agence Ouest,Homme,53,Marié(e),Supérieur,Agriculture,1650.0,6.6,Crédit PME,29450.0,48,0.1265,784.96,677.0,0,0.476,Aucune,Recommandation,10,5.0,En cours
+CLI00492,2023-01-25,Agence Sud,Homme,29,Célibataire,Primaire,Commerce,520.0,2.3,Microcrédit,600.0,18,0.2608,40.63,525.0,1,0.078,Caution personnelle,Agence,10,3.0,Défaut
+CLI00493,2023-04-30,Agence Nord,Femme,27,Célibataire,Supérieur,Commerce,1700.0,7.4,Crédit immobilier,68080.0,120,0.089,858.73,611.0,0,0.505,Hypothèque,Mobile/Digital,19,2.0,Défaut
+CLI00494,2024-05-09,Agence Ouest,Homme,32,Marié(e),Secondaire,Éducation/Santé,560.0,9.8,Crédit consommation,2610.0,24,0.1654,128.47,687.0,0,0.229,Caution personnelle,Agence,7,,Remboursé
+CLI00495,2023-11-12,Agence Est,Femme,38,Célibataire,Supérieur,Services,1600.0,7.6,Crédit consommation,7600.0,24,0.134,362.75,691.0,0,0.227,Caution personnelle,Recommandation,7,4.0,Défaut
+CLI00496,2023-03-18,Agence Est,Femme,48,Célibataire,Secondaire,Industrie,780.0,2.0,Crédit consommation,1990.0,12,0.1692,181.42,684.0,0,0.233,Caution personnelle,Mobile/Digital,4,4.0,Remboursé
+CLI00497,2025-04-15,Agence Centre,Femme,22,Divorcé(e),Primaire,Industrie,430.0,5.6,Microcrédit,1380.0,18,0.2114,90.13,714.0,0,0.21,Hypothèque,Mobile/Digital,9,3.0,En cours
+CLI00498,2023-04-28,Agence Sud,Homme,32,Célibataire,Secondaire,Fonction publique,970.0,3.9,Crédit consommation,4970.0,36,0.1653,176.03,604.0,0,0.181,Caution personnelle,Mobile/Digital,1,3.0,Défaut
+CLI00499,2023-08-20,Agence Est,Femme,27,Marié(e),Primaire,Industrie,410.0,3.8,Crédit agricole,6630.0,24,0.1398,318.26,559.0,0,0.776,Hypothèque,Recommandation,5,4.0,Remboursé
+CLI00500,2023-08-23,Agence Centre,Homme,22,Marié(e),Supérieur,Industrie,1650.0,4.6,Crédit PME,8280.0,60,0.1624,202.41,428.0,0,0.123,Aucune,Mobile/Digital,6,4.0,Défaut
+CLI00501,2024-05-31,Agence Centre,Femme,26,Marié(e),Secondaire,Services,1030.0,5.9,Crédit PME,39390.0,24,0.1201,1854.41,579.0,2,1.5,Nantissement,Recommandation,7,3.0,Défaut
+CLI00502,2025-09-18,Agence Nord,Femme,47,Célibataire,Supérieur,Commerce,1210.0,7.0,Crédit PME,12240.0,36,0.1403,418.51,644.0,0,0.346,Caution personnelle,Mobile/Digital,6,3.0,En cours
+CLI00503,2023-01-29,Agence Est,Homme,40,Marié(e),Primaire,Industrie,450.0,4.1,Crédit consommation,2550.0,36,0.1687,90.75,650.0,1,0.202,Aucune,Agent commercial,4,3.0,Remboursé
+CLI00504,2023-06-12,Agence Centre,Homme,41,Célibataire,Secondaire,Industrie,600.0,5.6,Microcrédit,1310.0,18,0.2126,85.64,637.0,0,0.143,Aucune,Mobile/Digital,1,5.0,Remboursé
+CLI00505,2023-11-30,Agence Est,Femme,45,Célibataire,Secondaire,Transport,760.0,5.6,Crédit PME,20250.0,48,0.1179,531.17,622.0,1,0.699,Nantissement,Agence,13,3.0,Défaut
+CLI00506,2023-04-21,Agence Sud,Femme,44,Célibataire,Primaire,Industrie,610.0,7.8,Microcrédit,300.0,6,0.2583,53.83,517.0,2,0.088,Hypothèque,Agence,11,4.0,Remboursé
+CLI00507,2023-01-08,Agence Est,Homme,43,Célibataire,Secondaire,Services,970.0,2.2,Crédit agricole,1850.0,6,0.128,319.95,784.0,0,0.33,Caution personnelle,Agent commercial,10,4.0,Remboursé
+CLI00508,2025-07-04,Agence Centre,Homme,59,Célibataire,Primaire,Services,250.0,8.6,Crédit agricole,7340.0,24,0.1301,348.99,712.0,0,1.396,Caution personnelle,Agence,13,3.0,En cours
+CLI00509,2023-08-12,Agence Ouest,Homme,46,Veuf/Veuve,Secondaire,Services,600.0,7.6,Microcrédit,1870.0,18,0.2223,123.12,660.0,0,0.205,Caution personnelle,Agent commercial,5,5.0,Remboursé
+CLI00510,2024-09-14,Agence Centre,Femme,20,Marié(e),Secondaire,Fonction publique,930.0,9.1,Microcrédit,620.0,6,0.2483,110.94,618.0,0,0.119,Nantissement,Agence,10,4.0,Remboursé
+CLI00511,2025-06-03,Agence Est,Homme,45,Divorcé(e),Secondaire,Fonction publique,320.0,2.3,Crédit immobilier,53200.0,120,0.0893,671.9,629.0,1,1.5,Hypothèque,Agent commercial,19,2.0,Défaut
+CLI00512,2025-01-09,Agence Centre,Homme,49,Veuf/Veuve,Primaire,Services,390.0,5.3,Crédit immobilier,31120.0,180,0.0637,268.87,741.0,0,0.689,Hypothèque,Agent commercial,16,5.0,En cours
+CLI00513,2023-02-12,Agence Est,Homme,44,Marié(e),Secondaire,Agriculture,550.0,17.7,Crédit agricole,3460.0,24,0.1448,166.91,570.0,0,0.303,Aucune,Agent commercial,2,4.0,Défaut
+CLI00514,2023-12-21,Agence Nord,Femme,33,Marié(e),Primaire,Fonction publique,450.0,22.0,Crédit immobilier,83290.0,120,0.0875,1043.85,657.0,1,1.5,Hypothèque,Agence,15,5.0,En cours
+CLI00515,2023-02-20,Agence Nord,Homme,28,Marié(e),Supérieur,Services,710.0,5.4,Crédit consommation,3980.0,24,0.1647,195.77,620.0,0,0.276,Aucune,Agence,16,3.0,Remboursé
+CLI00516,2025-07-22,Agence Ouest,Homme,39,Marié(e),Secondaire,Commerce,710.0,16.1,Crédit consommation,2030.0,12,0.2009,188.14,525.0,2,0.265,Caution personnelle,Mobile/Digital,1,4.0,Remboursé
+CLI00517,2024-04-08,Agence Nord,Homme,46,Célibataire,Supérieur,Agriculture,1440.0,6.3,Microcrédit,580.0,12,0.2494,55.11,571.0,0,0.038,Nantissement,Recommandation,5,3.0,Défaut
+CLI00518,2025-09-03,Agence Sud,Femme,48,Célibataire,Secondaire,Commerce,430.0,2.8,Microcrédit,730.0,6,0.2521,130.77,548.0,2,0.304,Caution personnelle,Mobile/Digital,4,4.0,Remboursé
+CLI00519,2024-02-05,Agence Sud,Homme,20,Marié(e),Supérieur,Commerce,,1.7,Crédit immobilier,62760.0,240,0.0961,589.52,662.0,0,0.331,Hypothèque,Agent commercial,12,3.0,En cours
+CLI00520,2024-07-12,Agence Centre,Femme,43,Marié(e),Supérieur,Transport,1690.0,2.3,Crédit agricole,5480.0,6,0.1295,948.14,651.0,0,0.561,Aucune,Agence,3,4.0,Remboursé
+CLI00521,2023-03-04,Agence Est,Femme,52,Marié(e),Supérieur,Fonction publique,1910.0,1.3,Crédit PME,30230.0,48,0.1481,838.41,489.0,0,0.439,Nantissement,Agence,5,4.0,En cours
+CLI00522,2025-09-13,Agence Ouest,Femme,47,Célibataire,Secondaire,Commerce,550.0,1.2,Crédit consommation,4820.0,12,0.1543,436.02,645.0,1,0.793,Caution personnelle,Mobile/Digital,3,4.0,Remboursé
+CLI00523,2025-05-08,Agence Nord,Femme,66,Marié(e),Secondaire,Commerce,880.0,2.9,Microcrédit,550.0,18,0.2272,36.34,588.0,1,0.041,Hypothèque,Recommandation,6,4.0,Défaut
+CLI00524,2024-05-20,Agence Ouest,Femme,32,Marié(e),Primaire,Commerce,430.0,12.2,Crédit immobilier,75560.0,120,0.0821,925.16,647.0,1,1.5,Hypothèque,Mobile/Digital,21,2.0,Défaut
+CLI00525,2023-08-21,Agence Centre,Homme,26,Marié(e),Primaire,Commerce,590.0,1.1,Microcrédit,1650.0,18,0.2498,110.85,624.0,1,0.188,Nantissement,Mobile/Digital,4,4.0,Remboursé
+CLI00526,2024-03-15,Agence Sud,Homme,48,Marié(e),Secondaire,Fonction publique,,8.4,Crédit consommation,1300.0,12,0.172,118.69,756.0,0,0.12,Aucune,Recommandation,4,,Remboursé
+CLI00527,2024-03-12,Agence Centre,Homme,55,Célibataire,Supérieur,Commerce,1230.0,7.8,Microcrédit,870.0,12,0.1921,80.26,708.0,1,0.065,Caution personnelle,Agence,3,3.0,Remboursé
+CLI00528,2025-02-24,Agence Centre,Homme,28,Marié(e),Secondaire,Commerce,830.0,11.5,Crédit consommation,1040.0,12,0.1529,94.01,664.0,0,0.113,Nantissement,Agence,6,4.0,Remboursé
+CLI00529,2023-10-26,Agence Sud,Femme,39,Célibataire,Supérieur,Fonction publique,1860.0,7.8,Microcrédit,1560.0,12,0.2377,147.34,586.0,1,0.079,Hypothèque,Mobile/Digital,3,5.0,Remboursé
+CLI00530,2024-10-06,Agence Centre,Homme,41,Marié(e),Secondaire,Fonction publique,760.0,2.3,Microcrédit,1740.0,6,0.1791,305.34,839.0,0,0.402,Hypothèque,Agence,1,4.0,Remboursé
+CLI00531,2025-03-20,Agence Ouest,Femme,43,Célibataire,Supérieur,Transport,1960.0,8.4,Crédit agricole,7560.0,12,0.1186,671.2,721.0,0,0.342,Aucune,Mobile/Digital,3,3.0,Remboursé
+CLI00532,2023-07-20,Agence Est,Homme,52,Divorcé(e),Supérieur,Éducation/Santé,1700.0,17.2,Crédit agricole,9600.0,12,0.1336,859.07,655.0,0,0.505,Nantissement,Agence,11,3.0,Remboursé
+CLI00533,2025-02-16,Agence Centre,Femme,64,Marié(e),Primaire,Industrie,480.0,1.0,Microcrédit,460.0,6,0.2132,81.5,662.0,0,0.17,Hypothèque,Recommandation,7,4.0,Remboursé
+CLI00534,2024-05-29,Agence Sud,Femme,33,Célibataire,Supérieur,Fonction publique,1240.0,4.1,Crédit agricole,7940.0,24,0.1339,378.94,668.0,0,0.306,Aucune,Agence,6,4.0,Défaut
+CLI00535,2023-07-24,Agence Centre,Homme,36,Marié(e),Supérieur,Éducation/Santé,1130.0,11.2,Microcrédit,1140.0,18,0.2003,73.85,743.0,0,0.065,Aucune,Agence,9,3.0,Remboursé
+CLI00536,2023-01-17,Agence Sud,Homme,23,Marié(e),Secondaire,Éducation/Santé,400.0,6.6,Crédit agricole,6900.0,12,0.1072,608.93,729.0,0,1.5,Aucune,Agence,19,2.0,Remboursé
+CLI00537,2025-06-03,Agence Ouest,Femme,47,Marié(e),Secondaire,Commerce,400.0,11.1,Crédit PME,19790.0,36,0.1123,650.06,703.0,0,1.5,Caution personnelle,Agent commercial,9,3.0,En cours
+CLI00538,2025-05-25,Agence Est,Homme,27,Célibataire,Supérieur,Fonction publique,930.0,6.2,Crédit consommation,4730.0,12,0.1391,424.49,794.0,0,0.456,Caution personnelle,Recommandation,11,3.0,Remboursé
+CLI00539,2023-03-05,Agence Centre,Femme,40,Divorcé(e),Secondaire,Industrie,820.0,5.8,Microcrédit,1860.0,6,0.2254,330.7,647.0,0,0.403,Hypothèque,Agence,15,4.0,Remboursé
+CLI00540,2024-06-26,Agence Centre,Homme,44,Marié(e),Supérieur,Transport,1150.0,4.0,Crédit consommation,3520.0,36,0.1739,126.18,555.0,3,0.11,Caution personnelle,Agence,5,4.0,En cours
+CLI00541,2023-04-04,Agence Sud,Homme,53,Marié(e),Primaire,Commerce,400.0,1.9,Crédit consommation,6550.0,24,0.1871,329.25,636.0,0,0.823,Aucune,Agent commercial,1,4.0,Remboursé
+CLI00542,2023-02-16,Agence Centre,Femme,38,Marié(e),Supérieur,Fonction publique,1600.0,1.9,Crédit agricole,3400.0,24,0.1411,163.42,631.0,1,0.102,Hypothèque,Mobile/Digital,1,4.0,Remboursé
+CLI00543,2023-02-27,Agence Ouest,Femme,34,Marié(e),Primaire,Transport,190.0,7.7,Crédit consommation,6110.0,12,0.1823,560.83,591.0,0,1.5,Caution personnelle,Agent commercial,9,4.0,Remboursé
+CLI00544,2025-07-26,Agence Sud,Femme,32,Divorcé(e),Secondaire,Commerce,740.0,0.8,Crédit consommation,5760.0,12,0.2013,533.93,492.0,4,0.722,Caution personnelle,Mobile/Digital,11,4.0,Défaut
+CLI00545,2024-05-21,Agence Sud,Homme,49,Célibataire,Supérieur,Commerce,2950.0,6.3,Crédit immobilier,79560.0,120,0.0652,904.2,729.0,0,0.307,Hypothèque,Agence,11,3.0,En cours
+CLI00546,2025-09-26,Agence Est,Femme,35,Célibataire,Secondaire,Services,760.0,8.1,Crédit consommation,5580.0,24,0.1456,269.39,737.0,0,0.354,Caution personnelle,Agence,7,3.0,En cours
+CLI00547,2025-02-11,Agence Ouest,Homme,40,Célibataire,Supérieur,Transport,1110.0,0.9,Crédit consommation,5450.0,24,0.1739,270.48,553.0,0,0.244,Aucune,Mobile/Digital,3,4.0,En cours
+CLI00548,2025-01-07,Agence Nord,Homme,47,Célibataire,Secondaire,Transport,670.0,6.4,Crédit immobilier,32630.0,120,0.0757,388.52,689.0,0,0.58,Hypothèque,Mobile/Digital,8,3.0,En cours
+CLI00549,2023-04-17,Agence Sud,Femme,52,Célibataire,Secondaire,Agriculture,520.0,1.4,Crédit consommation,1230.0,12,0.1872,113.19,610.0,0,0.218,Nantissement,Mobile/Digital,7,2.0,Défaut
+CLI00550,2024-03-07,Agence Centre,Femme,51,Veuf/Veuve,Supérieur,Éducation/Santé,1630.0,4.5,Crédit consommation,3990.0,24,0.1545,194.32,612.0,0,0.119,Hypothèque,Agence,4,4.0,Défaut
+CLI00551,2024-07-17,Agence Ouest,Femme,24,Célibataire,Supérieur,Transport,3050.0,2.6,Crédit PME,12470.0,36,0.0925,398.0,827.0,0,0.13,Aucune,Agence,9,3.0,En cours
+CLI00552,2024-08-14,Agence Ouest,Homme,28,Célibataire,Secondaire,Agriculture,1580.0,9.1,Crédit consommation,6640.0,12,0.1378,595.5,822.0,0,0.377,Nantissement,Agence,11,4.0,Remboursé
+CLI00553,2023-05-19,Agence Centre,Homme,43,Célibataire,Primaire,Éducation/Santé,230.0,5.6,Crédit consommation,5430.0,36,0.1574,190.21,644.0,0,0.827,Caution personnelle,Recommandation,8,5.0,Remboursé
+CLI00554,2023-01-11,Agence Nord,Homme,45,Marié(e),Secondaire,Commerce,670.0,19.7,Crédit immobilier,40740.0,120,0.1003,539.06,616.0,2,0.805,Hypothèque,Agence,17,4.0,Défaut
+CLI00555,2024-09-04,Agence Ouest,Homme,42,Divorcé(e),Secondaire,Agriculture,1030.0,2.4,Microcrédit,440.0,6,0.2223,78.16,660.0,0,0.076,Aucune,Agent commercial,5,4.0,Remboursé
+CLI00556,2023-04-19,Agence Sud,Homme,53,Marié(e),Supérieur,Industrie,1240.0,25.7,Microcrédit,2170.0,12,0.2047,201.51,729.0,0,0.163,Caution personnelle,Mobile/Digital,6,3.0,Remboursé
+CLI00557,2025-07-25,Agence Nord,Homme,55,Célibataire,Supérieur,Commerce,3030.0,2.8,Crédit consommation,6180.0,36,0.1829,224.32,541.0,3,0.074,Hypothèque,Recommandation,7,2.0,Défaut
+CLI00558,2023-11-27,Agence Nord,Femme,38,Divorcé(e),Secondaire,Services,560.0,2.0,Crédit PME,14420.0,36,0.1221,480.4,662.0,1,0.858,Aucune,Agence,6,3.0,Défaut
+CLI00559,2025-07-16,Agence Sud,Homme,41,Marié(e),Supérieur,Fonction publique,1940.0,2.5,Microcrédit,380.0,12,0.2022,35.24,728.0,0,0.018,Caution personnelle,Agence,4,5.0,Remboursé
+CLI00560,2024-02-16,Agence Est,Homme,50,Marié(e),Secondaire,Commerce,710.0,4.7,Microcrédit,940.0,12,0.2223,88.08,657.0,0,0.124,Caution personnelle,Agence,2,5.0,Remboursé
+CLI00561,2024-02-27,Agence Centre,Homme,48,Marié(e),Supérieur,Fonction publique,1130.0,12.6,Crédit PME,24620.0,36,0.1182,815.62,672.0,0,0.722,Caution personnelle,Mobile/Digital,8,4.0,En cours
+CLI00562,2025-01-25,Agence Nord,Femme,29,Divorcé(e),Secondaire,Transport,390.0,2.9,Microcrédit,2780.0,6,0.2598,499.07,502.0,1,1.28,Nantissement,Agence,4,3.0,Défaut
+CLI00563,2025-06-18,Agence Ouest,Femme,26,Marié(e),Primaire,Transport,470.0,3.8,Crédit PME,36260.0,60,0.107,782.97,726.0,0,1.5,Aucune,Agent commercial,10,3.0,En cours
+CLI00564,2023-06-20,Agence Ouest,Homme,21,Marié(e),Primaire,Fonction publique,600.0,4.1,Crédit consommation,6330.0,24,0.1768,315.04,576.0,1,0.525,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00565,2024-03-18,Agence Est,Femme,39,Marié(e),Primaire,Industrie,560.0,3.6,Crédit immobilier,58160.0,180,0.1054,644.34,484.0,3,1.151,Hypothèque,Agent commercial,11,2.0,Défaut
+CLI00566,2023-04-27,Agence Est,Homme,33,Veuf/Veuve,Primaire,Fonction publique,590.0,18.5,Crédit immobilier,33210.0,240,0.1329,395.96,460.0,2,0.671,Hypothèque,Mobile/Digital,8,4.0,Défaut
+CLI00567,2024-12-01,Agence Est,Homme,32,Célibataire,Supérieur,Commerce,1590.0,4.7,Crédit agricole,3480.0,6,0.1534,606.22,612.0,2,0.381,Hypothèque,Agence,6,3.0,Remboursé
+CLI00568,2024-11-28,Agence Ouest,Homme,23,Célibataire,Primaire,Services,490.0,1.2,Crédit PME,36260.0,24,0.141,1742.66,667.0,1,1.5,Caution personnelle,Agence,8,3.0,En cours
+CLI00569,2023-05-22,Agence Nord,Femme,38,Célibataire,Supérieur,Éducation/Santé,2320.0,10.6,Crédit consommation,4570.0,12,0.1755,418.0,618.0,0,0.18,Caution personnelle,Mobile/Digital,9,4.0,Remboursé
+CLI00570,2025-06-07,Agence Centre,Homme,23,Célibataire,Supérieur,Éducation/Santé,750.0,1.9,Crédit consommation,6220.0,12,0.1402,558.53,787.0,0,0.745,Aucune,Agent commercial,9,4.0,Remboursé
+CLI00571,2025-09-07,Agence Centre,Homme,27,Célibataire,Secondaire,Services,1160.0,5.0,Crédit agricole,7300.0,6,0.1432,1267.99,594.0,1,1.093,Caution personnelle,Mobile/Digital,7,5.0,Remboursé
+CLI00572,2025-05-29,Agence Sud,Homme,35,Marié(e),Secondaire,Industrie,810.0,8.4,Crédit consommation,2660.0,12,0.195,245.77,497.0,0,0.303,Caution personnelle,Agent commercial,4,4.0,Remboursé
+CLI00573,2025-03-13,Agence Centre,Femme,44,Divorcé(e),Supérieur,Services,940.0,1.5,Crédit immobilier,26170.0,120,0.1145,367.19,530.0,2,0.391,Hypothèque,Agence,12,3.0,En cours
+CLI00574,2025-01-11,Agence Ouest,Homme,39,Marié(e),Secondaire,Services,880.0,4.3,Crédit consommation,5990.0,12,0.1297,534.93,774.0,0,0.608,Caution personnelle,Agence,7,4.0,Défaut
+CLI00575,2023-10-06,Agence Centre,Homme,46,Marié(e),Secondaire,Agriculture,410.0,10.2,Crédit PME,7640.0,36,0.1397,261.01,640.0,0,0.637,Caution personnelle,Agence,9,3.0,En cours
+CLI00576,2025-09-10,Agence Est,Femme,38,Célibataire,Primaire,Commerce,570.0,16.4,Crédit PME,19070.0,36,0.1056,620.36,637.0,0,1.088,Hypothèque,Mobile/Digital,9,2.0,Défaut
+CLI00577,2023-11-04,Agence Nord,Femme,34,Marié(e),Secondaire,Services,740.0,25.5,Crédit consommation,870.0,36,0.1682,30.94,691.0,0,0.042,Caution personnelle,Agence,10,3.0,En cours
+CLI00578,2024-06-06,Agence Centre,Femme,35,Marié(e),Secondaire,Commerce,580.0,4.8,Crédit consommation,6230.0,36,0.1727,222.95,591.0,0,0.384,Caution personnelle,Agence,2,4.0,En cours
+CLI00579,2024-12-03,Agence Nord,Femme,30,Marié(e),Secondaire,Commerce,1430.0,9.3,Crédit PME,13870.0,36,0.1339,469.94,666.0,0,0.329,Nantissement,Agence,10,3.0,En cours
+CLI00580,2025-02-13,Agence Centre,Femme,39,Célibataire,Supérieur,Commerce,750.0,9.2,Microcrédit,1090.0,12,0.2482,103.5,541.0,1,0.138,Nantissement,Mobile/Digital,3,5.0,Remboursé
+CLI00581,2023-11-23,Agence Centre,Femme,51,Célibataire,Supérieur,Services,2550.0,5.8,Crédit agricole,6530.0,6,0.176,1144.88,448.0,1,0.449,Nantissement,Recommandation,9,3.0,Défaut
+CLI00582,2024-02-22,Agence Centre,Homme,46,Célibataire,Secondaire,Services,1100.0,2.9,Microcrédit,2920.0,12,0.2416,276.34,607.0,0,0.251,Aucune,Mobile/Digital,4,4.0,Remboursé
+CLI00583,2024-04-20,Agence Ouest,Homme,46,Célibataire,Supérieur,Services,970.0,4.9,Crédit consommation,870.0,24,0.1336,41.51,810.0,0,0.043,Hypothèque,Agence,7,2.0,Remboursé
+CLI00584,2023-12-20,Agence Nord,Femme,43,Célibataire,Supérieur,Commerce,1350.0,18.7,Crédit PME,16890.0,36,0.1402,577.42,625.0,1,0.428,Aucune,Mobile/Digital,8,4.0,En cours
+CLI00585,2023-11-24,Agence Sud,Homme,41,Marié(e),Supérieur,Fonction publique,960.0,1.3,Microcrédit,2130.0,12,0.2231,199.67,730.0,0,0.208,Caution personnelle,Mobile/Digital,2,5.0,Remboursé
+CLI00586,2025-06-29,Agence Centre,Homme,40,Célibataire,Supérieur,Industrie,990.0,7.7,Crédit consommation,3400.0,12,0.2276,319.47,392.0,2,0.323,Hypothèque,Agence,6,5.0,Défaut
+CLI00587,2023-08-31,Agence Centre,Femme,28,Célibataire,Secondaire,Industrie,1860.0,6.6,Crédit PME,6670.0,48,0.1216,176.17,625.0,1,0.095,Caution personnelle,Agence,13,3.0,En cours
+CLI00588,2024-03-06,Agence Sud,Femme,27,Célibataire,Secondaire,Commerce,580.0,9.1,Crédit consommation,1800.0,24,0.1402,86.44,766.0,0,0.149,Caution personnelle,Agent commercial,11,5.0,Remboursé
+CLI00589,2023-05-29,Agence Nord,Femme,29,Célibataire,Secondaire,Fonction publique,830.0,7.4,Crédit consommation,4570.0,24,0.1418,219.81,698.0,0,0.265,Hypothèque,Agence,2,3.0,Remboursé
+CLI00590,2025-01-16,Agence Centre,Femme,48,Marié(e),Primaire,Fonction publique,620.0,4.8,Microcrédit,2760.0,12,0.2664,264.52,490.0,1,0.427,Hypothèque,Recommandation,2,4.0,Remboursé
+CLI00591,2025-03-16,Agence Centre,Femme,32,Célibataire,Supérieur,Services,1320.0,3.9,Microcrédit,530.0,18,0.2428,35.42,525.0,2,0.027,Hypothèque,Agence,4,5.0,Remboursé
+CLI00592,2024-05-12,Agence Est,Homme,45,Célibataire,Primaire,Industrie,350.0,1.6,Crédit consommation,6170.0,24,0.188,310.42,576.0,0,0.887,Caution personnelle,Recommandation,5,5.0,Remboursé
+CLI00593,2023-03-03,Agence Ouest,Homme,27,Marié(e),Secondaire,Commerce,840.0,10.3,Crédit agricole,3250.0,6,0.1519,565.92,527.0,2,0.674,Aucune,Agence,2,4.0,Défaut
+CLI00594,2023-04-23,Agence Nord,Homme,36,Marié(e),Supérieur,Services,1470.0,7.7,Crédit consommation,6660.0,36,0.1458,229.5,688.0,0,0.156,Hypothèque,Agence,3,4.0,Remboursé
+CLI00595,2023-09-11,Agence Nord,Homme,29,Marié(e),Supérieur,Services,1050.0,1.7,Microcrédit,2150.0,18,0.2162,140.92,627.0,0,0.134,Aucune,Agence,9,5.0,Remboursé
+CLI00596,2023-05-07,Agence Centre,Femme,46,Divorcé(e),Supérieur,Services,1530.0,13.1,Microcrédit,1430.0,6,0.1945,252.03,727.0,0,0.165,Hypothèque,Agence,14,3.0,Remboursé
+CLI00597,2023-08-14,Agence Centre,Homme,59,Marié(e),Supérieur,Services,1030.0,9.6,Microcrédit,1210.0,12,0.25,115.0,655.0,0,0.112,Aucune,Agence,6,,Remboursé
+CLI00598,2024-05-25,Agence Nord,Homme,26,Marié(e),Secondaire,Services,690.0,1.7,Crédit agricole,5570.0,12,0.1597,505.29,562.0,2,0.732,Hypothèque,Mobile/Digital,1,3.0,Défaut
+CLI00599,2024-08-07,Agence Est,Homme,42,Célibataire,Secondaire,Commerce,850.0,3.7,Crédit immobilier,54530.0,120,0.0885,686.34,619.0,0,0.807,Hypothèque,Recommandation,24,1.0,En cours
+CLI00600,2024-12-08,Agence Centre,Homme,30,Célibataire,Secondaire,Services,1150.0,4.5,Crédit consommation,1560.0,36,0.1915,57.3,555.0,0,0.05,Aucune,Agent commercial,5,3.0,En cours
+CLI00601,2025-07-21,Agence Est,Homme,46,Marié(e),Primaire,Fonction publique,370.0,31.1,Microcrédit,900.0,12,0.2255,84.47,708.0,0,0.228,Hypothèque,Mobile/Digital,5,4.0,Remboursé
+CLI00602,2025-01-12,Agence Centre,Femme,56,Marié(e),Secondaire,Industrie,500.0,2.2,Microcrédit,2140.0,12,0.2344,201.78,623.0,0,0.404,Aucune,Agence,8,4.0,Remboursé
+CLI00603,2024-04-18,Agence Sud,Homme,34,Divorcé(e),Secondaire,Services,760.0,9.5,Microcrédit,350.0,18,0.2579,23.65,524.0,1,0.031,Aucune,Mobile/Digital,9,4.0,Remboursé
+CLI00604,2023-12-02,Agence Est,Femme,49,Marié(e),Supérieur,Services,1720.0,14.4,Crédit agricole,7360.0,6,0.1557,1282.97,545.0,1,0.746,Hypothèque,Mobile/Digital,26,5.0,Remboursé
+CLI00605,2025-05-19,Agence Nord,Femme,38,Divorcé(e),Primaire,Transport,620.0,4.2,Microcrédit,1770.0,12,0.2252,166.11,594.0,2,0.268,Caution personnelle,Recommandation,7,4.0,Remboursé
+CLI00606,2023-01-10,Agence Ouest,Homme,32,Marié(e),Secondaire,Commerce,780.0,3.0,Crédit consommation,6980.0,36,0.1795,252.17,571.0,3,0.323,Aucune,Agent commercial,3,5.0,Défaut
+CLI00607,2025-01-01,Agence Est,Femme,35,Marié(e),Supérieur,Fonction publique,1030.0,11.6,Microcrédit,2400.0,6,0.2059,424.36,757.0,0,0.412,Caution personnelle,Agence,5,2.0,Remboursé
+CLI00608,2024-06-17,Agence Sud,Femme,51,Marié(e),Supérieur,Services,1020.0,2.7,Crédit consommation,7670.0,36,0.1809,277.64,579.0,1,0.272,Caution personnelle,Recommandation,9,5.0,En cours
+CLI00609,2024-05-07,Agence Nord,Homme,43,Marié(e),Primaire,Commerce,270.0,6.3,Crédit immobilier,56080.0,240,0.0795,467.33,597.0,0,1.5,Hypothèque,Agent commercial,14,2.0,Défaut
+CLI00610,2023-07-09,Agence Centre,Femme,38,Célibataire,Supérieur,Agriculture,1480.0,8.3,Crédit consommation,6370.0,12,0.1365,570.9,785.0,0,0.386,Caution personnelle,Mobile/Digital,9,4.0,Remboursé
+CLI00611,2023-10-12,Agence Sud,Homme,37,Célibataire,Supérieur,Industrie,1010.0,2.1,Microcrédit,2730.0,18,-0.05,180.94,712.0,0,0.179,Caution personnelle,Mobile/Digital,7,4.0,Remboursé
+CLI00612,2023-11-17,Agence Centre,Femme,33,Marié(e),Secondaire,Éducation/Santé,660.0,12.1,Crédit PME,24990.0,48,0.1044,639.1,706.0,1,0.968,Nantissement,Mobile/Digital,13,4.0,Défaut
+CLI00613,2023-02-11,Agence Ouest,Homme,46,Marié(e),Secondaire,Transport,1050.0,6.0,Crédit PME,6200.0,36,0.1086,202.57,717.0,0,0.193,Caution personnelle,Recommandation,5,4.0,Remboursé
+CLI00614,2024-07-20,Agence Ouest,Homme,61,Célibataire,Supérieur,Fonction publique,1250.0,7.2,Microcrédit,2310.0,18,0.2784,158.45,562.0,2,0.127,Aucune,Recommandation,2,4.0,Défaut
+CLI00615,2024-07-23,Agence Sud,Femme,37,Divorcé(e),Supérieur,Éducation/Santé,1500.0,6.8,Microcrédit,2580.0,12,0.2436,244.41,616.0,0,0.163,Nantissement,Mobile/Digital,3,3.0,Remboursé
+CLI00616,2024-01-27,Agence Est,Homme,28,Marié(e),Supérieur,Services,1550.0,7.9,Crédit PME,23280.0,60,0.1581,563.78,463.0,3,0.364,Nantissement,Agent commercial,6,4.0,Défaut
+CLI00617,2025-06-20,Agence Est,Homme,43,Célibataire,Secondaire,Commerce,550.0,3.1,Crédit PME,29590.0,60,0.1186,656.12,682.0,0,1.193,Caution personnelle,Agence,15,4.0,Défaut
+CLI00618,2024-04-04,Agence Nord,Homme,45,Célibataire,Primaire,Commerce,360.0,3.2,Microcrédit,1230.0,12,0.224,115.36,682.0,0,0.32,Caution personnelle,Agence,9,4.0,Défaut
+CLI00619,2023-03-14,Agence Centre,Homme,50,Marié(e),Supérieur,Fonction publique,1810.0,8.4,Crédit PME,18320.0,36,0.1224,610.59,585.0,1,0.337,Aucune,Mobile/Digital,7,4.0,Remboursé
+CLI00620,2023-02-20,Agence Nord,Homme,27,Marié(e),Secondaire,Agriculture,520.0,12.8,Microcrédit,2900.0,18,0.2095,189.14,655.0,2,0.364,Aucune,Mobile/Digital,6,3.0,Remboursé
+CLI00621,2024-01-03,Agence Sud,Femme,42,Célibataire,Supérieur,Fonction publique,2290.0,9.8,Microcrédit,1440.0,18,0.2308,95.4,706.0,1,0.042,Hypothèque,Mobile/Digital,5,3.0,Remboursé
+CLI00622,2023-07-03,Agence Est,Homme,30,Célibataire,Supérieur,Agriculture,1790.0,8.5,Crédit immobilier,31910.0,180,0.0874,318.74,617.0,0,0.178,Hypothèque,Agence,13,4.0,En cours
+CLI00623,2025-05-11,Agence Est,Femme,53,Célibataire,Secondaire,Commerce,1010.0,10.9,Crédit PME,11210.0,24,0.113,524.04,681.0,0,0.519,Aucune,Agent commercial,5,5.0,En cours
+CLI00624,2025-04-21,Agence Centre,Femme,47,Célibataire,Secondaire,Agriculture,670.0,4.6,Crédit consommation,2920.0,24,0.1794,145.69,544.0,2,0.217,Caution personnelle,Agence,4,3.0,En cours
+CLI00625,2025-08-21,Agence Ouest,Femme,37,Marié(e),Secondaire,Commerce,590.0,3.8,Microcrédit,2000.0,12,0.2373,188.86,543.0,2,0.32,Aucune,Recommandation,6,4.0,Défaut
+CLI00626,2024-05-26,Agence Centre,Femme,27,Marié(e),Primaire,Commerce,540.0,6.2,Crédit consommation,4610.0,36,0.1659,163.42,705.0,0,0.303,Caution personnelle,Recommandation,8,3.0,En cours
+CLI00627,2024-05-03,Agence Centre,Homme,59,Célibataire,Primaire,Services,930.0,6.7,Crédit PME,19740.0,60,0.1604,480.46,516.0,1,0.517,Hypothèque,Agence,11,3.0,Défaut
+CLI00628,2025-06-04,Agence Centre,Femme,38,Marié(e),Supérieur,Éducation/Santé,1980.0,1.8,Microcrédit,2680.0,6,0.2033,473.52,709.0,0,0.239,Aucune,Mobile/Digital,7,3.0,Défaut
+CLI00629,2024-09-28,Agence Sud,Femme,48,Marié(e),Secondaire,Éducation/Santé,620.0,11.8,Crédit agricole,6280.0,24,0.1224,296.33,680.0,0,0.478,Nantissement,Recommandation,5,4.0,Remboursé
+CLI00630,2025-05-07,Agence Ouest,Homme,20,Marié(e),Secondaire,Fonction publique,410.0,3.2,Crédit consommation,3060.0,36,0.1402,104.61,722.0,0,0.255,Caution personnelle,Agence,9,4.0,En cours
+CLI00631,2023-07-14,Agence Sud,Homme,40,Célibataire,Secondaire,Fonction publique,700.0,4.0,Crédit PME,5210.0,60,0.1243,117.03,623.0,1,0.167,Nantissement,Agence,8,4.0,En cours
+CLI00632,2023-07-13,Agence Sud,Homme,47,Marié(e),Supérieur,Industrie,1230.0,4.8,Microcrédit,2760.0,18,0.21,180.08,723.0,0,0.146,Aucune,Agent commercial,3,3.0,Remboursé
+CLI00633,2023-02-26,Agence Ouest,Homme,20,Veuf/Veuve,Secondaire,Fonction publique,530.0,16.1,Crédit consommation,1650.0,24,0.144,79.53,768.0,0,0.15,Nantissement,Agence,7,5.0,Remboursé
+CLI00634,2024-02-04,Agence Ouest,Femme,42,Marié(e),Supérieur,Agriculture,1160.0,13.2,Microcrédit,2770.0,12,0.2238,259.76,752.0,0,0.224,Caution personnelle,Agent commercial,3,4.0,Remboursé
+CLI00635,2025-02-27,Agence Sud,Homme,52,Marié(e),Supérieur,Transport,2340.0,2.8,Crédit consommation,6780.0,24,0.173,336.2,724.0,0,0.144,Caution personnelle,Agence,16,2.0,En cours
+CLI00636,2024-06-09,Agence Est,Femme,24,Marié(e),Secondaire,Fonction publique,610.0,9.4,Crédit agricole,8410.0,12,0.1415,755.7,567.0,3,1.239,Nantissement,Agence,11,4.0,Défaut
+CLI00637,2024-07-02,Agence Ouest,Femme,38,Marié(e),Supérieur,Fonction publique,1590.0,4.4,Microcrédit,1520.0,6,0.244,271.66,562.0,1,0.171,Caution personnelle,Agence,9,4.0,Remboursé
+CLI00638,2023-04-08,Agence Centre,Homme,36,Marié(e),Primaire,Services,650.0,2.9,Microcrédit,2990.0,12,0.2054,277.75,704.0,0,0.427,Hypothèque,Mobile/Digital,1,5.0,Remboursé
+CLI00639,2023-05-08,Agence Sud,Homme,33,Marié(e),Primaire,Services,620.0,5.9,Microcrédit,2080.0,18,0.243,139.05,526.0,1,0.224,Nantissement,Agence,11,,Défaut
+CLI00640,2023-03-27,Agence Est,Homme,33,Marié(e),Supérieur,Transport,1940.0,9.2,Crédit PME,35810.0,48,0.1416,981.44,589.0,1,0.506,Aucune,Agent commercial,11,5.0,En cours
+CLI00641,2024-01-03,Agence Sud,Femme,30,Célibataire,Secondaire,Éducation/Santé,550.0,5.9,Microcrédit,1970.0,18,0.2579,133.13,556.0,1,0.242,Aucune,Recommandation,8,4.0,Remboursé
+CLI00642,2025-04-21,Agence Nord,Homme,31,Célibataire,Secondaire,Transport,950.0,3.4,Microcrédit,2310.0,18,0.2565,155.95,543.0,2,0.164,Hypothèque,Mobile/Digital,9,3.0,En cours
+CLI00643,2025-01-09,Agence Centre,Femme,38,Marié(e),Secondaire,Services,370.0,11.1,Microcrédit,1170.0,6,0.2091,207.06,715.0,1,0.56,Aucune,Agent commercial,2,4.0,Remboursé
+CLI00644,2025-04-06,Agence Ouest,Homme,40,Célibataire,Secondaire,Commerce,500.0,3.1,Crédit consommation,7730.0,12,0.1342,691.95,747.0,0,1.384,Aucune,Mobile/Digital,1,4.0,Remboursé
+CLI00645,2023-10-25,Agence Ouest,Femme,25,Célibataire,Supérieur,Services,1840.0,5.4,Crédit consommation,3240.0,36,0.1659,114.85,589.0,1,0.062,Aucune,Mobile/Digital,2,4.0,En cours
+CLI00646,2024-01-19,Agence Centre,Homme,33,Célibataire,Supérieur,Commerce,1980.0,11.4,Microcrédit,1250.0,18,0.2301,82.77,664.0,0,0.042,Caution personnelle,Agence,1,5.0,Remboursé
+CLI00647,2025-08-16,Agence Est,Femme,40,Célibataire,Supérieur,Transport,2030.0,14.1,Crédit consommation,3330.0,24,0.1538,162.06,694.0,0,0.08,Caution personnelle,Recommandation,3,4.0,En cours
+CLI00648,2024-12-07,Agence Est,Femme,51,Marié(e),Secondaire,Éducation/Santé,840.0,3.3,Crédit agricole,1930.0,12,0.133,172.65,588.0,2,0.206,Aucune,Agence,3,4.0,Remboursé
+CLI00649,2024-11-20,Agence Nord,Femme,51,Célibataire,Supérieur,Services,1880.0,1.1,Crédit immobilier,25670.0,120,0.0984,336.96,623.0,0,0.179,Hypothèque,Recommandation,12,4.0,En cours
+CLI00650,2024-06-01,Agence Nord,Homme,39,Célibataire,Supérieur,Industrie,1300.0,0.8,Crédit PME,7230.0,48,0.1519,201.91,501.0,2,0.155,Caution personnelle,Agence,15,4.0,En cours
+CLI00651,2023-04-17,Agence Nord,Homme,40,Divorcé(e),Primaire,Commerce,290.0,11.3,Crédit consommation,6700.0,12,0.178,613.62,513.0,1,1.5,Aucune,Agent commercial,11,3.0,Défaut
+CLI00652,2025-01-17,Agence Est,Homme,25,Célibataire,Supérieur,Commerce,1610.0,0.5,Crédit agricole,7690.0,24,0.1666,378.96,580.0,1,0.235,Caution personnelle,Agent commercial,5,3.0,Défaut
+CLI00653,2024-01-05,Agence Nord,Homme,40,Divorcé(e),Secondaire,Transport,1260.0,8.8,Crédit PME,22340.0,60,0.1399,519.7,578.0,4,0.412,Aucune,Agence,10,3.0,En cours
+CLI00654,2023-11-12,Agence Sud,Femme,20,Célibataire,Primaire,Fonction publique,810.0,8.9,Microcrédit,1340.0,18,0.237,89.18,638.0,0,0.11,Caution personnelle,Recommandation,8,2.0,Remboursé
+CLI00655,2024-12-24,Agence Est,Homme,35,Célibataire,Secondaire,Fonction publique,,1.7,Crédit immobilier,54590.0,180,0.0863,541.74,689.0,0,0.564,Hypothèque,Mobile/Digital,13,4.0,En cours
+CLI00656,2024-04-19,Agence Ouest,Homme,26,Marié(e),Secondaire,Commerce,480.0,3.5,Crédit consommation,4900.0,12,0.1492,442.08,833.0,0,0.921,Aucune,Mobile/Digital,1,4.0,Remboursé
+CLI00657,2023-06-19,Agence Est,Femme,31,Célibataire,Secondaire,Commerce,830.0,6.8,Crédit consommation,1790.0,12,0.2051,166.25,461.0,1,0.2,Hypothèque,Agence,16,4.0,Défaut
+CLI00658,2025-06-11,Agence Centre,Homme,40,Divorcé(e),Supérieur,Industrie,1410.0,3.9,Microcrédit,2330.0,18,0.2643,158.2,462.0,4,0.112,Caution personnelle,Mobile/Digital,2,3.0,Défaut
+CLI00659,2024-01-30,Agence Centre,Femme,41,Marié(e),Secondaire,Fonction publique,630.0,3.7,Microcrédit,1040.0,6,0.1926,183.2,716.0,0,0.291,Hypothèque,Recommandation,2,4.0,Remboursé
+CLI00660,2025-03-27,Agence Sud,Femme,52,Marié(e),Secondaire,Agriculture,840.0,6.0,Crédit agricole,3770.0,24,0.1406,181.12,516.0,0,0.216,Hypothèque,Agent commercial,4,5.0,En cours
+CLI00661,2024-02-10,Agence Centre,Femme,41,Marié(e),Supérieur,Agriculture,1120.0,4.4,Crédit consommation,1370.0,24,0.151,66.49,733.0,0,0.059,Caution personnelle,Agent commercial,4,4.0,Remboursé
+CLI00662,2023-11-06,Agence Nord,Homme,34,Marié(e),Secondaire,Services,720.0,2.6,Microcrédit,1320.0,12,0.2356,124.54,624.0,0,0.173,Caution personnelle,Agent commercial,6,4.0,Remboursé
+CLI00663,2025-03-13,Agence Nord,Femme,45,Marié(e),Secondaire,Commerce,1080.0,1.2,Crédit consommation,3520.0,24,0.1544,171.41,704.0,0,0.159,Nantissement,Agence,3,,Défaut
+CLI00664,2025-05-31,Agence Centre,Homme,22,Marié(e),Secondaire,Agriculture,520.0,2.8,Crédit immobilier,67230.0,240,0.0739,537.09,717.0,0,1.033,Hypothèque,Recommandation,11,2.0,En cours
+CLI00665,2023-11-11,Agence Centre,Homme,56,Marié(e),Supérieur,Services,1990.0,9.5,Microcrédit,900.0,6,0.2315,160.29,644.0,0,0.081,Caution personnelle,Agence,7,3.0,Remboursé
+CLI00666,2024-02-03,Agence Centre,Femme,20,Célibataire,Supérieur,Commerce,1240.0,2.7,Microcrédit,890.0,12,0.2388,84.11,526.0,2,0.068,Caution personnelle,Recommandation,4,4.0,Remboursé
+CLI00667,2024-07-06,Agence Centre,Homme,46,Marié(e),Secondaire,Commerce,860.0,6.0,Crédit agricole,6510.0,12,0.1426,585.31,636.0,0,0.681,Aucune,Agence,9,4.0,Remboursé
+CLI00668,2024-11-13,Agence Ouest,Homme,44,Célibataire,Secondaire,Services,1480.0,1.6,Crédit consommation,2070.0,12,0.211,192.84,488.0,2,0.13,Aucune,Agence,8,4.0,Défaut
+CLI00669,2024-05-17,Agence Nord,Femme,33,Divorcé(e),Secondaire,Commerce,630.0,11.3,Crédit consommation,6250.0,36,0.1696,222.71,624.0,1,0.354,Aucune,Agence,7,3.0,En cours
+CLI00670,2024-12-12,Agence Ouest,Homme,34,Marié(e),Supérieur,Services,1380.0,5.7,Crédit consommation,6090.0,24,0.1478,294.65,819.0,0,0.214,Nantissement,Agent commercial,4,4.0,En cours
+CLI00671,2025-04-07,Agence Centre,Femme,24,Marié(e),Supérieur,Commerce,2020.0,7.1,Crédit PME,8790.0,60,0.1467,207.59,559.0,2,0.103,Caution personnelle,Recommandation,11,1.0,Défaut
+CLI00672,2024-02-06,Agence Sud,Homme,40,Célibataire,Supérieur,Industrie,1810.0,9.3,Microcrédit,2550.0,18,0.2477,171.05,566.0,0,0.095,Aucune,Agence,6,2.0,Remboursé
+CLI00673,2025-04-26,Agence Sud,Homme,44,Marié(e),Secondaire,Agriculture,1860.0,14.4,Crédit consommation,7390.0,12,0.2076,687.26,447.0,3,0.369,Hypothèque,Mobile/Digital,2,4.0,Défaut
+CLI00674,2025-04-07,Agence Sud,Femme,33,Célibataire,Supérieur,Commerce,2000.0,5.4,Microcrédit,1060.0,12,0.1988,98.13,672.0,0,0.049,Aucune,Mobile/Digital,3,5.0,Remboursé
+CLI00675,2025-09-04,Agence Ouest,Femme,43,Célibataire,Secondaire,Éducation/Santé,810.0,2.3,Crédit consommation,6290.0,36,0.1761,226.17,624.0,1,0.279,Aucune,Agence,4,4.0,En cours
+CLI00676,2024-04-10,Agence Nord,Femme,46,Marié(e),Supérieur,Commerce,1080.0,7.5,Crédit consommation,1910.0,24,0.1458,92.23,713.0,1,0.085,Hypothèque,Agence,5,3.0,Remboursé
+CLI00677,2025-04-25,Agence Sud,Femme,31,Célibataire,Secondaire,Éducation/Santé,880.0,1.8,Microcrédit,1360.0,6,0.2505,243.51,571.0,1,0.277,Aucune,Agence,5,3.0,Remboursé
+CLI00678,2025-08-18,Agence Centre,Femme,47,Célibataire,Secondaire,Services,1710.0,2.7,Crédit PME,27420.0,36,0.1547,956.85,524.0,0,0.56,Aucune,Mobile/Digital,4,3.0,Défaut
+CLI00679,2025-07-29,Agence Est,Homme,43,Marié(e),Secondaire,Industrie,910.0,4.1,Microcrédit,2620.0,6,0.2185,464.91,687.0,0,0.511,Aucune,Agence,4,4.0,Remboursé
+CLI00680,2025-07-25,Agence Sud,Femme,40,Veuf/Veuve,Secondaire,Transport,520.0,2.4,Microcrédit,1460.0,12,0.2322,137.51,606.0,0,0.264,Caution personnelle,Agence,4,4.0,Remboursé
+CLI00681,2024-01-27,Agence Centre,Homme,47,Marié(e),Secondaire,Services,720.0,6.5,Microcrédit,2980.0,6,0.231,530.66,621.0,1,0.737,Hypothèque,Mobile/Digital,3,5.0,Remboursé
+CLI00682,2025-06-19,Agence Centre,Femme,42,Célibataire,Supérieur,Services,1200.0,7.5,Crédit PME,29030.0,24,0.1185,1364.51,768.0,0,1.137,Nantissement,Agent commercial,8,4.0,En cours
+CLI00683,2024-03-12,Agence Centre,Femme,32,Célibataire,Secondaire,Commerce,880.0,6.6,Microcrédit,330.0,12,0.2177,30.85,706.0,0,0.035,Caution personnelle,Mobile/Digital,5,5.0,Remboursé
+CLI00684,2025-06-27,Agence Est,Homme,32,Marié(e),Supérieur,Éducation/Santé,1370.0,6.9,Crédit immobilier,88640.0,240,0.0773,726.6,712.0,0,0.53,Hypothèque,Agent commercial,13,4.0,En cours
+CLI00685,2025-03-20,Agence Nord,Homme,41,Célibataire,Supérieur,Commerce,1200.0,1.6,Crédit consommation,7140.0,24,0.1935,361.13,529.0,2,0.301,Hypothèque,Mobile/Digital,1,4.0,En cours
+CLI00686,2023-05-28,Agence Sud,Femme,50,Célibataire,Supérieur,Éducation/Santé,1030.0,4.6,Crédit consommation,4440.0,12,0.1423,399.14,769.0,0,0.388,Caution personnelle,Recommandation,3,5.0,Remboursé
+CLI00687,2023-05-08,Agence Sud,Femme,41,Marié(e),Supérieur,Services,1360.0,3.9,Crédit consommation,5600.0,12,0.1832,514.26,510.0,0,0.378,Hypothèque,Agence,14,2.0,Remboursé
+CLI00688,2024-10-10,Agence Nord,Homme,35,Divorcé(e),Supérieur,Fonction publique,1750.0,8.9,Crédit consommation,3990.0,36,0.1292,134.29,785.0,0,0.077,Hypothèque,Mobile/Digital,4,4.0,En cours
+CLI00689,2023-09-03,Agence Ouest,Femme,39,Célibataire,Supérieur,Industrie,2130.0,4.2,Crédit PME,5920.0,36,0.1675,210.33,543.0,1,0.099,Hypothèque,Agence,8,3.0,Remboursé
+CLI00690,2025-01-11,Agence Est,Femme,27,Marié(e),Secondaire,Fonction publique,670.0,5.2,Crédit PME,19440.0,60,0.1248,437.16,613.0,3,0.652,Nantissement,Recommandation,13,3.0,En cours
+CLI00691,2025-02-19,Agence Sud,Femme,50,Célibataire,Primaire,Fonction publique,670.0,4.0,Crédit immobilier,32820.0,180,0.1153,384.03,456.0,2,0.573,Hypothèque,Agence,11,2.0,Défaut
+CLI00692,2024-06-12,Agence Centre,Femme,53,Célibataire,Secondaire,Commerce,390.0,1.7,Crédit consommation,3280.0,24,0.1749,162.94,630.0,0,0.418,Aucune,Agence,8,3.0,Remboursé
+CLI00693,2025-02-17,Agence Nord,Homme,56,Célibataire,Secondaire,Services,1410.0,2.3,Crédit consommation,2020.0,24,0.1888,101.71,491.0,2,0.072,Aucune,Agence,4,4.0,En cours
+CLI00694,2024-06-13,Agence Nord,Homme,48,Divorcé(e),Supérieur,Commerce,830.0,2.6,Crédit agricole,3460.0,12,0.1423,311.04,631.0,0,0.375,Nantissement,Agence,7,3.0,Remboursé
+CLI00695,2024-07-23,Agence Est,Homme,32,Divorcé(e),Secondaire,Commerce,620.0,5.1,Crédit agricole,2030.0,24,0.1445,97.9,642.0,0,0.158,Aucune,Mobile/Digital,1,5.0,Remboursé
+CLI00696,2023-07-21,Agence Centre,Femme,38,Marié(e),Supérieur,Agriculture,1400.0,15.2,Crédit agricole,2300.0,24,0.1213,108.41,777.0,0,0.077,Aucune,Mobile/Digital,7,5.0,Remboursé
+CLI00697,2024-08-09,Agence Centre,Homme,35,Célibataire,Secondaire,Agriculture,640.0,4.7,Crédit consommation,1290.0,24,0.1433,62.14,782.0,0,0.097,Aucune,Agence,6,4.0,Remboursé
+CLI00698,2023-06-10,Agence Est,Homme,43,Marié(e),Supérieur,Éducation/Santé,3010.0,10.4,Crédit immobilier,78110.0,120,0.1031,1045.68,648.0,0,0.347,Hypothèque,Agence,25,2.0,Défaut
+CLI00699,2024-09-12,Agence Nord,Homme,52,Marié(e),Supérieur,Commerce,1190.0,7.9,Crédit consommation,4130.0,12,0.1615,375.01,658.0,0,0.315,Hypothèque,Agence,6,4.0,Remboursé
+CLI00700,2025-02-22,Agence Centre,Homme,20,Marié(e),Secondaire,Commerce,1570.0,11.3,Microcrédit,1890.0,12,0.234,178.17,635.0,1,0.113,Aucune,Recommandation,3,,Remboursé
+CLI00701,2025-02-06,Agence Centre,Homme,43,Marié(e),Supérieur,Transport,370.0,5.0,Microcrédit,900.0,18,0.1977,58.19,739.0,0,0.157,Hypothèque,Mobile/Digital,6,4.0,Remboursé
+CLI00702,2023-05-30,Agence Centre,Femme,41,Célibataire,Secondaire,Services,370.0,5.9,Crédit PME,39600.0,60,0.1136,868.13,675.0,0,1.5,Hypothèque,Mobile/Digital,10,3.0,Défaut
+CLI00703,2025-02-28,Agence Nord,Homme,42,Célibataire,Primaire,Commerce,460.0,2.9,Microcrédit,2730.0,18,0.2548,184.08,582.0,1,0.4,Caution personnelle,Agence,6,3.0,Remboursé
+CLI00704,2024-12-29,Agence Nord,Femme,45,Marié(e),Supérieur,Commerce,970.0,7.9,Microcrédit,2490.0,12,0.2319,234.48,721.0,0,0.242,Caution personnelle,Agence,2,4.0,Remboursé
+CLI00705,2023-05-29,Agence Ouest,Homme,30,Célibataire,Secondaire,Éducation/Santé,450.0,7.3,Microcrédit,950.0,18,0.2063,61.81,666.0,0,0.137,Aucune,Agence,4,5.0,Remboursé
+CLI00706,2023-03-19,Agence Sud,Homme,48,Marié(e),Secondaire,Commerce,680.0,4.8,Microcrédit,760.0,18,0.2528,51.17,589.0,0,0.075,Aucune,Agence,4,5.0,Remboursé
+CLI00707,2024-10-13,Agence Centre,Homme,42,Divorcé(e),Supérieur,Agriculture,1210.0,10.5,Crédit agricole,8160.0,6,0.1474,1419.06,576.0,2,1.173,Hypothèque,Agence,9,4.0,Remboursé
+CLI00708,2024-02-17,Agence Est,Femme,37,Marié(e),Secondaire,Transport,610.0,11.3,Crédit PME,24920.0,48,0.1258,663.36,639.0,1,1.087,Nantissement,Recommandation,8,4.0,En cours
+CLI00709,2024-05-13,Agence Centre,Homme,39,Marié(e),Secondaire,Éducation/Santé,630.0,4.2,Crédit consommation,7790.0,24,0.1842,390.49,598.0,0,0.62,Hypothèque,Agent commercial,3,3.0,Remboursé
+CLI00710,2023-01-25,Agence Est,Femme,34,Marié(e),Secondaire,Éducation/Santé,780.0,7.0,Microcrédit,790.0,18,0.2463,52.94,589.0,1,0.068,Hypothèque,Mobile/Digital,5,3.0,Remboursé
+CLI00711,2023-08-27,Agence Nord,Femme,40,Marié(e),Secondaire,Commerce,950.0,6.4,Crédit agricole,9340.0,24,0.1291,443.65,680.0,0,0.467,Hypothèque,Agent commercial,6,3.0,Remboursé
+CLI00712,2024-10-22,Agence Sud,Homme,45,Marié(e),Supérieur,Commerce,23400.0,4.0,Microcrédit,2980.0,18,0.1907,191.66,691.0,0,0.098,Aucune,Recommandation,10,2.0,Remboursé
+CLI00713,2024-09-24,Agence Ouest,Femme,26,Marié(e),Secondaire,Transport,790.0,2.1,Crédit agricole,870.0,24,0.1388,41.72,646.0,0,0.053,Aucune,Mobile/Digital,6,3.0,Remboursé
+CLI00714,2023-10-20,Agence Ouest,Homme,35,Marié(e),Secondaire,Fonction publique,480.0,5.8,Crédit PME,21280.0,60,0.0811,432.6,849.0,0,0.901,Caution personnelle,Mobile/Digital,17,4.0,En cours
+CLI00715,2023-12-09,Agence Sud,Femme,34,Marié(e),Supérieur,Agriculture,1070.0,3.2,Crédit consommation,6680.0,12,0.1449,601.32,728.0,0,0.562,Aucune,Agence,1,5.0,Remboursé
+CLI00716,2024-04-12,Agence Centre,Femme,38,Marié(e),Supérieur,Commerce,1190.0,7.8,Crédit consommation,2560.0,24,0.1658,126.06,665.0,0,0.106,Aucune,Recommandation,2,3.0,Remboursé
+CLI00717,2023-12-07,Agence Centre,Homme,36,Célibataire,Supérieur,Commerce,1880.0,13.8,Crédit PME,11540.0,24,0.1575,563.66,567.0,0,0.3,Aucune,Agence,6,5.0,Remboursé
+CLI00718,2023-10-14,Agence Centre,Homme,21,Célibataire,Secondaire,Industrie,530.0,6.1,Crédit PME,21110.0,36,0.1549,736.86,576.0,0,1.39,Aucune,Agence,8,3.0,Défaut
+CLI00719,2023-11-10,Agence Centre,Femme,43,Marié(e),Secondaire,Services,1100.0,3.7,Crédit agricole,2560.0,12,0.107,225.9,765.0,0,0.205,Nantissement,Mobile/Digital,3,4.0,Remboursé
+CLI00720,2024-05-30,Agence Centre,Homme,51,Marié(e),Secondaire,Transport,480.0,4.2,Crédit PME,38990.0,60,0.1285,884.15,644.0,1,1.5,Caution personnelle,Recommandation,6,3.0,Défaut
+CLI00721,2024-07-08,Agence Ouest,Femme,32,Célibataire,Supérieur,Services,1510.0,9.7,Crédit consommation,3920.0,12,0.1502,353.85,687.0,1,0.234,Aucune,Recommandation,2,4.0,Remboursé
+CLI00722,2024-10-19,Agence Nord,Femme,40,Célibataire,Supérieur,Services,1290.0,2.2,Crédit consommation,1970.0,36,0.1431,67.63,765.0,0,0.052,Caution personnelle,Mobile/Digital,10,3.0,En cours
+CLI00723,2023-09-07,Agence Nord,Femme,32,Marié(e),Primaire,Services,560.0,3.6,Microcrédit,2450.0,18,0.2421,163.67,567.0,0,0.292,Nantissement,Agence,4,,Défaut
+CLI00724,2023-06-16,Agence Ouest,Homme,41,Célibataire,Supérieur,Agriculture,2110.0,7.4,Microcrédit,2870.0,12,0.2467,272.32,611.0,0,0.129,Aucune,Recommandation,5,5.0,Remboursé
+CLI00725,2023-11-10,Agence Est,Homme,37,Divorcé(e),Secondaire,Services,740.0,7.1,Crédit consommation,7020.0,12,0.1858,645.53,596.0,2,0.872,Nantissement,Agent commercial,8,3.0,Défaut
+CLI00726,2025-02-16,Agence Nord,Femme,50,Célibataire,Secondaire,Services,650.0,5.0,Crédit agricole,3310.0,12,0.1478,298.41,590.0,1,0.459,Aucune,Agent commercial,4,4.0,Remboursé
+CLI00727,2025-04-16,Agence Sud,Femme,33,Célibataire,Supérieur,Éducation/Santé,1970.0,9.6,Microcrédit,2240.0,18,0.2467,150.15,522.0,0,0.076,Caution personnelle,Recommandation,14,4.0,En cours
+CLI00728,2025-02-21,Agence Sud,Femme,45,Veuf/Veuve,Secondaire,Éducation/Santé,620.0,6.9,Crédit immobilier,44370.0,120,0.0861,552.74,597.0,0,0.892,Hypothèque,Mobile/Digital,12,4.0,En cours
+CLI00729,2024-01-28,Agence Est,Femme,32,Marié(e),Supérieur,Agriculture,1630.0,11.5,Microcrédit,2440.0,12,0.2167,227.98,593.0,0,0.14,Nantissement,Agent commercial,15,3.0,Défaut
+CLI00730,2025-07-31,Agence Centre,Homme,33,Veuf/Veuve,Supérieur,Industrie,1570.0,12.3,Microcrédit,1090.0,12,0.233,102.7,592.0,0,0.065,Aucune,Agence,4,3.0,Défaut
+CLI00731,2024-07-25,Agence Est,Femme,40,Marié(e),Supérieur,Fonction publique,1260.0,11.1,Crédit consommation,4710.0,36,0.1866,171.84,575.0,1,0.136,Aucune,Agent commercial,1,4.0,En cours
+CLI00732,2024-01-16,Agence Centre,Femme,23,Célibataire,Supérieur,Commerce,1150.0,11.2,Crédit immobilier,33430.0,240,0.0506,221.73,774.0,0,0.193,Hypothèque,Agence,15,3.0,En cours
+CLI00733,2024-08-06,Agence Sud,Homme,30,Marié(e),Supérieur,Services,1960.0,4.0,Crédit agricole,1440.0,12,0.1272,128.43,673.0,1,0.066,Aucune,Mobile/Digital,1,4.0,Remboursé
+CLI00734,2025-05-23,Agence Ouest,Homme,47,Marié(e),Secondaire,Transport,890.0,8.5,Crédit PME,17960.0,36,0.16,631.42,550.0,1,0.709,Caution personnelle,Agence,10,4.0,Défaut
+CLI00735,2024-03-10,Agence Centre,Femme,32,Marié(e),Secondaire,Industrie,540.0,4.7,Crédit agricole,850.0,6,0.1237,146.82,686.0,1,0.272,Aucune,Agent commercial,3,5.0,Remboursé
+CLI00736,2023-04-04,Agence Est,Femme,25,Veuf/Veuve,Secondaire,Industrie,500.0,6.8,Crédit PME,38780.0,36,0.1291,1304.97,635.0,0,1.5,Caution personnelle,Mobile/Digital,6,5.0,Défaut
+CLI00737,2023-11-03,Agence Nord,Femme,24,Marié(e),Supérieur,Services,2150.0,11.6,Crédit agricole,7080.0,6,0.1582,1235.04,523.0,2,0.574,Caution personnelle,Agent commercial,10,4.0,Remboursé
+CLI00738,2025-09-20,Agence Centre,Homme,40,Marié(e),Supérieur,Agriculture,2960.0,3.0,Crédit agricole,1390.0,24,0.1215,65.53,732.0,0,0.022,Caution personnelle,Mobile/Digital,3,3.0,En cours
+CLI00739,2024-04-09,Agence Sud,Femme,33,Célibataire,Secondaire,Commerce,760.0,4.3,Crédit agricole,8970.0,24,0.147,433.65,686.0,0,0.571,Aucune,Mobile/Digital,1,4.0,Remboursé
+CLI00740,2023-08-01,Agence Centre,Femme,39,Célibataire,Supérieur,Industrie,1400.0,5.7,Crédit consommation,7160.0,12,0.1631,650.68,638.0,0,0.465,Caution personnelle,Agence,7,4.0,Remboursé
+CLI00741,2025-05-31,Agence Nord,Homme,20,Marié(e),Secondaire,Services,1060.0,3.9,Microcrédit,620.0,6,0.2277,110.3,694.0,0,0.104,Aucune,Agence,4,3.0,Remboursé
+CLI00742,2024-01-09,Agence Sud,Femme,31,Célibataire,Supérieur,Fonction publique,1210.0,4.7,Crédit consommation,6770.0,24,0.1203,318.78,768.0,0,0.263,Aucune,Agence,6,4.0,Remboursé
+CLI00743,2023-11-16,Agence Est,Femme,31,Célibataire,Secondaire,Commerce,510.0,4.4,Crédit agricole,1400.0,12,0.0933,122.65,850.0,0,0.24,Caution personnelle,Recommandation,5,4.0,Remboursé
+CLI00744,2023-04-04,Agence Est,Femme,46,Divorcé(e),Secondaire,Fonction publique,1020.0,7.4,Microcrédit,2350.0,12,0.2339,221.52,598.0,1,0.217,Aucune,Agent commercial,3,4.0,Remboursé
+CLI00745,2025-08-04,Agence Ouest,Femme,47,Marié(e),Secondaire,Commerce,740.0,17.9,Crédit PME,8130.0,36,0.1013,262.83,790.0,0,0.355,Nantissement,Agence,18,4.0,En cours
+CLI00746,2025-04-15,Agence Sud,Femme,45,Célibataire,Secondaire,Commerce,1250.0,1.4,Crédit consommation,1330.0,36,0.1621,46.9,676.0,0,0.038,Aucune,Agence,10,3.0,En cours
+CLI00747,2024-01-24,Agence Ouest,Homme,20,Marié(e),Secondaire,Services,850.0,3.6,Microcrédit,1970.0,12,0.2337,185.68,663.0,2,0.218,Hypothèque,Agence,14,3.0,Remboursé
+CLI00748,2024-04-30,Agence Ouest,Homme,47,Divorcé(e),Supérieur,Industrie,1960.0,4.5,Microcrédit,2140.0,12,0.237,202.05,628.0,1,0.103,Nantissement,Agence,2,4.0,Défaut
+CLI00749,2023-09-12,Agence Sud,Homme,50,Célibataire,Secondaire,Services,630.0,5.5,Crédit immobilier,49500.0,180,0.0653,432.01,772.0,0,0.686,Hypothèque,Agent commercial,14,4.0,En cours
+CLI00750,2025-08-20,Agence Centre,Femme,31,Marié(e),Secondaire,Commerce,960.0,2.2,Crédit PME,14760.0,60,0.1366,340.84,580.0,1,0.355,Caution personnelle,Agence,4,5.0,En cours
+CLI00751,2025-07-08,Agence Nord,Homme,41,Veuf/Veuve,Primaire,Services,390.0,0.9,Crédit consommation,3000.0,12,0.1582,271.94,715.0,0,0.697,Hypothèque,Recommandation,5,5.0,Remboursé
+CLI00752,2023-05-25,Agence Est,Homme,43,Divorcé(e),Supérieur,Transport,2080.0,7.1,Crédit immobilier,85270.0,120,0.0777,1024.23,731.0,0,0.492,Hypothèque,Agence,10,5.0,En cours
+CLI00753,2023-08-31,Agence Sud,Femme,34,Marié(e),Supérieur,Commerce,2490.0,4.8,Crédit agricole,5410.0,12,0.1364,484.83,668.0,0,0.195,Aucune,Recommandation,10,3.0,Défaut
+CLI00754,2025-06-10,Agence Centre,Homme,40,Marié(e),Supérieur,Commerce,1430.0,2.7,Microcrédit,2400.0,18,0.239,159.97,599.0,0,0.112,Caution personnelle,Agence,7,3.0,En cours
+CLI00755,2023-08-07,Agence Ouest,Homme,30,Marié(e),Supérieur,Agriculture,1380.0,2.2,Crédit immobilier,85060.0,240,0.0603,610.87,805.0,0,0.443,Hypothèque,Agent commercial,12,3.0,En cours
+CLI00756,2023-12-26,Agence Sud,Femme,40,Marié(e),Secondaire,Commerce,430.0,4.6,Crédit agricole,3340.0,24,0.1462,161.34,601.0,2,0.375,Hypothèque,Agence,1,4.0,Remboursé
+CLI00757,2025-03-19,Agence Centre,Homme,37,Marié(e),Supérieur,Industrie,2840.0,2.6,Crédit consommation,1250.0,12,0.1518,112.93,714.0,1,0.04,Caution personnelle,Agent commercial,8,3.0,Défaut
+CLI00758,2023-08-25,Agence Est,Homme,41,Célibataire,Primaire,Services,910.0,5.7,Microcrédit,1650.0,18,0.2166,108.18,650.0,1,0.119,Caution personnelle,Agence,5,5.0,Remboursé
+CLI00759,2025-04-26,Agence Sud,Femme,57,Marié(e),Supérieur,Services,2330.0,5.6,Crédit consommation,810.0,12,0.1662,73.73,582.0,0,0.032,Aucune,Agence,10,4.0,Remboursé
+CLI00760,2024-10-19,Agence Nord,Homme,28,Célibataire,Supérieur,Services,970.0,4.0,Crédit consommation,5630.0,36,0.1348,191.0,757.0,0,0.197,Nantissement,Agence,9,3.0,En cours
+CLI00761,2023-07-05,Agence Sud,Femme,50,Célibataire,Supérieur,Services,1460.0,6.6,Crédit agricole,3920.0,24,0.1575,191.47,617.0,1,0.131,Aucune,Agence,2,5.0,Remboursé
+CLI00762,2023-01-31,Agence Sud,Femme,39,Divorcé(e),Secondaire,Industrie,590.0,8.4,Microcrédit,630.0,6,0.2462,112.67,530.0,1,0.191,Aucune,Agent commercial,14,3.0,Remboursé
+CLI00763,2023-06-22,Agence Ouest,Femme,39,Célibataire,Primaire,Commerce,480.0,2.3,Microcrédit,520.0,18,0.2118,33.97,679.0,0,0.071,Hypothèque,Recommandation,5,4.0,Remboursé
+CLI00764,2024-06-09,Agence Est,Femme,20,Célibataire,Supérieur,Industrie,1320.0,4.1,Microcrédit,2890.0,12,0.2525,275.03,532.0,2,0.208,Caution personnelle,Agence,7,3.0,Défaut
+CLI00765,2025-08-17,Agence Centre,Femme,48,Marié(e),Primaire,Transport,410.0,10.2,Microcrédit,2650.0,18,0.2503,178.1,,0,0.434,Aucune,Agence,3,4.0,En cours
+CLI00766,2024-04-18,Agence Nord,Femme,27,Marié(e),Supérieur,Commerce,700.0,8.8,Crédit agricole,980.0,6,0.1275,169.46,683.0,0,0.242,Hypothèque,Agent commercial,4,5.0,Remboursé
+CLI00767,2023-05-09,Agence Centre,Femme,29,Célibataire,Secondaire,Commerce,780.0,2.5,Crédit PME,9580.0,60,0.1265,216.26,655.0,0,0.277,Aucune,Agence,9,3.0,En cours
+CLI00768,2023-02-18,Agence Nord,Femme,36,Marié(e),Primaire,Commerce,620.0,13.2,Crédit immobilier,33330.0,180,0.0991,356.33,564.0,1,0.575,Hypothèque,Agence,15,3.0,En cours
+CLI00769,2023-07-07,Agence Est,Femme,35,Marié(e),Secondaire,Commerce,690.0,14.3,Crédit consommation,3300.0,12,0.141,296.45,735.0,0,0.43,Aucune,Mobile/Digital,7,4.0,Remboursé
+CLI00770,2024-03-10,Agence Nord,Homme,30,Marié(e),Primaire,Commerce,310.0,16.3,Crédit immobilier,89930.0,180,0.0879,900.93,690.0,1,1.5,Hypothèque,Agence,13,3.0,Défaut
+CLI00771,2024-03-17,Agence Est,Homme,53,Célibataire,Secondaire,Agriculture,570.0,7.5,Crédit PME,13800.0,36,0.155,481.77,507.0,1,0.845,Hypothèque,Agence,10,4.0,Défaut
+CLI00772,2023-11-01,Agence Nord,Femme,45,Marié(e),Secondaire,Agriculture,640.0,1.3,Crédit consommation,910.0,36,0.1835,33.06,546.0,0,0.052,Caution personnelle,Recommandation,10,4.0,En cours
+CLI00773,2024-09-13,Agence Sud,Femme,63,Marié(e),Secondaire,Commerce,660.0,19.0,Crédit agricole,3000.0,24,0.1105,139.89,820.0,0,0.212,Aucune,Agent commercial,6,4.0,Remboursé
+CLI00774,2023-09-06,Agence Centre,Homme,31,Marié(e),Primaire,Fonction publique,370.0,3.3,Microcrédit,2670.0,12,0.2481,253.52,570.0,0,0.685,Nantissement,Recommandation,8,2.0,Remboursé
+CLI00775,2023-09-12,Agence Centre,Femme,31,Marié(e),Supérieur,Services,3180.0,5.9,Crédit agricole,6310.0,12,0.1456,568.22,712.0,0,0.179,Caution personnelle,Agent commercial,3,4.0,Remboursé
+CLI00776,2025-07-19,Agence Nord,Homme,58,Célibataire,Supérieur,Industrie,1180.0,8.5,Crédit consommation,5640.0,12,0.1589,511.43,652.0,1,0.433,Caution personnelle,Agence,11,5.0,Remboursé
+CLI00777,2024-06-18,Agence Ouest,Homme,26,Célibataire,Secondaire,Services,730.0,12.3,Microcrédit,2120.0,12,0.1963,196.01,,0,0.269,Caution personnelle,Agence,8,4.0,Remboursé
+CLI00778,2024-08-21,Agence Est,Homme,42,Divorcé(e),Secondaire,Services,1050.0,10.2,Microcrédit,1060.0,6,0.2472,189.62,555.0,1,0.181,Hypothèque,Agence,4,4.0,Remboursé
+CLI00779,2024-07-26,Agence Centre,Homme,36,Célibataire,Supérieur,Commerce,1580.0,6.3,Microcrédit,2340.0,12,0.2123,218.14,669.0,0,0.138,Aucune,Mobile/Digital,1,5.0,Remboursé
+CLI00780,2023-06-04,Agence Centre,Femme,36,Célibataire,Supérieur,Services,1060.0,5.3,Crédit consommation,2330.0,24,0.1935,117.85,610.0,1,0.111,Hypothèque,Agent commercial,5,4.0,Remboursé
+CLI00781,2024-08-05,Agence Centre,Femme,25,Célibataire,Supérieur,Services,1220.0,11.8,Crédit PME,32380.0,60,0.1322,740.4,647.0,1,0.607,Caution personnelle,Recommandation,13,3.0,En cours
+CLI00782,2025-01-27,Agence Sud,Homme,32,Marié(e),Secondaire,Agriculture,770.0,12.0,Microcrédit,1700.0,12,0.2262,159.62,685.0,0,0.207,Aucune,Agence,6,3.0,Remboursé
+CLI00783,2023-02-12,Agence Ouest,Homme,59,Célibataire,Supérieur,Services,1690.0,6.6,Crédit consommation,2450.0,36,0.1643,86.66,684.0,0,0.051,Aucune,Agence,3,4.0,Remboursé
+CLI00784,2024-01-05,Agence Sud,Femme,41,Célibataire,Supérieur,Commerce,970.0,5.3,Crédit consommation,4300.0,12,0.177,393.61,582.0,1,0.406,Aucune,Agence,10,4.0,Remboursé
+CLI00785,2023-10-06,Agence Est,Homme,54,Célibataire,Secondaire,Fonction publique,1080.0,2.2,Crédit immobilier,59840.0,120,0.095,774.31,610.0,0,0.717,Hypothèque,Agent commercial,9,4.0,Défaut
+CLI00786,2024-08-21,Agence Nord,Homme,33,Marié(e),Supérieur,Commerce,2070.0,3.5,Crédit consommation,3120.0,24,0.186,156.67,522.0,2,0.076,Hypothèque,Agence,8,3.0,Remboursé
+CLI00787,2025-06-25,Agence Est,Homme,40,Célibataire,Supérieur,Services,1160.0,6.4,Crédit consommation,5710.0,12,0.1733,521.67,665.0,0,0.45,Aucune,Mobile/Digital,10,4.0,Remboursé
+CLI00788,2024-01-15,Agence Sud,Femme,46,Veuf/Veuve,Supérieur,Agriculture,1430.0,4.0,Crédit PME,11660.0,24,0.1114,544.21,684.0,1,0.381,Caution personnelle,Mobile/Digital,6,4.0,Remboursé
+CLI00789,2023-03-07,Agence Est,Femme,45,Marié(e),Secondaire,Services,1010.0,18.0,Crédit consommation,6650.0,24,0.1539,323.67,604.0,0,0.32,Aucune,Agence,4,3.0,Remboursé
+CLI00790,2024-09-30,Agence Centre,Homme,37,Célibataire,Secondaire,Commerce,680.0,6.0,Crédit agricole,3020.0,12,0.1377,270.83,664.0,0,0.398,Caution personnelle,Agent commercial,2,,Défaut
+CLI00791,2023-11-06,Agence Est,Femme,40,Marié(e),Primaire,Fonction publique,200.0,10.9,Crédit agricole,6800.0,6,0.1114,1170.44,804.0,1,1.5,Nantissement,Mobile/Digital,6,4.0,Remboursé
+CLI00792,2024-11-12,Agence Centre,Homme,50,Marié(e),Secondaire,Commerce,580.0,4.5,Crédit agricole,5570.0,12,0.1362,499.12,519.0,1,0.861,Caution personnelle,Agence,10,3.0,Remboursé
+CLI00793,2023-05-21,Agence Nord,Homme,42,Célibataire,Secondaire,Fonction publique,2010.0,6.7,Crédit consommation,7500.0,24,0.1426,361.02,756.0,0,0.18,Caution personnelle,Mobile/Digital,5,4.0,Remboursé
+CLI00794,2023-10-11,Agence Centre,Homme,21,Marié(e),Supérieur,Agriculture,1090.0,0.8,Crédit immobilier,79900.0,240,0.0881,709.15,545.0,0,0.651,Hypothèque,Mobile/Digital,10,3.0,En cours
+CLI00795,2024-01-24,Agence Nord,Femme,33,Marié(e),Supérieur,Commerce,1370.0,6.4,Crédit consommation,6680.0,12,0.1374,598.96,790.0,0,0.437,Caution personnelle,Agent commercial,7,,Remboursé
+CLI00796,2025-04-11,Agence Centre,Homme,28,Marié(e),Supérieur,Commerce,3010.0,3.4,Crédit agricole,3860.0,24,0.1358,184.56,615.0,0,0.061,Nantissement,Agent commercial,2,3.0,En cours
+CLI00797,2024-07-04,Agence Sud,Homme,22,Célibataire,Primaire,Agriculture,370.0,2.9,Crédit agricole,2140.0,24,0.135,102.24,680.0,0,0.276,Aucune,Agent commercial,6,4.0,Remboursé
+CLI00798,2024-09-10,Agence Sud,Femme,47,Célibataire,Supérieur,Fonction publique,1200.0,13.7,Crédit immobilier,83420.0,120,0.058,917.78,813.0,0,0.765,Hypothèque,Agence,9,4.0,En cours
+CLI00799,2024-12-06,Agence Centre,Femme,50,Célibataire,Supérieur,Services,1070.0,11.2,Crédit PME,16930.0,48,0.1503,471.43,581.0,1,0.441,Aucune,Mobile/Digital,5,3.0,En cours
+CLI00800,2024-08-28,Agence Est,Homme,31,Marié(e),Secondaire,Agriculture,950.0,17.5,Microcrédit,2440.0,6,0.2041,431.22,746.0,0,0.454,Aucune,Recommandation,3,3.0,Remboursé
+CLI00801,2025-06-01,Agence Sud,Femme,36,Marié(e),Secondaire,Fonction publique,570.0,2.2,Microcrédit,1750.0,6,0.2305,311.59,635.0,0,0.547,Aucune,Agence,6,3.0,Défaut
+CLI00802,2023-08-07,Agence Ouest,Femme,59,Marié(e),Secondaire,Commerce,1100.0,10.3,Crédit agricole,7070.0,6,0.11,1216.43,740.0,0,1.106,Hypothèque,Agence,2,4.0,Remboursé
+CLI00803,2024-09-29,Agence Ouest,Femme,38,Divorcé(e),Secondaire,Transport,1210.0,2.5,Crédit agricole,7010.0,24,0.1294,333.07,693.0,0,0.275,Hypothèque,Agence,7,4.0,Remboursé
+CLI00804,2023-09-11,Agence Ouest,Homme,38,Marié(e),Secondaire,Commerce,1390.0,5.0,Microcrédit,1250.0,12,0.2272,117.43,630.0,0,0.084,Caution personnelle,Agent commercial,9,4.0,Remboursé
+CLI00805,2024-07-11,Agence Ouest,Homme,42,Marié(e),Supérieur,Fonction publique,2340.0,4.8,Crédit immobilier,83800.0,240,0.1254,954.45,478.0,1,0.408,Hypothèque,Agence,11,5.0,En cours
+CLI00806,2024-01-31,Agence Ouest,Homme,52,Célibataire,Secondaire,Industrie,730.0,11.6,Crédit PME,22180.0,60,0.1235,497.31,684.0,1,0.681,Caution personnelle,Recommandation,10,5.0,En cours
+CLI00807,2025-07-06,Agence Ouest,Femme,44,Célibataire,Supérieur,Agriculture,870.0,10.9,Crédit consommation,4280.0,36,0.1585,150.16,670.0,0,0.173,Aucune,Agence,8,4.0,En cours
+CLI00808,2023-02-03,Agence Ouest,Femme,50,Célibataire,Supérieur,Fonction publique,1080.0,3.8,Microcrédit,2880.0,6,0.2106,509.91,693.0,0,0.472,Aucune,Agent commercial,10,4.0,Remboursé
+CLI00809,2024-07-03,Agence Nord,Homme,29,Célibataire,Supérieur,Services,3370.0,7.4,Microcrédit,2710.0,6,0.2349,483.11,653.0,0,0.143,Caution personnelle,Agence,6,2.0,Remboursé
+CLI00810,2023-02-24,Agence Centre,Homme,48,Marié(e),Secondaire,Fonction publique,800.0,12.7,Crédit agricole,4840.0,6,0.1416,840.31,599.0,2,1.05,Aucune,Mobile/Digital,7,3.0,Défaut
+CLI00811,2023-12-31,Agence Ouest,Homme,38,Divorcé(e),Supérieur,Services,1880.0,1.8,Crédit immobilier,39480.0,120,0.0946,510.0,586.0,2,0.271,Hypothèque,Agence,10,4.0,En cours
+CLI00812,2024-10-24,Agence Nord,Femme,31,Marié(e),Supérieur,Services,900.0,8.5,Microcrédit,1730.0,12,0.2386,163.47,533.0,2,0.182,Aucune,Mobile/Digital,4,5.0,Remboursé
+CLI00813,2023-08-27,Agence Ouest,Femme,45,Marié(e),Secondaire,Industrie,1200.0,3.2,Crédit consommation,2570.0,24,0.1784,128.11,535.0,0,0.107,Hypothèque,Agent commercial,9,3.0,Remboursé
+CLI00814,2023-11-13,Agence Ouest,Homme,65,Célibataire,Supérieur,Commerce,1630.0,8.8,Crédit consommation,7550.0,24,0.1612,370.1,692.0,0,0.227,Aucune,Mobile/Digital,2,5.0,Remboursé
+CLI00815,2024-11-06,Agence Sud,Femme,41,Célibataire,Primaire,Commerce,340.0,11.8,Crédit PME,37010.0,48,0.1287,990.5,638.0,0,1.5,Caution personnelle,Agence,16,4.0,En cours
+CLI00816,2024-12-21,Agence Centre,Femme,49,Marié(e),Supérieur,Commerce,2130.0,4.5,Crédit consommation,5710.0,24,0.1924,288.5,491.0,1,0.135,Aucune,Agence,8,4.0,En cours
+CLI00817,2024-10-08,Agence Sud,Femme,37,Divorcé(e),Secondaire,Industrie,930.0,3.4,Crédit immobilier,50450.0,120,0.0787,608.64,686.0,0,0.654,Hypothèque,Agence,15,3.0,En cours
+CLI00818,2023-03-16,Agence Ouest,Homme,24,Marié(e),Supérieur,Transport,700.0,2.3,Crédit agricole,8300.0,24,0.16,406.39,573.0,0,0.581,Nantissement,Agence,10,3.0,Défaut
+CLI00819,2023-12-05,Agence Centre,Homme,45,Célibataire,Secondaire,Agriculture,1010.0,6.7,Crédit agricole,4950.0,24,0.1313,235.63,685.0,0,0.233,Caution personnelle,Mobile/Digital,1,5.0,Remboursé
+CLI00820,2025-01-10,Agence Ouest,Homme,29,Marié(e),Supérieur,Fonction publique,1630.0,4.2,Microcrédit,2480.0,12,0.2314,233.48,673.0,0,0.143,Caution personnelle,Agence,9,4.0,Remboursé
+CLI00821,2025-05-13,Agence Est,Homme,37,Marié(e),Secondaire,Commerce,520.0,8.7,Crédit agricole,8080.0,24,0.1301,384.18,737.0,0,0.739,Aucune,Agence,13,3.0,En cours
+CLI00822,2023-08-03,Agence Ouest,Homme,59,Marié(e),Secondaire,Services,700.0,2.6,Crédit agricole,2110.0,6,0.1127,363.32,715.0,0,0.519,Caution personnelle,Agent commercial,3,4.0,Remboursé
+CLI00823,2024-01-30,Agence Nord,Homme,21,Célibataire,Supérieur,Fonction publique,1170.0,4.1,Crédit consommation,2310.0,24,0.1711,114.33,608.0,0,0.098,Caution personnelle,Recommandation,3,4.0,Remboursé
+CLI00824,2025-05-19,Agence Ouest,Homme,43,Marié(e),Secondaire,Industrie,1270.0,8.6,Crédit consommation,7030.0,36,0.1783,253.55,593.0,0,0.2,Aucune,Recommandation,4,5.0,En cours
+CLI00825,2023-05-05,Agence Centre,Homme,44,Célibataire,Secondaire,Fonction publique,1020.0,2.8,Crédit consommation,1690.0,36,0.1963,62.49,592.0,2,0.061,Aucune,Mobile/Digital,5,5.0,Remboursé
+CLI00826,2025-06-25,Agence Est,Femme,42,Célibataire,Secondaire,Commerce,780.0,5.2,Crédit consommation,1890.0,36,0.1453,65.08,773.0,0,0.083,Aucune,Agence,13,4.0,En cours
+CLI00827,2024-01-12,Agence Ouest,Homme,33,Célibataire,Supérieur,Services,1530.0,2.3,Crédit consommation,4040.0,36,0.1943,148.97,531.0,0,0.097,Nantissement,Agence,3,4.0,En cours
+CLI00828,2024-11-20,Agence Sud,Homme,41,Marié(e),Supérieur,Transport,,1.9,Crédit PME,20780.0,24,0.12,978.19,607.0,0,0.559,Caution personnelle,Agence,11,3.0,En cours
+CLI00829,2024-03-15,Agence Centre,Femme,30,Marié(e),Secondaire,Agriculture,1020.0,6.5,Microcrédit,470.0,6,0.2074,83.14,691.0,0,0.082,Caution personnelle,Agence,6,4.0,Remboursé
+CLI00830,2024-01-30,Agence Ouest,Femme,55,Marié(e),Supérieur,Transport,2320.0,5.5,Crédit consommation,6220.0,24,0.187,312.64,536.0,0,0.135,Aucune,Agent commercial,9,3.0,Remboursé
+CLI00831,2024-01-11,Agence Sud,Femme,41,Veuf/Veuve,Secondaire,Commerce,1450.0,6.4,Crédit consommation,1790.0,36,0.1657,63.44,559.0,0,0.044,Nantissement,Recommandation,8,4.0,En cours
+CLI00832,2023-01-26,Agence Centre,Femme,52,Marié(e),Primaire,Services,340.0,12.9,Crédit PME,24040.0,36,0.1656,851.84,513.0,0,1.5,Aucune,Agence,9,3.0,Remboursé
+CLI00833,2025-06-29,Agence Ouest,Homme,36,Célibataire,Supérieur,Services,1230.0,13.1,Microcrédit,1010.0,6,0.2326,179.94,674.0,0,0.146,Aucune,Mobile/Digital,1,3.0,Remboursé
+CLI00834,2025-01-31,Agence Est,Femme,48,Marié(e),Supérieur,Services,1470.0,4.8,Crédit agricole,7570.0,6,0.1529,1318.53,518.0,1,0.897,Hypothèque,Agent commercial,9,4.0,Remboursé
+CLI00835,2025-07-12,Agence Ouest,Homme,46,Marié(e),Primaire,Industrie,380.0,4.7,Microcrédit,1470.0,12,0.2491,139.65,516.0,1,0.368,Aucune,Mobile/Digital,5,4.0,Remboursé
+CLI00836,2024-07-16,Agence Sud,Femme,28,Marié(e),Supérieur,Commerce,2070.0,3.3,Crédit agricole,5430.0,24,0.1241,256.65,723.0,0,0.124,Nantissement,Agence,4,5.0,Remboursé
+CLI00837,2025-08-18,Agence Centre,Femme,55,Célibataire,Secondaire,Commerce,640.0,5.3,Microcrédit,2990.0,18,0.2605,202.45,468.0,1,0.316,Aucune,Agence,5,3.0,Défaut
+CLI00838,2023-03-24,Agence Sud,Homme,66,Marié(e),Secondaire,Fonction publique,770.0,6.7,Crédit agricole,7410.0,24,0.1412,356.2,586.0,1,0.463,Hypothèque,Agence,9,3.0,Remboursé
+CLI00839,2023-12-25,Agence Sud,Homme,50,Divorcé(e),Supérieur,Commerce,1360.0,4.9,Crédit agricole,5640.0,6,0.1337,976.99,641.0,0,0.718,Hypothèque,Agence,9,3.0,Remboursé
+CLI00840,2024-07-24,Agence Sud,Homme,26,Divorcé(e),Secondaire,Services,,7.0,Crédit PME,18720.0,24,0.1422,900.75,587.0,0,0.834,Hypothèque,Mobile/Digital,11,3.0,Remboursé
+CLI00841,2024-04-25,Agence Centre,Homme,31,Marié(e),Supérieur,Industrie,2400.0,8.6,Crédit agricole,7810.0,24,0.1509,379.01,601.0,1,0.158,Hypothèque,Agent commercial,5,4.0,Remboursé
+CLI00842,2023-01-07,Agence Centre,Homme,20,Célibataire,Supérieur,Transport,1180.0,1.7,Microcrédit,2480.0,18,0.2145,162.35,685.0,0,0.138,Hypothèque,Recommandation,2,4.0,Remboursé
+CLI00843,2023-04-13,Agence Centre,Homme,31,Marié(e),Secondaire,Industrie,640.0,6.7,Crédit immobilier,56710.0,240,0.0892,507.32,552.0,0,0.793,Hypothèque,Agence,14,2.0,Défaut
+CLI00844,2024-03-27,Agence Centre,Homme,57,Marié(e),Secondaire,Services,1190.0,8.9,Crédit consommation,6410.0,12,0.1589,581.25,688.0,0,0.488,Caution personnelle,Agent commercial,10,4.0,Remboursé
+CLI00845,2025-04-06,Agence Nord,Femme,50,Célibataire,Supérieur,Éducation/Santé,2100.0,3.3,Crédit consommation,4440.0,36,0.1682,157.9,673.0,0,0.075,Caution personnelle,Agent commercial,4,5.0,En cours
+CLI00846,2024-09-05,Agence Nord,Homme,30,Marié(e),Supérieur,Agriculture,1920.0,6.2,Crédit consommation,2000.0,36,0.2045,74.79,577.0,0,0.039,Caution personnelle,Agent commercial,6,4.0,En cours
+CLI00847,2023-10-14,Agence Est,Femme,27,Célibataire,Primaire,Éducation/Santé,870.0,3.7,Microcrédit,1810.0,18,0.2221,119.15,706.0,0,0.137,Hypothèque,Agence,7,4.0,Remboursé
+CLI00848,2025-03-13,Agence Sud,Femme,33,Célibataire,Secondaire,Agriculture,1000.0,4.4,Crédit PME,22590.0,36,0.1445,777.02,578.0,1,0.777,Nantissement,Agence,7,,Défaut
+CLI00849,2025-06-07,Agence Nord,Homme,50,Divorcé(e),Secondaire,Services,840.0,13.1,Crédit PME,36330.0,36,0.1293,1222.88,622.0,1,1.456,Aucune,Agence,12,3.0,Défaut
+CLI00850,2023-10-18,Agence Centre,Femme,44,Marié(e),Supérieur,Services,1160.0,12.3,Microcrédit,1020.0,18,0.2292,67.5,598.0,0,0.058,Caution personnelle,Mobile/Digital,5,,Remboursé
+CLI00851,2025-07-07,Agence Centre,Homme,54,Divorcé(e),Supérieur,Fonction publique,1440.0,5.2,Crédit PME,37190.0,36,0.1309,1254.69,575.0,0,0.871,Caution personnelle,Agence,7,3.0,Défaut
+CLI00852,2023-08-21,Agence Nord,Homme,33,Célibataire,Supérieur,Fonction publique,2070.0,11.7,Crédit immobilier,80460.0,240,0.0729,637.89,651.0,1,0.308,Hypothèque,Agence,9,4.0,En cours
+CLI00853,2024-07-30,Agence Centre,Femme,40,Célibataire,Secondaire,Commerce,1100.0,14.5,Crédit PME,24780.0,36,0.1686,881.75,462.0,1,0.802,Aucune,Agent commercial,8,5.0,Défaut
+CLI00854,2023-11-28,Agence Centre,Homme,32,Célibataire,Supérieur,Commerce,1140.0,1.1,Microcrédit,1030.0,18,0.2485,69.13,575.0,2,0.061,Caution personnelle,Mobile/Digital,2,4.0,Remboursé
+CLI00855,2024-12-20,Agence Nord,Femme,37,Célibataire,Supérieur,Industrie,1010.0,0.6,Crédit consommation,2540.0,12,0.1726,231.97,604.0,1,0.23,Caution personnelle,Agence,18,2.0,Remboursé
+CLI00856,2023-03-01,Agence Centre,Femme,36,Marié(e),Secondaire,Commerce,,13.5,Crédit PME,35010.0,48,0.1157,914.57,690.0,0,1.5,Nantissement,Agence,9,3.0,En cours
+CLI00857,2023-02-23,Agence Centre,Femme,36,Marié(e),Supérieur,Commerce,1380.0,1.9,Microcrédit,1100.0,18,0.2252,72.58,671.0,0,0.053,Aucune,Agence,2,4.0,Remboursé
+CLI00858,2025-07-20,Agence Est,Femme,45,Marié(e),Secondaire,Agriculture,1080.0,10.1,Crédit consommation,7120.0,24,0.1675,351.17,606.0,0,0.325,Caution personnelle,Recommandation,2,4.0,En cours
+CLI00859,2023-06-26,Agence Nord,Femme,35,Marié(e),Secondaire,Fonction publique,1010.0,2.0,Crédit agricole,4310.0,6,0.1045,740.39,,0,0.733,Aucune,Agence,7,4.0,Remboursé
+CLI00860,2025-05-30,Agence Nord,Homme,38,Marié(e),Secondaire,Agriculture,790.0,9.1,Crédit consommation,4860.0,12,0.1956,449.18,523.0,0,0.569,Nantissement,Agent commercial,8,4.0,Remboursé
+CLI00861,2024-10-29,Agence Est,Homme,30,Marié(e),Primaire,Agriculture,330.0,10.7,Crédit immobilier,56120.0,120,0.0998,741.01,631.0,1,1.5,Hypothèque,Mobile/Digital,12,4.0,Défaut
+CLI00862,2024-08-25,Agence Est,Homme,51,Célibataire,Secondaire,Industrie,1550.0,8.8,Crédit immobilier,73660.0,240,0.0763,599.27,647.0,1,0.387,Hypothèque,Agent commercial,13,5.0,En cours
+CLI00863,2024-12-27,Agence Est,Homme,57,Marié(e),Supérieur,Transport,1520.0,8.7,Crédit consommation,6110.0,24,0.196,309.78,535.0,1,0.204,Caution personnelle,Mobile/Digital,1,4.0,En cours
+CLI00864,2023-03-16,Agence Sud,Homme,59,Célibataire,Supérieur,Fonction publique,1480.0,2.7,Crédit immobilier,65370.0,180,0.1159,767.39,526.0,0,0.519,Hypothèque,Recommandation,15,3.0,Défaut
+CLI00865,2023-02-20,Agence Centre,Homme,47,Marié(e),Supérieur,Industrie,2450.0,13.2,Microcrédit,950.0,6,0.2167,168.49,656.0,0,0.069,Nantissement,Mobile/Digital,1,5.0,Remboursé
+CLI00866,2023-03-25,Agence Ouest,Homme,39,Marié(e),Primaire,Fonction publique,730.0,4.4,Microcrédit,1120.0,6,0.2205,198.85,594.0,0,0.272,Nantissement,Agence,8,4.0,Remboursé
+CLI00867,2023-01-21,Agence Sud,Homme,30,Marié(e),Supérieur,Commerce,1660.0,2.7,Crédit PME,8140.0,60,0.1291,184.84,722.0,0,0.111,Hypothèque,Agence,5,4.0,En cours
+CLI00868,2025-07-21,Agence Ouest,Femme,29,Divorcé(e),Supérieur,Agriculture,980.0,6.8,Microcrédit,2950.0,12,0.2326,277.9,593.0,0,0.284,Aucune,Agent commercial,2,3.0,Remboursé
+CLI00869,2024-03-23,Agence Centre,Homme,39,Célibataire,Supérieur,Services,1960.0,7.4,Crédit agricole,7800.0,12,0.1393,700.08,605.0,1,0.357,Aucune,Agence,4,4.0,Défaut
+CLI00870,2023-05-05,Agence Centre,Homme,27,Divorcé(e),Primaire,Commerce,620.0,6.8,Crédit agricole,7530.0,12,0.1223,669.84,750.0,0,1.08,Caution personnelle,Agence,3,5.0,Remboursé
+CLI00871,2023-11-12,Agence Ouest,Homme,47,Marié(e),Secondaire,Services,750.0,0.9,Microcrédit,1870.0,12,0.271,179.64,538.0,1,0.24,Caution personnelle,Mobile/Digital,2,4.0,Défaut
+CLI00872,2023-05-26,Agence Nord,Femme,42,Marié(e),Secondaire,Éducation/Santé,1460.0,4.0,Crédit consommation,7710.0,36,0.17,274.88,643.0,1,0.188,Aucune,Agence,3,4.0,Remboursé
+CLI00873,2025-06-23,Agence Ouest,Homme,26,Célibataire,Primaire,Services,,9.1,Crédit PME,6310.0,48,0.1253,167.81,722.0,0,0.43,Caution personnelle,Mobile/Digital,10,3.0,En cours
+CLI00874,2025-02-24,Agence Est,Femme,37,Marié(e),Supérieur,Commerce,1830.0,5.4,Crédit immobilier,46370.0,240,0.0793,385.84,640.0,0,0.211,Hypothèque,Agence,18,3.0,En cours
+CLI00875,2023-01-08,Agence Centre,Femme,48,Marié(e),Supérieur,Fonction publique,1190.0,7.4,Microcrédit,2910.0,12,0.2565,277.5,596.0,0,0.233,Hypothèque,Mobile/Digital,4,4.0,Remboursé
+CLI00876,2023-10-29,Agence Sud,Homme,51,Marié(e),Supérieur,Services,1280.0,8.4,Crédit agricole,7110.0,6,-0.05,1220.85,721.0,0,0.954,Aucune,Agence,7,5.0,Remboursé
+CLI00877,2024-10-18,Agence Nord,Femme,42,Marié(e),Supérieur,Services,1910.0,13.9,Microcrédit,930.0,12,0.2566,88.69,495.0,3,0.046,Caution personnelle,Recommandation,4,3.0,Défaut
+CLI00878,2024-02-16,Agence Est,Homme,46,Marié(e),Secondaire,Fonction publique,,8.7,Crédit immobilier,39790.0,120,0.0886,501.03,624.0,0,0.35,Hypothèque,Mobile/Digital,7,2.0,En cours
+CLI00879,2023-08-12,Agence Sud,Femme,43,Divorcé(e),Primaire,Commerce,250.0,1.8,Microcrédit,2270.0,12,0.2382,214.45,566.0,1,0.858,Nantissement,Agent commercial,4,3.0,Défaut
+CLI00880,2024-02-15,Agence Est,Femme,35,Célibataire,Secondaire,Commerce,,4.5,Crédit agricole,5240.0,6,0.1379,908.79,651.0,0,0.618,Caution personnelle,Agent commercial,4,3.0,Remboursé
+CLI00881,2024-03-02,Agence Centre,Homme,41,Divorcé(e),Supérieur,Industrie,1830.0,5.4,Microcrédit,2800.0,6,0.2574,502.32,607.0,0,0.274,Caution personnelle,Agence,6,2.0,Remboursé
+CLI00882,2024-12-01,Agence Centre,Homme,41,Célibataire,Supérieur,Agriculture,780.0,2.8,Crédit consommation,2360.0,36,0.1783,85.12,585.0,0,0.109,Aucune,Recommandation,17,3.0,En cours
+CLI00883,2024-07-08,Agence Nord,Femme,34,Marié(e),Secondaire,Services,630.0,0.9,Microcrédit,970.0,6,0.2173,172.07,704.0,0,0.273,Caution personnelle,Agent commercial,6,3.0,Remboursé
+CLI00884,2024-04-17,Agence Est,Femme,42,Veuf/Veuve,Secondaire,Transport,1180.0,5.8,Crédit PME,35270.0,48,0.1172,923.95,647.0,1,0.783,Hypothèque,Agence,10,3.0,En cours
+CLI00885,2024-09-06,Agence Ouest,Homme,39,Célibataire,Secondaire,Commerce,430.0,8.8,Crédit consommation,1670.0,24,0.1671,82.34,672.0,0,0.191,Caution personnelle,Recommandation,6,4.0,Remboursé
+CLI00886,2025-03-23,Agence Nord,Femme,43,Célibataire,Supérieur,Fonction publique,1150.0,1.0,Crédit agricole,4120.0,6,0.1261,712.14,705.0,0,0.619,Caution personnelle,Agence,13,3.0,Remboursé
+CLI00887,2023-04-03,Agence Nord,Homme,40,Célibataire,Supérieur,Industrie,2210.0,19.0,Crédit agricole,1840.0,24,0.1625,90.31,498.0,1,0.041,Hypothèque,Agence,6,5.0,Remboursé
+CLI00888,2024-05-10,Agence Ouest,Homme,39,Marié(e),Secondaire,Fonction publique,1650.0,6.7,Crédit agricole,8930.0,24,0.1246,422.29,610.0,1,0.256,Aucune,Mobile/Digital,2,5.0,Remboursé
+CLI00889,2025-01-26,Agence Centre,Homme,22,Divorcé(e),Secondaire,Commerce,460.0,4.6,Crédit consommation,2390.0,36,0.1772,86.07,617.0,1,0.187,Caution personnelle,Agence,6,4.0,En cours
+CLI00890,2023-10-18,Agence Est,Homme,63,Marié(e),Secondaire,Commerce,940.0,6.2,Crédit immobilier,52840.0,180,0.0811,508.33,703.0,0,0.541,Hypothèque,Recommandation,11,3.0,En cours
+CLI00891,2025-05-17,Agence Ouest,Homme,47,Marié(e),Supérieur,Agriculture,2320.0,2.8,Crédit consommation,2790.0,36,0.1843,101.47,481.0,2,0.044,Hypothèque,Agence,5,5.0,En cours
+CLI00892,2023-07-14,Agence Sud,Femme,44,Marié(e),Primaire,Éducation/Santé,420.0,0.9,Crédit consommation,3290.0,12,0.1578,298.16,677.0,0,0.71,Hypothèque,Mobile/Digital,5,4.0,Remboursé
+CLI00893,2023-02-04,Agence Centre,Homme,57,Marié(e),Secondaire,Commerce,730.0,10.5,Crédit consommation,4470.0,36,0.1268,149.92,739.0,0,0.205,Aucune,Agent commercial,12,5.0,Remboursé
+CLI00894,2025-01-25,Agence Sud,Femme,50,Célibataire,Supérieur,Commerce,1240.0,4.6,Crédit consommation,1080.0,24,0.1897,54.43,598.0,1,0.044,Caution personnelle,Recommandation,9,4.0,En cours
+CLI00895,2025-02-02,Agence Centre,Femme,44,Célibataire,Supérieur,Commerce,1710.0,0.7,Microcrédit,1660.0,6,0.2241,295.03,695.0,0,0.173,Nantissement,Agence,6,4.0,Remboursé
+CLI00896,2023-08-08,Agence Centre,Homme,46,Célibataire,Primaire,Agriculture,460.0,4.1,Crédit consommation,980.0,24,0.1647,48.2,623.0,1,0.105,Caution personnelle,Agence,6,2.0,Défaut
+CLI00897,2025-09-20,Agence Ouest,Femme,56,Veuf/Veuve,Primaire,Commerce,380.0,5.2,Crédit immobilier,32990.0,120,0.0623,370.08,689.0,0,0.974,Hypothèque,Agence,17,3.0,En cours
+CLI00898,2024-08-31,Agence Est,Homme,42,Célibataire,Supérieur,Industrie,1090.0,3.7,Microcrédit,2870.0,6,0.2194,509.4,725.0,0,0.467,Caution personnelle,Agence,12,3.0,Remboursé
+CLI00899,2023-02-06,Agence Centre,Homme,26,Divorcé(e),Supérieur,Services,2220.0,3.1,Crédit agricole,8180.0,12,0.1321,731.42,677.0,0,0.329,Aucune,Mobile/Digital,3,3.0,Remboursé
+CLI00900,2024-08-24,Agence Est,Homme,25,Divorcé(e),Supérieur,Agriculture,1030.0,12.5,Crédit agricole,7590.0,12,0.1194,674.15,790.0,0,0.655,Nantissement,Agence,5,4.0,Remboursé
+CLI00901,2023-12-16,Agence Sud,Femme,53,Célibataire,Supérieur,Commerce,1490.0,4.7,Crédit agricole,3540.0,24,0.1513,171.86,576.0,1,0.115,Caution personnelle,Agent commercial,6,4.0,Remboursé
+CLI00902,2025-08-21,Agence Est,Homme,38,Marié(e),Secondaire,Commerce,700.0,10.3,Microcrédit,1580.0,6,0.2096,279.66,720.0,0,0.4,Caution personnelle,Agence,5,4.0,Remboursé
+CLI00903,2023-10-02,Agence Sud,Femme,45,Marié(e),Secondaire,Services,1040.0,2.9,Crédit agricole,3470.0,6,0.0984,595.04,838.0,0,0.572,Aucune,Agence,2,5.0,Remboursé
+CLI00904,2023-03-31,Agence Est,Femme,39,Marié(e),Supérieur,Commerce,2200.0,7.5,Crédit consommation,6400.0,24,0.1717,316.95,618.0,1,0.144,Caution personnelle,Agence,8,4.0,Remboursé
+CLI00905,2025-05-26,Agence Est,Homme,44,Célibataire,Secondaire,Commerce,820.0,2.5,Crédit agricole,5620.0,24,0.1341,268.27,619.0,1,0.327,Aucune,Agent commercial,5,3.0,Défaut
+CLI00906,2023-07-27,Agence Centre,Homme,31,Divorcé(e),Secondaire,Services,960.0,3.4,Crédit PME,8350.0,48,0.1264,222.52,613.0,0,0.232,Hypothèque,Agence,7,4.0,Défaut
+CLI00907,2023-11-24,Agence Nord,Homme,44,Célibataire,Supérieur,Services,,1.8,Microcrédit,590.0,12,0.2451,55.94,559.0,1,0.045,Caution personnelle,Recommandation,4,,Défaut
+CLI00908,2024-10-23,Agence Centre,Homme,20,Célibataire,Supérieur,Fonction publique,2800.0,4.3,Microcrédit,2180.0,18,0.2555,147.07,531.0,1,0.053,Caution personnelle,Mobile/Digital,3,,Remboursé
+CLI00909,2023-11-25,Agence Centre,Homme,37,Divorcé(e),Supérieur,Services,1190.0,5.3,Crédit PME,10530.0,24,0.0961,484.01,813.0,0,0.407,Caution personnelle,Agence,6,3.0,Remboursé
+CLI00910,2023-11-27,Agence Centre,Femme,26,Célibataire,Secondaire,Industrie,1810.0,8.3,Microcrédit,1450.0,6,0.2409,258.93,595.0,0,0.143,Caution personnelle,Mobile/Digital,4,5.0,Remboursé
+CLI00911,2024-05-10,Agence Nord,Homme,40,Marié(e),Supérieur,Fonction publique,900.0,2.3,Crédit agricole,9140.0,24,0.1042,423.54,732.0,0,0.471,Aucune,Agent commercial,3,5.0,Remboursé
+CLI00912,2023-05-09,Agence Nord,Homme,41,Célibataire,Secondaire,Commerce,700.0,9.8,Crédit PME,27390.0,24,0.1006,1264.67,726.0,0,1.5,Nantissement,Agence,11,3.0,Défaut
+CLI00913,2024-06-26,Agence Centre,Homme,38,Célibataire,Supérieur,Commerce,1620.0,13.5,Crédit agricole,4980.0,24,0.1202,234.47,727.0,0,0.145,Caution personnelle,Agence,4,4.0,Remboursé
+CLI00914,2025-06-14,Agence Ouest,Femme,41,Divorcé(e),Supérieur,Services,1390.0,14.8,Crédit immobilier,28310.0,240,-0.05,295.11,501.0,0,0.212,Hypothèque,Agent commercial,14,3.0,Défaut
+CLI00915,2025-09-20,Agence Centre,Homme,22,Célibataire,Secondaire,Commerce,330.0,9.0,Crédit agricole,8100.0,24,0.1437,390.32,585.0,1,1.183,Caution personnelle,Recommandation,8,4.0,Défaut
+CLI00916,2025-01-01,Agence Nord,Homme,29,Marié(e),Secondaire,Commerce,1220.0,4.0,Crédit PME,9010.0,48,0.1336,243.33,675.0,0,0.199,Aucune,Agence,9,3.0,En cours
+CLI00917,2024-08-16,Agence Sud,Femme,37,Divorcé(e),Supérieur,Commerce,1280.0,7.8,Crédit agricole,3330.0,6,0.1348,577.02,648.0,0,0.451,Aucune,Recommandation,8,4.0,Remboursé
+CLI00918,2023-08-11,Agence Centre,Femme,43,Marié(e),Supérieur,Fonction publique,2350.0,4.6,Microcrédit,1460.0,6,0.2335,260.17,658.0,0,0.111,Nantissement,Mobile/Digital,9,5.0,Remboursé
+CLI00919,2025-05-22,Agence Nord,Homme,42,Marié(e),Secondaire,Agriculture,670.0,7.0,Crédit consommation,6080.0,24,0.1749,302.04,617.0,2,0.451,Aucune,Agence,3,4.0,En cours
+CLI00920,2023-04-06,Agence Nord,Homme,22,Célibataire,Secondaire,Commerce,950.0,4.2,Microcrédit,440.0,12,0.248,41.78,539.0,1,0.044,Aucune,Agence,8,3.0,Remboursé
+CLI00921,2024-12-11,Agence Ouest,Femme,52,Marié(e),Primaire,Services,650.0,5.0,Microcrédit,530.0,18,0.2371,35.28,665.0,0,0.054,Caution personnelle,Recommandation,8,3.0,Remboursé
+CLI00922,2025-04-22,Agence Centre,Homme,38,Marié(e),Supérieur,Commerce,1120.0,2.0,Microcrédit,2690.0,12,0.2424,254.68,607.0,2,0.227,Caution personnelle,Mobile/Digital,1,5.0,Remboursé
+CLI00923,2024-04-09,Agence Centre,Homme,55,Célibataire,Primaire,Agriculture,640.0,7.0,Crédit consommation,4650.0,12,0.2014,431.06,484.0,2,0.674,Nantissement,Recommandation,6,3.0,Défaut
+CLI00924,2024-07-23,Agence Nord,Femme,46,Célibataire,Primaire,Industrie,490.0,5.2,Crédit PME,31070.0,24,0.1319,1479.9,620.0,0,1.5,Aucune,Agence,7,3.0,Défaut
+CLI00925,2025-03-22,Agence Est,Femme,51,Marié(e),Secondaire,Services,750.0,7.1,Crédit consommation,4290.0,36,0.2036,160.22,553.0,2,0.214,Hypothèque,Agence,7,5.0,En cours
+CLI00926,2025-07-18,Agence Ouest,Homme,45,Marié(e),Primaire,Commerce,880.0,2.1,Crédit consommation,2700.0,36,0.1336,91.44,755.0,0,0.104,Caution personnelle,Agence,4,4.0,En cours
+CLI00927,2023-02-02,Agence Sud,Femme,35,Célibataire,Secondaire,Agriculture,1530.0,2.3,Crédit agricole,1830.0,24,0.17,90.48,504.0,1,0.059,Caution personnelle,Agence,1,3.0,Défaut
+CLI00928,2024-06-01,Agence Ouest,Homme,37,Célibataire,Primaire,Agriculture,980.0,3.4,Crédit PME,8460.0,48,0.1443,233.01,569.0,1,0.238,Hypothèque,Mobile/Digital,7,3.0,En cours
+CLI00929,2024-02-14,Agence Sud,Femme,48,Marié(e),Secondaire,Fonction publique,850.0,12.7,Microcrédit,840.0,12,0.2186,78.56,673.0,0,0.092,Aucune,Recommandation,4,,Remboursé
+CLI00930,2023-08-19,Agence Ouest,Femme,36,Marié(e),Supérieur,Commerce,910.0,8.0,Crédit consommation,3940.0,12,0.2008,365.13,566.0,1,0.401,Caution personnelle,Agence,2,5.0,Remboursé
+CLI00931,2025-05-14,Agence Ouest,Homme,20,Célibataire,Supérieur,Services,850.0,14.6,Crédit PME,19300.0,48,0.1016,490.98,788.0,0,0.578,Caution personnelle,Mobile/Digital,6,3.0,En cours
+CLI00932,2023-05-14,Agence Ouest,Femme,39,Divorcé(e),Supérieur,Commerce,1670.0,1.4,Crédit immobilier,34910.0,180,0.0884,350.77,639.0,0,0.21,Hypothèque,Agence,12,4.0,Défaut
+CLI00933,2023-12-03,Agence Centre,Homme,42,Célibataire,Secondaire,Transport,650.0,6.6,Crédit consommation,7860.0,36,0.1679,279.41,641.0,0,0.43,Aucune,Agence,7,4.0,En cours
+CLI00934,2024-02-22,Agence Ouest,Homme,44,Célibataire,Supérieur,Commerce,1730.0,6.5,Crédit PME,32450.0,36,0.1238,1083.7,679.0,0,0.626,Hypothèque,Agent commercial,16,3.0,En cours
+CLI00935,2023-08-15,Agence Sud,Homme,46,Marié(e),Secondaire,Fonction publique,700.0,7.9,Crédit PME,28780.0,36,0.0847,908.11,850.0,0,1.297,Nantissement,Agence,7,4.0,Remboursé
+CLI00936,2024-11-15,Agence Centre,Femme,59,Marié(e),Primaire,Fonction publique,260.0,2.5,Crédit immobilier,25880.0,120,0.0746,306.66,681.0,0,1.179,Hypothèque,Agence,11,3.0,Défaut
+CLI00937,2024-10-01,Agence Centre,Homme,24,Marié(e),Supérieur,Transport,1550.0,5.0,Microcrédit,2790.0,6,0.2237,495.81,688.0,0,0.32,Nantissement,Agence,12,,Remboursé
+CLI00938,2023-01-05,Agence Centre,Femme,57,Marié(e),Supérieur,Agriculture,2400.0,3.6,Microcrédit,1930.0,6,0.2316,343.74,658.0,1,0.143,Caution personnelle,Mobile/Digital,6,3.0,Remboursé
+CLI00939,2023-06-05,Agence Sud,Femme,46,Célibataire,Supérieur,Services,1340.0,1.3,Microcrédit,1740.0,18,0.2256,114.84,622.0,1,0.086,Hypothèque,Agence,9,3.0,Remboursé
+CLI00940,2024-01-31,Agence Centre,Femme,39,Marié(e),Secondaire,Fonction publique,650.0,22.5,Crédit PME,34440.0,36,0.093,1100.0,789.0,0,1.5,Hypothèque,Mobile/Digital,8,4.0,En cours
+CLI00941,2025-05-30,Agence Nord,Homme,26,Célibataire,Primaire,Agriculture,290.0,5.4,Microcrédit,1960.0,12,0.2156,183.03,704.0,0,0.631,Aucune,Agence,4,,Défaut
+CLI00942,2024-02-08,Agence Centre,Homme,40,Célibataire,Supérieur,Commerce,1610.0,2.2,Crédit PME,8270.0,48,0.1253,219.94,626.0,1,0.137,Aucune,Recommandation,7,4.0,Défaut
+CLI00943,2024-03-01,Agence Centre,Homme,45,Marié(e),Secondaire,Industrie,930.0,3.6,Crédit agricole,7090.0,24,0.1641,348.54,553.0,0,0.375,Caution personnelle,Mobile/Digital,1,4.0,Remboursé
+CLI00944,2024-11-02,Agence Centre,Homme,39,Marié(e),Supérieur,Agriculture,1460.0,16.0,Microcrédit,1440.0,6,0.2089,254.83,664.0,0,0.175,Hypothèque,Recommandation,7,4.0,Remboursé
+CLI00945,2025-02-27,Agence Centre,Femme,35,Célibataire,Supérieur,Agriculture,1770.0,6.9,Crédit agricole,3500.0,24,0.1242,165.44,652.0,0,0.093,Caution personnelle,Recommandation,3,4.0,Défaut
+CLI00946,2023-07-14,Agence Ouest,Femme,33,Divorcé(e),Supérieur,Services,2310.0,0.7,Crédit PME,32880.0,24,0.168,1622.5,515.0,0,0.702,Caution personnelle,Recommandation,11,4.0,Remboursé
+CLI00947,2024-11-01,Agence Sud,Femme,31,Marié(e),Supérieur,Services,1840.0,4.8,Crédit immobilier,64150.0,180,0.11,729.13,545.0,0,0.396,Hypothèque,Mobile/Digital,12,4.0,Défaut
+CLI00948,2025-05-26,Agence Sud,Femme,46,Marié(e),Supérieur,Fonction publique,580.0,1.1,Microcrédit,2670.0,12,0.2491,253.65,505.0,1,0.437,Hypothèque,Recommandation,4,3.0,Défaut
+CLI00949,2025-06-08,Agence Ouest,Homme,45,Célibataire,Supérieur,Éducation/Santé,2320.0,3.4,Crédit immobilier,17320.0,180,0.0682,153.94,700.0,0,0.066,Hypothèque,Agence,19,4.0,En cours
+CLI00950,2023-11-22,Agence Sud,Homme,49,Marié(e),Secondaire,Fonction publique,850.0,6.5,Microcrédit,1310.0,6,0.2382,233.75,616.0,0,0.275,Aucune,Mobile/Digital,2,4.0,Remboursé
+CLI00951,2025-02-07,Agence Ouest,Homme,31,Marié(e),Supérieur,Agriculture,920.0,11.0,Crédit agricole,1990.0,6,0.1664,347.95,522.0,1,0.378,Caution personnelle,Agence,12,3.0,Remboursé
+CLI00952,2025-04-06,Agence Sud,Femme,52,Divorcé(e),Primaire,Fonction publique,550.0,2.0,Crédit immobilier,35620.0,120,0.1198,510.63,565.0,3,0.928,Hypothèque,Agence,14,4.0,En cours
+CLI00953,2023-06-02,Agence Nord,Femme,64,Marié(e),Supérieur,Commerce,1120.0,8.5,Microcrédit,2200.0,18,0.2205,144.66,666.0,0,0.129,Caution personnelle,Mobile/Digital,8,4.0,Remboursé
+CLI00954,2025-04-07,Agence Est,Homme,40,Célibataire,Supérieur,Services,1020.0,6.4,Crédit immobilier,24890.0,120,0.1013,330.72,545.0,0,0.324,Hypothèque,Recommandation,12,4.0,En cours
+CLI00955,2025-07-15,Agence Nord,Femme,51,Marié(e),Supérieur,Commerce,1690.0,10.1,Crédit agricole,5340.0,12,0.1498,481.93,558.0,1,0.285,Aucune,Mobile/Digital,3,4.0,Remboursé
+CLI00956,2025-06-03,Agence Centre,Homme,26,Veuf/Veuve,Primaire,Transport,630.0,4.1,Crédit immobilier,87050.0,120,0.0897,1101.3,624.0,0,1.5,Hypothèque,Agence,11,3.0,Défaut
+CLI00957,2025-05-21,Agence Centre,Femme,63,Célibataire,Secondaire,Agriculture,1310.0,1.8,Microcrédit,2460.0,18,0.2126,160.81,661.0,0,0.123,Caution personnelle,Agent commercial,5,3.0,En cours
+CLI00958,2023-09-16,Agence Ouest,Homme,45,Célibataire,Secondaire,Agriculture,760.0,7.2,Crédit consommation,2560.0,24,0.1987,130.13,558.0,2,0.171,Hypothèque,Agence,5,4.0,Remboursé
+CLI00959,2024-05-13,Agence Nord,Homme,51,Divorcé(e),Supérieur,Transport,1670.0,2.0,Crédit agricole,9660.0,6,0.1727,1692.06,480.0,1,1.013,Aucune,Recommandation,7,2.0,Défaut
+CLI00960,2025-04-19,Agence Ouest,Homme,42,Divorcé(e),Supérieur,Services,1320.0,3.7,Crédit immobilier,39530.0,120,0.054,427.05,722.0,0,0.324,Hypothèque,Agent commercial,10,4.0,En cours
+CLI00961,2023-03-30,Agence Nord,Homme,23,Célibataire,Primaire,Fonction publique,320.0,2.8,Crédit immobilier,18570.0,240,0.1031,183.04,632.0,1,0.572,Hypothèque,Agent commercial,10,3.0,En cours
+CLI00962,2023-08-19,Agence Centre,Femme,44,Célibataire,Secondaire,Transport,320.0,1.0,Microcrédit,890.0,18,0.2162,58.33,680.0,0,0.182,Hypothèque,Agence,4,4.0,Remboursé
+CLI00963,2023-07-27,Agence Sud,Homme,39,Divorcé(e),Primaire,Commerce,630.0,1.1,Crédit consommation,2580.0,24,0.1621,126.58,,1,0.201,Aucune,Recommandation,3,4.0,Remboursé
+CLI00964,2024-02-04,Agence Centre,Femme,48,Célibataire,Supérieur,Services,1670.0,7.8,Microcrédit,1240.0,12,0.2287,116.58,617.0,2,0.07,Aucune,Agent commercial,14,2.0,Remboursé
+CLI00965,2023-04-25,Agence Est,Femme,31,Célibataire,Supérieur,Éducation/Santé,1820.0,4.3,Crédit agricole,4460.0,12,0.1259,397.5,669.0,0,0.218,Caution personnelle,Recommandation,5,3.0,Remboursé
+CLI00966,2023-06-27,Agence Nord,Femme,20,Marié(e),Primaire,Commerce,440.0,6.1,Crédit consommation,6510.0,36,0.1703,232.2,661.0,0,0.528,Aucune,Agence,3,4.0,Remboursé
+CLI00967,2025-09-12,Agence Est,Femme,38,Célibataire,Secondaire,Services,1000.0,10.2,Crédit agricole,5230.0,6,0.1294,904.86,675.0,0,0.905,Hypothèque,Agence,13,4.0,Remboursé
+CLI00968,2024-04-29,Agence Centre,Homme,36,Marié(e),Primaire,Commerce,360.0,8.1,Crédit consommation,1100.0,36,0.1484,38.05,714.0,1,0.106,Caution personnelle,Agence,4,5.0,En cours
+CLI00969,2025-03-26,Agence Centre,Femme,46,Marié(e),Supérieur,Services,2370.0,16.3,Microcrédit,1420.0,6,0.2698,255.64,577.0,3,0.108,Hypothèque,Agent commercial,5,4.0,Défaut
+CLI00970,2023-03-17,Agence Centre,Homme,30,Marié(e),Secondaire,Agriculture,1220.0,6.1,Crédit agricole,5340.0,12,0.1437,480.39,616.0,1,0.394,Aucune,Agent commercial,4,4.0,Remboursé
+CLI00971,2023-02-20,Agence Ouest,Homme,35,Marié(e),Secondaire,Commerce,1370.0,4.5,Microcrédit,960.0,12,0.2437,90.95,583.0,1,0.066,Hypothèque,Agence,7,4.0,Remboursé
+CLI00972,2025-08-14,Agence Centre,Femme,35,Marié(e),Primaire,Agriculture,320.0,3.3,Crédit consommation,3800.0,36,0.169,135.29,595.0,0,0.423,Caution personnelle,Agence,10,4.0,Défaut
+CLI00973,2025-08-19,Agence Sud,Femme,32,Célibataire,Supérieur,Services,1880.0,2.4,Crédit consommation,2200.0,36,0.2152,83.47,413.0,1,0.044,Caution personnelle,Agent commercial,6,5.0,En cours
+CLI00974,2023-01-13,Agence Nord,Femme,45,Célibataire,Supérieur,Agriculture,1290.0,6.9,Microcrédit,1930.0,18,0.2673,131.32,478.0,1,0.102,Aucune,Agent commercial,15,3.0,Défaut
+CLI00975,2023-09-02,Agence Centre,Femme,36,Célibataire,Secondaire,Commerce,690.0,3.5,Crédit immobilier,30690.0,120,0.0658,349.73,698.0,0,0.507,Hypothèque,Agence,12,3.0,En cours
+CLI00976,2024-05-11,Agence Centre,Femme,34,Célibataire,Supérieur,Commerce,1590.0,9.0,Crédit PME,15260.0,60,0.1503,363.27,538.0,2,0.228,Caution personnelle,Mobile/Digital,7,4.0,En cours
+CLI00977,2024-10-04,Agence Sud,Homme,32,Marié(e),Secondaire,Commerce,740.0,5.4,Crédit agricole,2350.0,24,0.1493,113.87,565.0,1,0.154,Aucune,Mobile/Digital,4,3.0,En cours
+CLI00978,2025-04-18,Agence Nord,Femme,36,Célibataire,Supérieur,Industrie,850.0,9.1,Microcrédit,2530.0,18,0.2031,164.23,668.0,0,0.193,Caution personnelle,Agence,6,5.0,En cours
+CLI00979,2023-01-10,Agence Ouest,Homme,54,Marié(e),Supérieur,Transport,1860.0,6.8,Crédit PME,9230.0,24,0.1591,451.53,513.0,5,0.243,Caution personnelle,Agence,4,3.0,Défaut
+CLI00980,2023-05-13,Agence Est,Femme,37,Marié(e),Primaire,Industrie,560.0,4.4,Crédit agricole,9210.0,12,0.0954,807.74,803.0,0,1.442,Aucune,Agent commercial,9,5.0,Remboursé
+CLI00981,2023-01-23,Agence Est,Homme,32,Marié(e),Primaire,Fonction publique,470.0,3.9,Crédit PME,17260.0,48,0.094,432.8,772.0,0,0.921,Aucune,Agence,24,2.0,En cours
+CLI00982,2024-08-20,Agence Centre,Homme,40,Divorcé(e),Secondaire,Commerce,820.0,5.0,Crédit PME,17740.0,24,0.1857,890.55,452.0,1,1.086,Hypothèque,Agent commercial,6,4.0,Remboursé
+CLI00983,2024-06-24,Agence Nord,Homme,47,Célibataire,Supérieur,Industrie,1050.0,5.2,Crédit consommation,6890.0,36,0.1629,243.22,734.0,0,0.232,Nantissement,Recommandation,3,5.0,En cours
+CLI00984,2024-06-15,Agence Centre,Femme,39,Marié(e),Secondaire,Éducation/Santé,930.0,9.7,Crédit PME,28090.0,36,0.115,926.3,714.0,0,0.996,Aucune,Agence,14,5.0,En cours
+CLI00985,2023-07-21,Agence Ouest,Homme,43,Divorcé(e),Supérieur,Éducation/Santé,2810.0,2.4,Microcrédit,610.0,18,0.2126,39.88,718.0,0,0.014,Hypothèque,Mobile/Digital,11,4.0,Remboursé
+CLI00986,2025-01-27,Agence Centre,Homme,45,Marié(e),Supérieur,Commerce,1010.0,1.1,Crédit immobilier,25250.0,180,0.1094,286.04,507.0,1,0.283,Hypothèque,Agence,17,3.0,En cours
+CLI00987,2025-07-02,Agence Nord,Femme,47,Marié(e),Supérieur,Commerce,1270.0,5.6,Crédit immobilier,15800.0,240,0.0827,134.82,610.0,1,0.106,Hypothèque,Agence,25,3.0,En cours
+CLI00988,2024-11-29,Agence Centre,Homme,41,Célibataire,Primaire,Agriculture,360.0,13.0,Crédit agricole,7340.0,12,0.1293,655.35,664.0,0,1.5,Aucune,Agent commercial,8,4.0,Remboursé
+CLI00989,2025-09-11,Agence Centre,Femme,25,Célibataire,Supérieur,Commerce,1190.0,5.4,Crédit agricole,4290.0,12,0.1535,387.92,621.0,1,0.326,Caution personnelle,Agence,3,4.0,Remboursé
+CLI00990,2025-04-05,Agence Ouest,Homme,38,Marié(e),Secondaire,Éducation/Santé,1020.0,4.8,Microcrédit,2330.0,18,0.2213,153.29,668.0,1,0.15,Hypothèque,Mobile/Digital,5,3.0,En cours
+CLI00991,2023-03-25,Agence Sud,Femme,33,Célibataire,Supérieur,Commerce,2610.0,14.8,Crédit PME,27070.0,60,0.1191,600.93,642.0,0,0.23,Caution personnelle,Recommandation,21,2.0,Défaut
+CLI00992,2025-03-04,Agence Nord,Femme,46,Célibataire,Secondaire,Services,1380.0,2.2,Microcrédit,960.0,12,0.2197,89.84,742.0,0,0.065,Nantissement,Agence,7,4.0,Remboursé
+CLI00993,2024-09-10,Agence Est,Femme,52,Divorcé(e),Supérieur,Éducation/Santé,940.0,3.9,Crédit consommation,3790.0,24,0.1813,189.45,496.0,1,0.202,Hypothèque,Mobile/Digital,1,4.0,Remboursé
+CLI00994,2024-08-05,Agence Sud,Femme,35,Célibataire,Primaire,Éducation/Santé,450.0,12.2,Crédit PME,36370.0,36,0.1172,1203.15,711.0,0,1.5,Nantissement,Agence,9,3.0,Défaut
+CLI00995,2023-07-20,Agence Ouest,Femme,46,Marié(e),Secondaire,Services,700.0,2.7,Crédit consommation,2630.0,36,0.1416,90.09,713.0,0,0.129,Aucune,Agence,9,4.0,Remboursé
+CLI00945,2025-02-27,Agence Centre,Femme,35,Célibataire,Supérieur,Agriculture,1770.0,6.9,Crédit agricole,3500.0,24,0.1242,165.44,652.0,0,0.093,Caution personnelle,Recommandation,3,4.0,Défaut
+CLI00701,2025-02-06,Agence Centre,Homme,43,Marié(e),Supérieur,Transport,370.0,5.0,Microcrédit,900.0,18,0.1977,58.19,739.0,0,0.157,Hypothèque,Mobile/Digital,6,4.0,Remboursé
+CLI00080,2023-11-16,Agence Centre,Femme,35,Marié(e),Supérieur,Services,1180.0,8.4,Microcrédit,2740.0,18,0.2099,178.76,680.0,0,0.151,Aucune,Agence,5,4.0,Remboursé
+CLI00901,2023-12-16,Agence Sud,Femme,53,Célibataire,Supérieur,Commerce,1490.0,4.7,Crédit agricole,3540.0,24,0.1513,171.86,576.0,1,0.115,Caution personnelle,Agent commercial,6,4.0,Remboursé
+CLI00214,2024-08-29,Agence Ouest,Homme,20,Marié(e),Secondaire,Transport,580.0,8.0,Crédit immobilier,24140.0,240,0.0688,185.42,669.0,0,0.32,Hypothèque,Agence,9,4.0,En cours
